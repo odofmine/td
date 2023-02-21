@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "CAKE",
+      "pnl": 0.0305,
+      "pnl_value": 26.8515,
+      "weight": 0.0137,
+      "rank": 62,
+      "atr": 0.0455,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": 0.0189,
+      "pnl_value": 11.2786,
+      "weight": 0.0093,
+      "rank": 38,
+      "atr": 0.0674,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.032,
+      "pnl_value": -18.3197,
+      "weight": 0.0089,
+      "rank": 22,
+      "atr": 0.0702,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RSR",
+      "pnl": -0.0329,
+      "pnl_value": -16.5136,
+      "weight": 0.0078,
+      "rank": 98,
+      "atr": 0.0797,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MIOTA",
+      "pnl": -0.0403,
+      "pnl_value": -26.1623,
+      "weight": 0.0101,
+      "rank": 56,
+      "atr": 0.062,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ALGO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CAKE",
+      "rank": 62,
+      "atr": 0.0455,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MIOTA",
+      "rank": 56,
+      "atr": 0.062,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 38,
+      "atr": 0.0674,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 22,
+      "atr": 0.0702,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 98,
+      "atr": 0.0797,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 64232.9386,
+    "leverage": 0.0498,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0077,
+    "green_marketcap_pnt": 0
+  }
+}

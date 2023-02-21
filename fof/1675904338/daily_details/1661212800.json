@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": -0.0093,
+      "pnl_value": -0.0166,
+      "weight": 0.0096,
+      "rank": 106,
+      "atr": 0.0741,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0174,
+      "pnl_value": -0.0332,
+      "weight": 0.0103,
+      "rank": 37,
+      "atr": 0.0696,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 37,
+      "atr": 0.0696,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 106,
+      "atr": 0.0741,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 183.7303,
+    "leverage": 0.0199,
+    "atr": 0.0014,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

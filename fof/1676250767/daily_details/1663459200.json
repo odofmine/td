@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": -0.0491,
+      "pnl_value": -24.9038,
+      "weight": 0.0079,
+      "rank": 42,
+      "atr": 0.0769,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0492,
+      "pnl_value": -37.8451,
+      "weight": 0.012,
+      "rank": 7,
+      "atr": 0.051,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 7,
+      "atr": 0.051,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 42,
+      "atr": 0.0769,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 64085.3827,
+    "leverage": 0.0199,
+    "atr": 0.0012,
+    "marketcap_pnt": 0.0181,
+    "green_marketcap_pnt": 0
+  }
+}

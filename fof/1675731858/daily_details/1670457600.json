@@ -1,0 +1,78 @@
+{
+  "pnls": [
+    {
+      "name": "GLMR",
+      "pnl": 0.012,
+      "pnl_value": 8.0466,
+      "weight": 0.0112,
+      "rank": 130,
+      "atr": 0.081,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AXS",
+      "pnl": -0.0193,
+      "pnl_value": -10.2841,
+      "weight": 0.0089,
+      "rank": 56,
+      "atr": 0.1018,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "RUNE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "YFI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GLMR",
+      "rank": 130,
+      "atr": 0.081,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AXS",
+      "rank": 56,
+      "atr": 0.1018,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0,
+    "cum_pnl": 59771.5662,
+    "leverage": 0.0201,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

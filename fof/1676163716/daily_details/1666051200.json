@@ -1,0 +1,201 @@
+{
+  "pnls": [
+    {
+      "name": "REEF",
+      "pnl": 0.103,
+      "pnl_value": 0.1508,
+      "weight": 0.0081,
+      "rank": 153,
+      "atr": 0.0833,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FXS",
+      "pnl": 0.0964,
+      "pnl_value": 0.1951,
+      "weight": 0.0112,
+      "rank": 184,
+      "atr": 0.0605,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WOO",
+      "pnl": 0.0743,
+      "pnl_value": 0.1249,
+      "weight": 0.0093,
+      "rank": 135,
+      "atr": 0.0722,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": 0.0549,
+      "pnl_value": 0.0884,
+      "weight": 0.0089,
+      "rank": 136,
+      "atr": 0.0759,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0185,
+      "pnl_value": 0.0405,
+      "weight": 0.0121,
+      "rank": 11,
+      "atr": 0.0559,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": 0.0092,
+      "pnl_value": 0.017,
+      "weight": 0.0103,
+      "rank": 50,
+      "atr": 0.0653,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0095,
+      "pnl_value": -0.0134,
+      "weight": 0.0078,
+      "rank": 158,
+      "atr": 0.0859,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ENS",
+      "pnl": -0.0129,
+      "pnl_value": -0.022,
+      "weight": 0.0094,
+      "rank": 83,
+      "atr": 0.072,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TWT",
+      "pnl": -0.0277,
+      "pnl_value": -0.0691,
+      "weight": 0.0138,
+      "rank": 76,
+      "atr": 0.0489,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PYR",
+      "pnl": -0.0776,
+      "pnl_value": -0.108,
+      "weight": 0.0077,
+      "rank": 176,
+      "atr": 0.0871,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.123,
+      "pnl_value": -0.2623,
+      "weight": 0.0118,
+      "rank": 29,
+      "atr": 0.0571,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TWT",
+      "rank": 76,
+      "atr": 0.0489,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 11,
+      "atr": 0.0559,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 29,
+      "atr": 0.0571,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FXS",
+      "rank": 184,
+      "atr": 0.0605,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 50,
+      "atr": 0.0653,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 83,
+      "atr": 0.072,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WOO",
+      "rank": 135,
+      "atr": 0.0722,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 136,
+      "atr": 0.0759,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REEF",
+      "rank": 153,
+      "atr": 0.0833,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 158,
+      "atr": 0.0859,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PYR",
+      "rank": 176,
+      "atr": 0.0871,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 179.8901,
+    "leverage": 0.1104,
+    "atr": 0.0074,
+    "marketcap_pnt": 0.0131,
+    "green_marketcap_pnt": 0
+  }
+}

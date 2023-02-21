@@ -1,0 +1,180 @@
+{
+  "pnls": [
+    {
+      "name": "SUSHI",
+      "pnl": 0.0248,
+      "pnl_value": 147.4839,
+      "weight": 0.0941,
+      "rank": 158,
+      "atr": 0.073,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": 0.018,
+      "pnl_value": 117.5214,
+      "weight": 0.1033,
+      "rank": 58,
+      "atr": 0.0665,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CVX",
+      "pnl": 0.014,
+      "pnl_value": 88.084,
+      "weight": 0.0995,
+      "rank": 100,
+      "atr": 0.069,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ENS",
+      "pnl": 0.0076,
+      "pnl_value": 42.5243,
+      "weight": 0.0891,
+      "rank": 110,
+      "atr": 0.0771,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": 0.0016,
+      "pnl_value": 13.494,
+      "weight": 0.1316,
+      "rank": 45,
+      "atr": 0.0522,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0124,
+      "pnl_value": -75.474,
+      "weight": 0.0968,
+      "rank": 17,
+      "atr": 0.0709,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0124,
+      "pnl_value": -67.5629,
+      "weight": 0.0867,
+      "rank": 172,
+      "atr": 0.0792,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "COTI",
+      "pnl": -0.0212,
+      "pnl_value": -131.8907,
+      "weight": 0.0987,
+      "rank": 165,
+      "atr": 0.0696,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EGLD",
+      "rank": 45,
+      "atr": 0.0522,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 58,
+      "atr": 0.0665,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVX",
+      "rank": 100,
+      "atr": 0.069,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COTI",
+      "rank": 165,
+      "atr": 0.0696,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 17,
+      "atr": 0.0709,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 158,
+      "atr": 0.073,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 110,
+      "atr": 0.0771,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 172,
+      "atr": 0.0792,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0021,
+    "cum_pnl": 63205.5447,
+    "leverage": 0.7998,
+    "atr": 0.0549,
+    "marketcap_pnt": 0.0083,
+    "green_marketcap_pnt": 0
+  }
+}

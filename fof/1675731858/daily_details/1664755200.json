@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": -0.0135,
+      "pnl_value": -9.9555,
+      "weight": 0.0115,
+      "rank": 25,
+      "atr": 0.0574,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RSR",
+      "pnl": -0.0149,
+      "pnl_value": -8.0399,
+      "weight": 0.0084,
+      "rank": 81,
+      "atr": 0.0783,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 25,
+      "atr": 0.0574,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 81,
+      "atr": 0.0783,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 64042.5255,
+    "leverage": 0.0199,
+    "atr": 0.0013,
+    "marketcap_pnt": 0.0038,
+    "green_marketcap_pnt": 0
+  }
+}

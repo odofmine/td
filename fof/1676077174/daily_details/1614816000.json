@@ -1,0 +1,160 @@
+{
+  "pnls": [
+    {
+      "name": "FLOW",
+      "pnl": 0.2024,
+      "pnl_value": 33.6375,
+      "weight": 0.0276,
+      "rank": 88,
+      "atr": 0.0735,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.1169,
+      "pnl_value": 16.9569,
+      "weight": 0.0241,
+      "rank": 25,
+      "atr": 0.0841,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0301,
+      "pnl_value": -3.4961,
+      "weight": 0.0193,
+      "rank": 142,
+      "atr": 0.1049,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RSR",
+      "pnl": -0.0565,
+      "pnl_value": -4.864,
+      "weight": 0.0143,
+      "rank": 87,
+      "atr": 0.141,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RUNE",
+      "pnl": -0.0792,
+      "pnl_value": -8.5792,
+      "weight": 0.018,
+      "rank": 64,
+      "atr": 0.1126,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0936,
+      "pnl_value": -12.2247,
+      "weight": 0.0217,
+      "rank": 71,
+      "atr": 0.0934,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "UNFI",
+      "pnl": -0.1073,
+      "pnl_value": -8.7214,
+      "weight": 0.0135,
+      "rank": 178,
+      "atr": 0.1502,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.127,
+      "pnl_value": -18.7418,
+      "weight": 0.0245,
+      "rank": 108,
+      "atr": 0.0826,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLOW",
+      "rank": 88,
+      "atr": 0.0735,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 108,
+      "atr": 0.0826,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 25,
+      "atr": 0.0841,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 71,
+      "atr": 0.0934,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 142,
+      "atr": 0.1049,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 64,
+      "atr": 0.1126,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 87,
+      "atr": 0.141,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNFI",
+      "rank": 178,
+      "atr": 0.1502,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 6014.372,
+    "leverage": 0.163,
+    "atr": 0.0162,
+    "marketcap_pnt": 0.0047,
+    "green_marketcap_pnt": 0
+  }
+}

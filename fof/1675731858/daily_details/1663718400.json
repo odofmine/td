@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "APE",
+      "pnl": 0.0113,
+      "pnl_value": 4.7323,
+      "weight": 0.0065,
+      "rank": 34,
+      "atr": 0.0972,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": -0.0231,
+      "pnl_value": -19.2521,
+      "weight": 0.013,
+      "rank": 61,
+      "atr": 0.0486,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTRST",
+      "pnl": -0.042,
+      "pnl_value": -22.0925,
+      "weight": 0.0082,
+      "rank": 115,
+      "atr": 0.0762,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0475,
+      "pnl_value": -24.0593,
+      "weight": 0.0079,
+      "rank": 37,
+      "atr": 0.0792,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0487,
+      "pnl_value": -36.9094,
+      "weight": 0.0118,
+      "rank": 7,
+      "atr": 0.0533,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0563,
+      "pnl_value": -44.4094,
+      "weight": 0.0123,
+      "rank": 26,
+      "atr": 0.0513,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CAKE",
+      "rank": 61,
+      "atr": 0.0486,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 26,
+      "atr": 0.0513,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 7,
+      "atr": 0.0533,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTRST",
+      "rank": 115,
+      "atr": 0.0762,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 37,
+      "atr": 0.0792,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "APE",
+      "rank": 34,
+      "atr": 0.0972,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0022,
+    "cum_pnl": 64025.7643,
+    "leverage": 0.0597,
+    "atr": 0.0038,
+    "marketcap_pnt": 0.0265,
+    "green_marketcap_pnt": 0
+  }
+}

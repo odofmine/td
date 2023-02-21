@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": 0.0309,
+      "pnl_value": 17.9148,
+      "weight": 0.0084,
+      "rank": 91,
+      "atr": 0.082,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTRST",
+      "pnl": -0.0136,
+      "pnl_value": -11.9894,
+      "weight": 0.0128,
+      "rank": 148,
+      "atr": 0.0538,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0653,
+      "pnl_value": -45.0291,
+      "weight": 0.01,
+      "rank": 85,
+      "atr": 0.0691,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "APE",
+      "pnl": -0.0666,
+      "pnl_value": -46.8491,
+      "weight": 0.0102,
+      "rank": 29,
+      "atr": 0.0676,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": -0.1378,
+      "pnl_value": -79.8047,
+      "weight": 0.0084,
+      "rank": 75,
+      "atr": 0.0817,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CAKE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTRST",
+      "rank": 148,
+      "atr": 0.0538,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "APE",
+      "rank": 29,
+      "atr": 0.0676,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 85,
+      "atr": 0.0691,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 75,
+      "atr": 0.0817,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 91,
+      "atr": 0.082,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0024,
+    "cum_pnl": 68800.2264,
+    "leverage": 0.0498,
+    "atr": 0.0034,
+    "marketcap_pnt": 0.0045,
+    "green_marketcap_pnt": 0
+  }
+}

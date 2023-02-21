@@ -1,0 +1,177 @@
+{
+  "pnls": [
+    {
+      "name": "MINA",
+      "pnl": 0.1527,
+      "pnl_value": 75.0663,
+      "weight": 0.0079,
+      "rank": 57,
+      "atr": 0.0854,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SKL",
+      "pnl": 0.124,
+      "pnl_value": 58.6739,
+      "weight": 0.0076,
+      "rank": 144,
+      "atr": 0.0888,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0778,
+      "pnl_value": 65.3787,
+      "weight": 0.0135,
+      "rank": 65,
+      "atr": 0.0504,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HBAR",
+      "pnl": 0.0459,
+      "pnl_value": 29.4212,
+      "weight": 0.0103,
+      "rank": 28,
+      "atr": 0.066,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SXP",
+      "pnl": 0.0422,
+      "pnl_value": 27.2976,
+      "weight": 0.0104,
+      "rank": 159,
+      "atr": 0.0653,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": 0.0289,
+      "pnl_value": 17.9968,
+      "weight": 0.01,
+      "rank": 87,
+      "atr": 0.0677,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XCN",
+      "pnl": -0.0706,
+      "pnl_value": -39.093,
+      "weight": 0.0089,
+      "rank": 118,
+      "atr": 0.076,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TRAC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ASTR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BNX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 65,
+      "atr": 0.0504,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNX",
+      "rank": 88,
+      "atr": 0.0522,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SXP",
+      "rank": 159,
+      "atr": 0.0653,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 28,
+      "atr": 0.066,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 87,
+      "atr": 0.0677,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 169,
+      "atr": 0.0706,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XCN",
+      "rank": 118,
+      "atr": 0.076,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MINA",
+      "rank": 57,
+      "atr": 0.0854,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SKL",
+      "rank": 144,
+      "atr": 0.0888,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0038,
+    "cum_pnl": 62478.2489,
+    "leverage": 0.0686,
+    "atr": 0.0047,
+    "marketcap_pnt": 0.0049,
+    "green_marketcap_pnt": 0
+  }
+}
