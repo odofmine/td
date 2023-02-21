@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "GMT",
+      "pnl": -0.0948,
+      "pnl_value": -0.0039,
+      "weight": 0.01,
+      "rank": 63,
+      "atr": 0.0876,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AUDIO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GMT",
+      "rank": 63,
+      "atr": 0.0876,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 3.0867,
+    "leverage": 0.01,
+    "atr": 0.0009,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "YFII",
+      "pnl": 0.0948,
+      "pnl_value": 0.0035,
+      "weight": 0.0101,
+      "rank": 185,
+      "atr": 0.0601,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "YFII",
+      "rank": 185,
+      "atr": 0.0601,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.001,
+    "cum_pnl": 2.6689,
+    "leverage": 0.0101,
+    "atr": 0.0006,
+    "marketcap_pnt": 0.0001,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.2878,
+      "pnl_value": 0.0177,
+      "weight": 0.0173,
+      "rank": 13,
+      "atr": 0.0651,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": 0.2434,
+      "pnl_value": 0.0085,
+      "weight": 0.0098,
+      "rank": 117,
+      "atr": 0.1144,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.0415,
+      "pnl_value": 0.0016,
+      "weight": 0.0105,
+      "rank": 138,
+      "atr": 0.1068,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0162,
+      "pnl_value": 0.0008,
+      "weight": 0.0135,
+      "rank": 60,
+      "atr": 0.0833,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.01,
+      "pnl_value": 0.0004,
+      "weight": 0.0109,
+      "rank": 7,
+      "atr": 0.1028,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DNT",
+      "pnl": 0.0055,
+      "pnl_value": 0.0002,
+      "weight": 0.0089,
+      "rank": 183,
+      "atr": 0.1267,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COTI",
+      "pnl": 0.0044,
+      "pnl_value": 0.0002,
+      "weight": 0.0104,
+      "rank": 141,
+      "atr": 0.108,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STRAX",
+      "pnl": -0.0161,
+      "pnl_value": -0.0006,
+      "weight": 0.0097,
+      "rank": 182,
+      "atr": 0.1163,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELR",
+      "pnl": -0.0224,
+      "pnl_value": -0.001,
+      "weight": 0.0124,
+      "rank": 125,
+      "atr": 0.0909,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STMX",
+      "pnl": -0.0311,
+      "pnl_value": -0.0012,
+      "weight": 0.0111,
+      "rank": 110,
+      "atr": 0.1012,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DENT",
+      "pnl": -0.0314,
+      "pnl_value": -0.0019,
+      "weight": 0.0173,
+      "rank": 100,
+      "atr": 0.0651,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FUN",
+      "pnl": -0.0467,
+      "pnl_value": -0.0014,
+      "weight": 0.0085,
+      "rank": 128,
+      "atr": 0.1317,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTT",
+      "pnl": -0.0592,
+      "pnl_value": -0.0026,
+      "weight": 0.0123,
+      "rank": 31,
+      "atr": 0.0912,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VET",
+      "pnl": -0.0605,
+      "pnl_value": -0.0028,
+      "weight": 0.0129,
+      "rank": 18,
+      "atr": 0.0871,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NPXS",
+      "pnl": -0.068,
+      "pnl_value": -0.0032,
+      "weight": 0.0132,
+      "rank": 56,
+      "atr": 0.0852,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VTHO",
+      "pnl": -0.0801,
+      "pnl_value": -0.0032,
+      "weight": 0.0112,
+      "rank": 99,
+      "atr": 0.1005,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OXT",
+      "pnl": -0.0829,
+      "pnl_value": -0.0029,
+      "weight": 0.0099,
+      "rank": 146,
+      "atr": 0.1135,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": -0.0934,
+      "pnl_value": -0.0039,
+      "weight": 0.0116,
+      "rank": 92,
+      "atr": 0.0966,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MFT",
+      "pnl": -0.0958,
+      "pnl_value": -0.0029,
+      "weight": 0.0084,
+      "rank": 147,
+      "atr": 0.1343,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FIL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DGB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "RSR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AKRO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TOMO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SXP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 13,
+      "atr": 0.0651,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DENT",
+      "rank": 100,
+      "atr": 0.0651,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 60,
+      "atr": 0.0833,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NPXS",
+      "rank": 56,
+      "atr": 0.0852,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 18,
+      "atr": 0.0871,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 125,
+      "atr": 0.0909,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTT",
+      "rank": 31,
+      "atr": 0.0912,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 92,
+      "atr": 0.0966,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTHO",
+      "rank": 99,
+      "atr": 0.1005,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STMX",
+      "rank": 110,
+      "atr": 0.1012,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 7,
+      "atr": 0.1028,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 138,
+      "atr": 0.1068,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COTI",
+      "rank": 141,
+      "atr": 0.108,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OXT",
+      "rank": 146,
+      "atr": 0.1135,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 117,
+      "atr": 0.1144,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STRAX",
+      "rank": 182,
+      "atr": 0.1163,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DNT",
+      "rank": 183,
+      "atr": 0.1267,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FUN",
+      "rank": 128,
+      "atr": 0.1317,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MFT",
+      "rank": 147,
+      "atr": 0.1343,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 2.5611,
+    "leverage": 0.2198,
+    "atr": 0.0214,
+    "marketcap_pnt": 0.0294,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "GMT",
+      "pnl": -0.0831,
+      "pnl_value": -0.003,
+      "weight": 0.0089,
+      "rank": 52,
+      "atr": 0.0963,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.1682,
+      "pnl_value": -0.0076,
+      "weight": 0.011,
+      "rank": 85,
+      "atr": 0.0782,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KAVA",
+      "rank": 85,
+      "atr": 0.0782,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GMT",
+      "rank": 52,
+      "atr": 0.0963,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0026,
+    "cum_pnl": 3.0698,
+    "leverage": 0.0199,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

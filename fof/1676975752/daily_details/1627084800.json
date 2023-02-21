@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "CHR",
+      "pnl": 0.0394,
+      "pnl_value": 0.0014,
+      "weight": 0.009,
+      "rank": 195,
+      "atr": 0.1218,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.0609,
+      "pnl_value": -0.0028,
+      "weight": 0.0111,
+      "rank": 137,
+      "atr": 0.0988,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TOMO",
+      "rank": 137,
+      "atr": 0.0988,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHR",
+      "rank": 195,
+      "atr": 0.1218,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 3.0688,
+    "leverage": 0.0201,
+    "atr": 0.0022,
+    "marketcap_pnt": 0.0003,
+    "green_marketcap_pnt": 0
+  }
+}

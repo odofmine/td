@@ -1,0 +1,176 @@
+{
+  "pnls": [
+    {
+      "name": "HIVE",
+      "pnl": 0.0814,
+      "pnl_value": 0.0034,
+      "weight": 0.0106,
+      "rank": 161,
+      "atr": 0.0966,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": 0.0678,
+      "pnl_value": 0.0029,
+      "weight": 0.0109,
+      "rank": 175,
+      "atr": 0.0939,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.0228,
+      "pnl_value": -0.0011,
+      "weight": 0.0118,
+      "rank": 107,
+      "atr": 0.0866,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0387,
+      "pnl_value": -0.0015,
+      "weight": 0.0098,
+      "rank": 64,
+      "atr": 0.1044,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.04,
+      "pnl_value": -0.0014,
+      "weight": 0.009,
+      "rank": 192,
+      "atr": 0.1141,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ALICE",
+      "pnl": -0.0447,
+      "pnl_value": -0.0014,
+      "weight": 0.0082,
+      "rank": 151,
+      "atr": 0.1253,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "INJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ROSE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LRC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "STMX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ANKR",
+      "rank": 107,
+      "atr": 0.0866,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 175,
+      "atr": 0.0939,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HIVE",
+      "rank": 161,
+      "atr": 0.0966,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 64,
+      "atr": 0.1044,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 192,
+      "atr": 0.1141,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALICE",
+      "rank": 151,
+      "atr": 0.1253,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 2.9436,
+    "leverage": 0.0603,
+    "atr": 0.0061,
+    "marketcap_pnt": 0.0021,
+    "green_marketcap_pnt": 0
+  }
+}

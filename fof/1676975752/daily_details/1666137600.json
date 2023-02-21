@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "SUSHI",
+      "pnl": -0.008,
+      "pnl_value": -0.0003,
+      "weight": 0.0095,
+      "rank": 136,
+      "atr": 0.0729,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0118,
+      "pnl_value": -0.0005,
+      "weight": 0.0106,
+      "rank": 50,
+      "atr": 0.0651,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0226,
+      "pnl_value": -0.0011,
+      "weight": 0.0126,
+      "rank": 11,
+      "atr": 0.0548,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0343,
+      "pnl_value": -0.0013,
+      "weight": 0.0096,
+      "rank": 99,
+      "atr": 0.0722,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0541,
+      "pnl_value": -0.0017,
+      "weight": 0.008,
+      "rank": 158,
+      "atr": 0.0862,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 11,
+      "atr": 0.0548,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 50,
+      "atr": 0.0651,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 99,
+      "atr": 0.0722,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 136,
+      "atr": 0.0729,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 158,
+      "atr": 0.0862,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 2.8388,
+    "leverage": 0.0503,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.0094,
+    "green_marketcap_pnt": 0
+  }
+}

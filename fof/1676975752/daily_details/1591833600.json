@@ -1,0 +1,177 @@
+{
+  "pnls": [
+    {
+      "name": "ZIL",
+      "pnl": -0.0842,
+      "pnl_value": -0.0021,
+      "weight": 0.0195,
+      "rank": 43,
+      "atr": 0.0604,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0857,
+      "pnl_value": -0.0025,
+      "weight": 0.023,
+      "rank": 17,
+      "atr": 0.0512,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0936,
+      "pnl_value": -0.0017,
+      "weight": 0.0141,
+      "rank": 149,
+      "atr": 0.0836,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": -0.1066,
+      "pnl_value": -0.0021,
+      "weight": 0.0153,
+      "rank": 134,
+      "atr": 0.0769,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NANO",
+      "pnl": -0.1111,
+      "pnl_value": -0.0025,
+      "weight": 0.0174,
+      "rank": 62,
+      "atr": 0.0679,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.1115,
+      "pnl_value": -0.0027,
+      "weight": 0.019,
+      "rank": 36,
+      "atr": 0.0621,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AION",
+      "pnl": -0.1261,
+      "pnl_value": -0.0021,
+      "weight": 0.0131,
+      "rank": 131,
+      "atr": 0.0897,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STRAT",
+      "pnl": -0.1361,
+      "pnl_value": -0.0027,
+      "weight": 0.0157,
+      "rank": 165,
+      "atr": 0.0751,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.1374,
+      "pnl_value": -0.0026,
+      "weight": 0.0149,
+      "rank": 45,
+      "atr": 0.079,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KAVA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 17,
+      "atr": 0.0512,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 43,
+      "atr": 0.0604,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 36,
+      "atr": 0.0621,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 62,
+      "atr": 0.0679,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STRAT",
+      "rank": 165,
+      "atr": 0.0751,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 134,
+      "atr": 0.0769,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 45,
+      "atr": 0.079,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 149,
+      "atr": 0.0836,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AION",
+      "rank": 131,
+      "atr": 0.0897,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0165,
+    "cum_pnl": 0.2533,
+    "leverage": 0.152,
+    "atr": 0.0106,
+    "marketcap_pnt": 0.0082,
+    "green_marketcap_pnt": 0
+  }
+}

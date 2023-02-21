@@ -1,0 +1,186 @@
+{
+  "pnls": [
+    {
+      "name": "VET",
+      "pnl": 0.099,
+      "pnl_value": 0.0045,
+      "weight": 0.0117,
+      "rank": 13,
+      "atr": 0.0836,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0096,
+      "pnl_value": 0.0004,
+      "weight": 0.0111,
+      "rank": 35,
+      "atr": 0.0877,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": 0.0052,
+      "pnl_value": 0.0002,
+      "weight": 0.0121,
+      "rank": 19,
+      "atr": 0.081,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.008,
+      "pnl_value": -0.0004,
+      "weight": 0.0134,
+      "rank": 21,
+      "atr": 0.0731,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0157,
+      "pnl_value": -0.0007,
+      "weight": 0.0114,
+      "rank": 44,
+      "atr": 0.0856,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DGB",
+      "pnl": -0.0336,
+      "pnl_value": -0.0013,
+      "weight": 0.0099,
+      "rank": 67,
+      "atr": 0.099,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LRC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "VTHO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "YFI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEO",
+      "rank": 21,
+      "atr": 0.0731,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 19,
+      "atr": 0.081,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 13,
+      "atr": 0.0836,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 44,
+      "atr": 0.0856,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 35,
+      "atr": 0.0877,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 67,
+      "atr": 0.099,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 2.9095,
+    "leverage": 0.0696,
+    "atr": 0.0059,
+    "marketcap_pnt": 0.0211,
+    "green_marketcap_pnt": 0
+  }
+}

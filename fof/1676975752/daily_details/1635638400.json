@@ -1,0 +1,343 @@
+{
+  "pnls": [
+    {
+      "name": "HOT",
+      "pnl": 0.3236,
+      "pnl_value": 0.0134,
+      "weight": 0.0105,
+      "rank": 71,
+      "atr": 0.0893,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LRC",
+      "pnl": 0.1523,
+      "pnl_value": 0.0062,
+      "weight": 0.0103,
+      "rank": 129,
+      "atr": 0.091,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0375,
+      "pnl_value": 0.0017,
+      "weight": 0.0112,
+      "rank": 18,
+      "atr": 0.084,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": 0.0366,
+      "pnl_value": 0.0019,
+      "weight": 0.0134,
+      "rank": 76,
+      "atr": 0.0702,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SHIB",
+      "pnl": 0.0254,
+      "pnl_value": 0.001,
+      "weight": 0.0096,
+      "rank": 9,
+      "atr": 0.0977,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GNO",
+      "pnl": -0.0044,
+      "pnl_value": -0.0003,
+      "weight": 0.0152,
+      "rank": 126,
+      "atr": 0.0616,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0072,
+      "pnl_value": -0.0005,
+      "weight": 0.0169,
+      "rank": 3,
+      "atr": 0.0557,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "1INCH",
+      "pnl": -0.0254,
+      "pnl_value": -0.0009,
+      "weight": 0.0091,
+      "rank": 119,
+      "atr": 0.1034,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0265,
+      "pnl_value": -0.0011,
+      "weight": 0.0103,
+      "rank": 35,
+      "atr": 0.0913,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HNT",
+      "pnl": -0.0482,
+      "pnl_value": -0.0026,
+      "weight": 0.0138,
+      "rank": 55,
+      "atr": 0.0678,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAXP",
+      "pnl": -0.0638,
+      "pnl_value": -0.0026,
+      "weight": 0.0103,
+      "rank": 128,
+      "atr": 0.0911,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": -0.0863,
+      "pnl_value": -0.0043,
+      "weight": 0.0127,
+      "rank": 73,
+      "atr": 0.0738,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.1198,
+      "pnl_value": -0.0055,
+      "weight": 0.0115,
+      "rank": 32,
+      "atr": 0.0815,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.1527,
+      "pnl_value": -0.0083,
+      "weight": 0.0138,
+      "rank": 68,
+      "atr": 0.0681,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -1.0,
+      "pnl_value": -0.0585,
+      "weight": 0.0148,
+      "rank": 88,
+      "atr": 0.0636,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -1.0,
+      "pnl_value": -0.0482,
+      "weight": 0.0122,
+      "rank": 65,
+      "atr": 0.0766,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AXS",
+      "pnl": -1.0,
+      "pnl_value": -0.0435,
+      "weight": 0.011,
+      "rank": 22,
+      "atr": 0.0851,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NANO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DOGE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "COTI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 3,
+      "atr": 0.0557,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GNO",
+      "rank": 126,
+      "atr": 0.0616,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 88,
+      "atr": 0.0636,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 55,
+      "atr": 0.0678,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 68,
+      "atr": 0.0681,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 76,
+      "atr": 0.0702,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 73,
+      "atr": 0.0738,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 65,
+      "atr": 0.0766,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 32,
+      "atr": 0.0815,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 18,
+      "atr": 0.084,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AXS",
+      "rank": 22,
+      "atr": 0.0851,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 71,
+      "atr": 0.0893,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 129,
+      "atr": 0.091,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAXP",
+      "rank": 128,
+      "atr": 0.0911,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 35,
+      "atr": 0.0913,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 9,
+      "atr": 0.0977,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "1INCH",
+      "rank": 119,
+      "atr": 0.1034,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0385,
+    "cum_pnl": 2.8026,
+    "leverage": 0.2066,
+    "atr": 0.016,
+    "marketcap_pnt": 0.0702,
+    "green_marketcap_pnt": 0
+  }
+}

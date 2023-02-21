@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "ICX",
+      "pnl": 0.0519,
+      "pnl_value": 0.0012,
+      "weight": 0.0212,
+      "rank": 69,
+      "atr": 0.0583,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BEAM",
+      "pnl": -0.0093,
+      "pnl_value": -0.0001,
+      "weight": 0.0151,
+      "rank": 138,
+      "atr": 0.0816,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ICX",
+      "rank": 69,
+      "atr": 0.0583,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BEAM",
+      "rank": 138,
+      "atr": 0.0816,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.001,
+    "cum_pnl": 0.0521,
+    "leverage": 0.0363,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

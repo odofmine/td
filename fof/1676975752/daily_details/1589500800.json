@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "NANO",
+      "pnl": 0.0316,
+      "pnl_value": 0.0007,
+      "weight": 0.0173,
+      "rank": 81,
+      "atr": 0.081,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0061,
+      "pnl_value": 0.0001,
+      "weight": 0.0156,
+      "rank": 185,
+      "atr": 0.0901,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.0012,
+      "pnl_value": 0.0,
+      "weight": 0.0175,
+      "rank": 59,
+      "atr": 0.08,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0062,
+      "pnl_value": -0.0001,
+      "weight": 0.0163,
+      "rank": 96,
+      "atr": 0.0859,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.0392,
+      "pnl_value": -0.001,
+      "weight": 0.02,
+      "rank": 88,
+      "atr": 0.0701,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0467,
+      "pnl_value": -0.0009,
+      "weight": 0.0164,
+      "rank": 105,
+      "atr": 0.0857,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZIL",
+      "rank": 88,
+      "atr": 0.0701,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 59,
+      "atr": 0.08,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 81,
+      "atr": 0.081,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 105,
+      "atr": 0.0857,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 96,
+      "atr": 0.0859,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 185,
+      "atr": 0.0901,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 0.2314,
+    "leverage": 0.1031,
+    "atr": 0.0084,
+    "marketcap_pnt": 0.0017,
+    "green_marketcap_pnt": 0
+  }
+}

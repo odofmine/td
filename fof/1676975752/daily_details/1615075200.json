@@ -1,0 +1,296 @@
+{
+  "pnls": [
+    {
+      "name": "COTI",
+      "pnl": 0.2657,
+      "pnl_value": 0.0078,
+      "weight": 0.01,
+      "rank": 165,
+      "atr": 0.1055,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.2207,
+      "pnl_value": 0.0066,
+      "weight": 0.0102,
+      "rank": 91,
+      "atr": 0.1035,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": 0.2003,
+      "pnl_value": 0.006,
+      "weight": 0.0102,
+      "rank": 13,
+      "atr": 0.1033,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": 0.1396,
+      "pnl_value": 0.0041,
+      "weight": 0.01,
+      "rank": 104,
+      "atr": 0.105,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANKR",
+      "pnl": 0.0727,
+      "pnl_value": 0.0018,
+      "weight": 0.0086,
+      "rank": 140,
+      "atr": 0.1221,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VET",
+      "pnl": 0.0638,
+      "pnl_value": 0.0017,
+      "weight": 0.0091,
+      "rank": 28,
+      "atr": 0.1157,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HBAR",
+      "pnl": 0.0489,
+      "pnl_value": 0.0013,
+      "weight": 0.0088,
+      "rank": 68,
+      "atr": 0.1189,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0437,
+      "pnl_value": 0.0016,
+      "weight": 0.0123,
+      "rank": 25,
+      "atr": 0.0858,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": 0.0434,
+      "pnl_value": 0.0014,
+      "weight": 0.0106,
+      "rank": 89,
+      "atr": 0.0988,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": 0.0163,
+      "pnl_value": 0.0005,
+      "weight": 0.0104,
+      "rank": 77,
+      "atr": 0.1007,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": 0.0001,
+      "pnl_value": 0.0,
+      "weight": 0.0093,
+      "rank": 136,
+      "atr": 0.1135,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": -0.0034,
+      "pnl_value": -0.0001,
+      "weight": 0.0149,
+      "rank": 80,
+      "atr": 0.0708,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": -0.0154,
+      "pnl_value": -0.0004,
+      "weight": 0.008,
+      "rank": 162,
+      "atr": 0.1311,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0157,
+      "pnl_value": -0.0004,
+      "weight": 0.0096,
+      "rank": 123,
+      "atr": 0.1094,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FET",
+      "pnl": -0.0264,
+      "pnl_value": -0.0007,
+      "weight": 0.0094,
+      "rank": 133,
+      "atr": 0.112,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELR",
+      "pnl": -0.0335,
+      "pnl_value": -0.0009,
+      "weight": 0.0095,
+      "rank": 170,
+      "atr": 0.111,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNT",
+      "rank": 80,
+      "atr": 0.0708,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 25,
+      "atr": 0.0858,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 89,
+      "atr": 0.0988,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 77,
+      "atr": 0.1007,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 13,
+      "atr": 0.1033,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 91,
+      "atr": 0.1035,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 104,
+      "atr": 0.105,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COTI",
+      "rank": 165,
+      "atr": 0.1055,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 123,
+      "atr": 0.1094,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 170,
+      "atr": 0.111,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FET",
+      "rank": 133,
+      "atr": 0.112,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 136,
+      "atr": 0.1135,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 28,
+      "atr": 0.1157,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 68,
+      "atr": 0.1189,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 140,
+      "atr": 0.1221,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 162,
+      "atr": 0.1311,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0103,
+    "cum_pnl": 1.9834,
+    "leverage": 0.1609,
+    "atr": 0.0168,
+    "marketcap_pnt": 0.0126,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.235,
+      "pnl_value": 0.0094,
+      "weight": 0.0103,
+      "rank": 7,
+      "atr": 0.0588,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": 0.1038,
+      "pnl_value": 0.0039,
+      "weight": 0.0096,
+      "rank": 30,
+      "atr": 0.0627,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 7,
+      "atr": 0.0588,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 30,
+      "atr": 0.0627,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0034,
+    "cum_pnl": 2.8768,
+    "leverage": 0.0199,
+    "atr": 0.0012,
+    "marketcap_pnt": 0.0216,
+    "green_marketcap_pnt": 0
+  }
+}

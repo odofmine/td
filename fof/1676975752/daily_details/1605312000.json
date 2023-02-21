@@ -1,0 +1,310 @@
+{
+  "pnls": [
+    {
+      "name": "RUNE",
+      "pnl": 0.16,
+      "pnl_value": 0.0019,
+      "weight": 0.0077,
+      "rank": 95,
+      "atr": 0.1215,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0498,
+      "pnl_value": 0.0012,
+      "weight": 0.0149,
+      "rank": 44,
+      "atr": 0.0629,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0091,
+      "pnl_value": 0.0003,
+      "weight": 0.0221,
+      "rank": 4,
+      "atr": 0.0425,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RLC",
+      "pnl": 0.005,
+      "pnl_value": 0.0001,
+      "weight": 0.0081,
+      "rank": 114,
+      "atr": 0.1151,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0058,
+      "pnl_value": -0.0002,
+      "weight": 0.0166,
+      "rank": 29,
+      "atr": 0.0567,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.0074,
+      "pnl_value": -0.0001,
+      "weight": 0.0125,
+      "rank": 63,
+      "atr": 0.0753,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0117,
+      "pnl_value": -0.0001,
+      "weight": 0.0049,
+      "rank": 33,
+      "atr": 0.1901,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0151,
+      "pnl_value": -0.0005,
+      "weight": 0.0231,
+      "rank": 45,
+      "atr": 0.0407,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0242,
+      "pnl_value": -0.0004,
+      "weight": 0.0114,
+      "rank": 6,
+      "atr": 0.0824,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0323,
+      "pnl_value": -0.0009,
+      "weight": 0.0177,
+      "rank": 8,
+      "atr": 0.053,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0326,
+      "pnl_value": -0.001,
+      "weight": 0.0201,
+      "rank": 2,
+      "atr": 0.0468,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.0362,
+      "pnl_value": -0.0003,
+      "weight": 0.0056,
+      "rank": 39,
+      "atr": 0.1674,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.0445,
+      "pnl_value": -0.0007,
+      "weight": 0.0096,
+      "rank": 152,
+      "atr": 0.098,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.0556,
+      "pnl_value": -0.0008,
+      "weight": 0.0096,
+      "rank": 40,
+      "atr": 0.0981,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0633,
+      "pnl_value": -0.0011,
+      "weight": 0.0113,
+      "rank": 79,
+      "atr": 0.0827,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LRC",
+      "pnl": -0.0649,
+      "pnl_value": -0.0008,
+      "weight": 0.0082,
+      "rank": 68,
+      "atr": 0.1148,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RSR",
+      "pnl": -0.087,
+      "pnl_value": -0.0009,
+      "weight": 0.0064,
+      "rank": 75,
+      "atr": 0.1451,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DOGE",
+      "rank": 45,
+      "atr": 0.0407,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.0425,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0468,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.053,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 29,
+      "atr": 0.0567,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 44,
+      "atr": 0.0629,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 63,
+      "atr": 0.0753,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 6,
+      "atr": 0.0824,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 79,
+      "atr": 0.0827,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 152,
+      "atr": 0.098,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 40,
+      "atr": 0.0981,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STRAT",
+      "rank": 143,
+      "atr": 0.1069,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 68,
+      "atr": 0.1148,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 114,
+      "atr": 0.1151,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 95,
+      "atr": 0.1215,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 75,
+      "atr": 0.1451,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 39,
+      "atr": 0.1674,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 33,
+      "atr": 0.1901,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0029,
+    "cum_pnl": 0.5605,
+    "leverage": 0.2098,
+    "atr": 0.0159,
+    "marketcap_pnt": 0.1708,
+    "green_marketcap_pnt": 0
+  }
+}

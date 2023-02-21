@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "ENS",
+      "pnl": -0.0227,
+      "pnl_value": -0.0009,
+      "weight": 0.0103,
+      "rank": 83,
+      "atr": 0.0704,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0274,
+      "pnl_value": -0.001,
+      "weight": 0.0098,
+      "rank": 136,
+      "atr": 0.0742,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ENS",
+      "rank": 83,
+      "atr": 0.0704,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 136,
+      "atr": 0.0742,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 2.8412,
+    "leverage": 0.0201,
+    "atr": 0.0015,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

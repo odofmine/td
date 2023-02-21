@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "SHIB",
+      "pnl": -0.0427,
+      "pnl_value": -0.0017,
+      "weight": 0.01,
+      "rank": 15,
+      "atr": 0.0865,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SHIB",
+      "rank": 15,
+      "atr": 0.0865,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 3.0919,
+    "leverage": 0.01,
+    "atr": 0.0009,
+    "marketcap_pnt": 0.007,
+    "green_marketcap_pnt": 0
+  }
+}

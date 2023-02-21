@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "STX",
+      "pnl": 0.0848,
+      "pnl_value": 0.0029,
+      "weight": 0.0095,
+      "rank": 81,
+      "atr": 0.099,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": 0.0694,
+      "pnl_value": 0.0024,
+      "weight": 0.0095,
+      "rank": 182,
+      "atr": 0.0991,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.0749,
+      "pnl_value": -0.003,
+      "weight": 0.0111,
+      "rank": 180,
+      "atr": 0.0851,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ANT",
+      "rank": 180,
+      "atr": 0.0851,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 81,
+      "atr": 0.099,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 182,
+      "atr": 0.0991,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 2.6556,
+    "leverage": 0.0301,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

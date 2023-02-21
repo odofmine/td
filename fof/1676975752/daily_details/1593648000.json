@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "NPXS",
+      "pnl": 0.02,
+      "pnl_value": 0.0004,
+      "weight": 0.0177,
+      "rank": 176,
+      "atr": 0.0498,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0407,
+      "pnl_value": -0.0008,
+      "weight": 0.0164,
+      "rank": 11,
+      "atr": 0.0538,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0734,
+      "pnl_value": -0.0009,
+      "weight": 0.0102,
+      "rank": 160,
+      "atr": 0.0861,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ERD",
+      "pnl": -0.0822,
+      "pnl_value": -0.0012,
+      "weight": 0.0118,
+      "rank": 133,
+      "atr": 0.075,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NPXS",
+      "rank": 176,
+      "atr": 0.0498,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.0538,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ERD",
+      "rank": 133,
+      "atr": 0.075,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 160,
+      "atr": 0.0861,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.002,
+    "cum_pnl": 0.249,
+    "leverage": 0.0561,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.0084,
+    "green_marketcap_pnt": 0
+  }
+}

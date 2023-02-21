@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "ELF",
+      "pnl": 0.0337,
+      "pnl_value": 0.0012,
+      "weight": 0.0101,
+      "rank": 182,
+      "atr": 0.0387,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ELF",
+      "rank": 182,
+      "atr": 0.0387,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 2.6041,
+    "leverage": 0.0101,
+    "atr": 0.0004,
+    "marketcap_pnt": 0.0001,
+    "green_marketcap_pnt": 0
+  }
+}

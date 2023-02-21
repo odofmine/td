@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "HIVE",
+      "pnl": 0.3174,
+      "pnl_value": 0.013,
+      "weight": 0.0104,
+      "rank": 115,
+      "atr": 0.0975,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.1493,
+      "pnl_value": 0.0059,
+      "weight": 0.01,
+      "rank": 166,
+      "atr": 0.1021,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.0094,
+      "pnl_value": -0.0004,
+      "weight": 0.0097,
+      "rank": 90,
+      "atr": 0.1054,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.0097,
+      "pnl_value": -0.0004,
+      "weight": 0.0102,
+      "rank": 173,
+      "atr": 0.1002,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HIVE",
+      "rank": 115,
+      "atr": 0.0975,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 173,
+      "atr": 0.1002,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 166,
+      "atr": 0.1021,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 90,
+      "atr": 0.1054,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0046,
+    "cum_pnl": 2.9568,
+    "leverage": 0.0403,
+    "atr": 0.0041,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "pnls": [
+    {
+      "name": "TFUEL",
+      "pnl": 0.1022,
+      "pnl_value": 0.0043,
+      "weight": 0.0108,
+      "rank": 73,
+      "atr": 0.0839,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GNO",
+      "pnl": 0.101,
+      "pnl_value": 0.0058,
+      "weight": 0.0147,
+      "rank": 126,
+      "atr": 0.0618,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SHIB",
+      "pnl": 0.0876,
+      "pnl_value": 0.0038,
+      "weight": 0.0111,
+      "rank": 14,
+      "atr": 0.0823,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAXP",
+      "pnl": 0.0692,
+      "pnl_value": 0.0024,
+      "weight": 0.0087,
+      "rank": 128,
+      "atr": 0.104,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.0612,
+      "pnl_value": 0.0029,
+      "weight": 0.012,
+      "rank": 78,
+      "atr": 0.0759,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": 0.057,
+      "pnl_value": 0.0022,
+      "weight": 0.0099,
+      "rank": 72,
+      "atr": 0.0917,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": 0.0472,
+      "pnl_value": 0.0023,
+      "weight": 0.0126,
+      "rank": 63,
+      "atr": 0.0723,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": 0.0206,
+      "pnl_value": 0.0008,
+      "weight": 0.0099,
+      "rank": 39,
+      "atr": 0.092,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LRC",
+      "pnl": 0.017,
+      "pnl_value": 0.0007,
+      "weight": 0.0105,
+      "rank": 129,
+      "atr": 0.0867,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.0155,
+      "pnl_value": -0.0006,
+      "weight": 0.0097,
+      "rank": 31,
+      "atr": 0.0935,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "1INCH",
+      "pnl": -0.0173,
+      "pnl_value": -0.0007,
+      "weight": 0.0098,
+      "rank": 119,
+      "atr": 0.0927,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0324,
+      "pnl_value": -0.0013,
+      "weight": 0.0103,
+      "rank": 44,
+      "atr": 0.0885,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0384,
+      "pnl_value": -0.0017,
+      "weight": 0.0111,
+      "rank": 9,
+      "atr": 0.0823,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0491,
+      "pnl_value": -0.0019,
+      "weight": 0.0101,
+      "rank": 52,
+      "atr": 0.0903,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0525,
+      "pnl_value": -0.0027,
+      "weight": 0.0129,
+      "rank": 21,
+      "atr": 0.0705,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GNO",
+      "rank": 126,
+      "atr": 0.0618,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 21,
+      "atr": 0.0705,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 63,
+      "atr": 0.0723,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 78,
+      "atr": 0.0759,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 9,
+      "atr": 0.0823,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 14,
+      "atr": 0.0823,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 73,
+      "atr": 0.0839,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 129,
+      "atr": 0.0867,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 44,
+      "atr": 0.0885,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 52,
+      "atr": 0.0903,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 72,
+      "atr": 0.0917,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 39,
+      "atr": 0.092,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "1INCH",
+      "rank": 119,
+      "atr": 0.0927,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 31,
+      "atr": 0.0935,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAXP",
+      "rank": 128,
+      "atr": 0.104,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0042,
+    "cum_pnl": 2.9468,
+    "leverage": 0.1641,
+    "atr": 0.0136,
+    "marketcap_pnt": 0.0355,
+    "green_marketcap_pnt": 0
+  }
+}

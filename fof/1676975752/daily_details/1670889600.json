@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "RLC",
+      "pnl": 0.0123,
+      "pnl_value": 0.0004,
+      "weight": 0.0097,
+      "rank": 187,
+      "atr": 0.0995,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": -0.0133,
+      "pnl_value": -0.0005,
+      "weight": 0.0094,
+      "rank": 182,
+      "atr": 0.103,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0228,
+      "pnl_value": -0.0009,
+      "weight": 0.0105,
+      "rank": 81,
+      "atr": 0.0919,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GMX",
+      "pnl": -0.0887,
+      "pnl_value": -0.0034,
+      "weight": 0.0106,
+      "rank": 76,
+      "atr": 0.0907,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GMX",
+      "rank": 76,
+      "atr": 0.0907,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 81,
+      "atr": 0.0919,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 187,
+      "atr": 0.0995,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 182,
+      "atr": 0.103,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 2.6513,
+    "leverage": 0.0402,
+    "atr": 0.0039,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

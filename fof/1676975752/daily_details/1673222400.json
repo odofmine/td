@@ -1,0 +1,245 @@
+{
+  "pnls": [
+    {
+      "name": "GALA",
+      "pnl": 0.1766,
+      "pnl_value": 0.0053,
+      "weight": 0.0083,
+      "rank": 111,
+      "atr": 0.0712,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": 0.0533,
+      "pnl_value": 0.0023,
+      "weight": 0.0121,
+      "rank": 22,
+      "atr": 0.0491,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHR",
+      "pnl": 0.0504,
+      "pnl_value": 0.0021,
+      "weight": 0.0117,
+      "rank": 196,
+      "atr": 0.0507,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOTX",
+      "pnl": 0.0409,
+      "pnl_value": 0.0018,
+      "weight": 0.0118,
+      "rank": 112,
+      "atr": 0.0502,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0374,
+      "pnl_value": 0.0016,
+      "weight": 0.012,
+      "rank": 12,
+      "atr": 0.0493,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "JASMY",
+      "pnl": 0.0349,
+      "pnl_value": 0.0009,
+      "weight": 0.007,
+      "rank": 126,
+      "atr": 0.0839,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0205,
+      "pnl_value": 0.0009,
+      "weight": 0.0122,
+      "rank": 65,
+      "atr": 0.0486,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GRT",
+      "pnl": 0.0114,
+      "pnl_value": 0.0004,
+      "weight": 0.0093,
+      "rank": 59,
+      "atr": 0.0635,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.007,
+      "pnl_value": 0.0002,
+      "weight": 0.0086,
+      "rank": 76,
+      "atr": 0.0687,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.0025,
+      "pnl_value": -0.0001,
+      "weight": 0.0103,
+      "rank": 58,
+      "atr": 0.0576,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OP",
+      "pnl": -0.0087,
+      "pnl_value": -0.0003,
+      "weight": 0.0093,
+      "rank": 90,
+      "atr": 0.0635,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0137,
+      "pnl_value": -0.0005,
+      "weight": 0.0098,
+      "rank": 24,
+      "atr": 0.0604,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LDO",
+      "pnl": -0.0142,
+      "pnl_value": -0.0004,
+      "weight": 0.0082,
+      "rank": 28,
+      "atr": 0.072,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ELF",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 65,
+      "atr": 0.0486,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 22,
+      "atr": 0.0491,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 12,
+      "atr": 0.0493,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 112,
+      "atr": 0.0502,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHR",
+      "rank": 196,
+      "atr": 0.0507,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 58,
+      "atr": 0.0576,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 24,
+      "atr": 0.0604,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GRT",
+      "rank": 59,
+      "atr": 0.0635,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OP",
+      "rank": 90,
+      "atr": 0.0635,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 76,
+      "atr": 0.0687,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GALA",
+      "rank": 111,
+      "atr": 0.0712,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LDO",
+      "rank": 28,
+      "atr": 0.072,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "JASMY",
+      "rank": 126,
+      "atr": 0.0839,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0039,
+    "cum_pnl": 2.6459,
+    "leverage": 0.1306,
+    "atr": 0.0077,
+    "marketcap_pnt": 0.0196,
+    "green_marketcap_pnt": 0
+  }
+}

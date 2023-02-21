@@ -1,0 +1,184 @@
+{
+  "pnls": [
+    {
+      "name": "LDO",
+      "pnl": 0.3233,
+      "pnl_value": 0.0095,
+      "weight": 0.0081,
+      "rank": 78,
+      "atr": 0.0715,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OP",
+      "pnl": 0.1534,
+      "pnl_value": 0.0047,
+      "weight": 0.0084,
+      "rank": 103,
+      "atr": 0.069,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOTX",
+      "pnl": 0.0541,
+      "pnl_value": 0.0022,
+      "weight": 0.0112,
+      "rank": 109,
+      "atr": 0.0521,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FTM",
+      "pnl": 0.044,
+      "pnl_value": 0.0015,
+      "weight": 0.0097,
+      "rank": 60,
+      "atr": 0.0599,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": 0.0346,
+      "pnl_value": 0.0014,
+      "weight": 0.0115,
+      "rank": 24,
+      "atr": 0.0505,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "JASMY",
+      "pnl": 0.0316,
+      "pnl_value": 0.0008,
+      "weight": 0.0066,
+      "rank": 130,
+      "atr": 0.0875,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0297,
+      "pnl_value": 0.0012,
+      "weight": 0.0115,
+      "rank": 12,
+      "atr": 0.0508,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0185,
+      "pnl_value": 0.0006,
+      "weight": 0.0094,
+      "rank": 25,
+      "atr": 0.0619,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0014,
+      "pnl_value": 0.0,
+      "weight": 0.0083,
+      "rank": 73,
+      "atr": 0.0698,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ELF",
+      "pnl": -0.003,
+      "pnl_value": -0.0002,
+      "weight": 0.0156,
+      "rank": 182,
+      "atr": 0.0373,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ELF",
+      "rank": 182,
+      "atr": 0.0373,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 24,
+      "atr": 0.0505,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 12,
+      "atr": 0.0508,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 109,
+      "atr": 0.0521,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 60,
+      "atr": 0.0599,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 25,
+      "atr": 0.0619,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OP",
+      "rank": 103,
+      "atr": 0.069,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 73,
+      "atr": 0.0698,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LDO",
+      "rank": 78,
+      "atr": 0.0715,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "JASMY",
+      "rank": 130,
+      "atr": 0.0875,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.006,
+    "cum_pnl": 2.6316,
+    "leverage": 0.1003,
+    "atr": 0.0058,
+    "marketcap_pnt": 0.0151,
+    "green_marketcap_pnt": 0
+  }
+}

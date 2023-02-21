@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "SUSHI",
+      "pnl": 0.0549,
+      "pnl_value": 0.0019,
+      "weight": 0.0092,
+      "rank": 136,
+      "atr": 0.0759,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0185,
+      "pnl_value": 0.0009,
+      "weight": 0.0125,
+      "rank": 11,
+      "atr": 0.0559,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": 0.0092,
+      "pnl_value": 0.0004,
+      "weight": 0.0107,
+      "rank": 50,
+      "atr": 0.0653,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0095,
+      "pnl_value": -0.0003,
+      "weight": 0.0081,
+      "rank": 158,
+      "atr": 0.0859,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ENS",
+      "pnl": -0.0129,
+      "pnl_value": -0.0005,
+      "weight": 0.0097,
+      "rank": 83,
+      "atr": 0.072,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 11,
+      "atr": 0.0559,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 50,
+      "atr": 0.0653,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 83,
+      "atr": 0.072,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 136,
+      "atr": 0.0759,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 158,
+      "atr": 0.0859,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 2.8436,
+    "leverage": 0.0502,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.0095,
+    "green_marketcap_pnt": 0
+  }
+}

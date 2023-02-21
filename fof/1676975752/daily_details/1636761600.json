@@ -1,0 +1,340 @@
+{
+  "pnls": [
+    {
+      "name": "OXT",
+      "pnl": 0.1044,
+      "pnl_value": 0.0035,
+      "weight": 0.0084,
+      "rank": 174,
+      "atr": 0.1218,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0339,
+      "pnl_value": 0.0019,
+      "weight": 0.0141,
+      "rank": 75,
+      "atr": 0.0729,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0263,
+      "pnl_value": 0.0016,
+      "weight": 0.0156,
+      "rank": 17,
+      "atr": 0.0657,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": 0.0218,
+      "pnl_value": 0.0008,
+      "weight": 0.0093,
+      "rank": 194,
+      "atr": 0.1095,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DGB",
+      "pnl": 0.0117,
+      "pnl_value": 0.0005,
+      "weight": 0.0115,
+      "rank": 126,
+      "atr": 0.0893,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0037,
+      "pnl_value": -0.0003,
+      "weight": 0.0176,
+      "rank": 21,
+      "atr": 0.0583,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": -0.0043,
+      "pnl_value": -0.0003,
+      "weight": 0.0174,
+      "rank": 103,
+      "atr": 0.059,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0076,
+      "pnl_value": -0.0004,
+      "weight": 0.0137,
+      "rank": 15,
+      "atr": 0.0748,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": -0.0086,
+      "pnl_value": -0.0005,
+      "weight": 0.0136,
+      "rank": 44,
+      "atr": 0.0754,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.0223,
+      "pnl_value": -0.0009,
+      "weight": 0.0106,
+      "rank": 39,
+      "atr": 0.0967,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MINA",
+      "pnl": -0.028,
+      "pnl_value": -0.0012,
+      "weight": 0.011,
+      "rank": 94,
+      "atr": 0.0929,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.0327,
+      "pnl_value": -0.0016,
+      "weight": 0.0123,
+      "rank": 20,
+      "atr": 0.083,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0334,
+      "pnl_value": -0.0016,
+      "weight": 0.0123,
+      "rank": 37,
+      "atr": 0.0833,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UMA",
+      "pnl": -0.0518,
+      "pnl_value": -0.002,
+      "weight": 0.0095,
+      "rank": 109,
+      "atr": 0.1082,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CTSI",
+      "pnl": -0.0616,
+      "pnl_value": -0.0026,
+      "weight": 0.0106,
+      "rank": 164,
+      "atr": 0.0968,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XVG",
+      "pnl": -0.0782,
+      "pnl_value": -0.0043,
+      "weight": 0.0138,
+      "rank": 166,
+      "atr": 0.0745,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHR",
+      "pnl": -0.0806,
+      "pnl_value": -0.0034,
+      "weight": 0.0107,
+      "rank": 173,
+      "atr": 0.0955,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LRC",
+      "pnl": -0.1183,
+      "pnl_value": -0.0057,
+      "weight": 0.0122,
+      "rank": 77,
+      "atr": 0.0839,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "INJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCH",
+      "rank": 21,
+      "atr": 0.0583,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 103,
+      "atr": 0.059,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 17,
+      "atr": 0.0657,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 75,
+      "atr": 0.0729,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XVG",
+      "rank": 166,
+      "atr": 0.0745,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 15,
+      "atr": 0.0748,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 44,
+      "atr": 0.0754,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 20,
+      "atr": 0.083,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 37,
+      "atr": 0.0833,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 77,
+      "atr": 0.0839,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 126,
+      "atr": 0.0893,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MINA",
+      "rank": 94,
+      "atr": 0.0929,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHR",
+      "rank": 173,
+      "atr": 0.0955,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 39,
+      "atr": 0.0967,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CTSI",
+      "rank": 164,
+      "atr": 0.0968,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UMA",
+      "rank": 109,
+      "atr": 0.1082,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 194,
+      "atr": 0.1095,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OXT",
+      "rank": 174,
+      "atr": 0.1218,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0041,
+    "cum_pnl": 2.9548,
+    "leverage": 0.2242,
+    "atr": 0.0184,
+    "marketcap_pnt": 0.0281,
+    "green_marketcap_pnt": 0
+  }
+}

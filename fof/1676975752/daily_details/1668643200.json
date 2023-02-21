@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "ANT",
+      "pnl": 0.0218,
+      "pnl_value": 0.0007,
+      "weight": 0.0083,
+      "rank": 197,
+      "atr": 0.0869,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "YFII",
+      "pnl": 0.0099,
+      "pnl_value": 0.0004,
+      "weight": 0.0118,
+      "rank": 185,
+      "atr": 0.061,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "YFII",
+      "rank": 185,
+      "atr": 0.061,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 197,
+      "atr": 0.0869,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 2.67,
+    "leverage": 0.0201,
+    "atr": 0.0014,
+    "marketcap_pnt": 0.0002,
+    "green_marketcap_pnt": 0
+  }
+}

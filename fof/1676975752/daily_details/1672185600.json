@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "RLC",
+      "pnl": -0.0312,
+      "pnl_value": -0.0011,
+      "weight": 0.0101,
+      "rank": 165,
+      "atr": 0.0813,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "RLC",
+      "rank": 165,
+      "atr": 0.0813,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 2.6027,
+    "leverage": 0.0101,
+    "atr": 0.0008,
+    "marketcap_pnt": 0.0001,
+    "green_marketcap_pnt": 0
+  }
+}

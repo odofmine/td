@@ -1,0 +1,187 @@
+{
+  "pnls": [
+    {
+      "name": "FTM",
+      "pnl": 0.2732,
+      "pnl_value": 0.0074,
+      "weight": 0.0068,
+      "rank": 96,
+      "atr": 0.1368,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": 0.0375,
+      "pnl_value": 0.0012,
+      "weight": 0.0081,
+      "rank": 127,
+      "atr": 0.1157,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0131,
+      "pnl_value": 0.0005,
+      "weight": 0.0089,
+      "rank": 31,
+      "atr": 0.1052,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0113,
+      "pnl_value": 0.0004,
+      "weight": 0.0098,
+      "rank": 73,
+      "atr": 0.0953,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0056,
+      "pnl_value": 0.0003,
+      "weight": 0.015,
+      "rank": 2,
+      "atr": 0.0622,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0093,
+      "pnl_value": -0.0004,
+      "weight": 0.0106,
+      "rank": 9,
+      "atr": 0.0883,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0271,
+      "pnl_value": -0.001,
+      "weight": 0.0089,
+      "rank": 152,
+      "atr": 0.105,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": -0.0433,
+      "pnl_value": -0.0019,
+      "weight": 0.0111,
+      "rank": 26,
+      "atr": 0.084,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0801,
+      "pnl_value": -0.0036,
+      "weight": 0.0113,
+      "rank": 53,
+      "atr": 0.0826,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SOL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0622,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 53,
+      "atr": 0.0826,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 26,
+      "atr": 0.084,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 9,
+      "atr": 0.0883,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 73,
+      "atr": 0.0953,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 152,
+      "atr": 0.105,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 31,
+      "atr": 0.1052,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 127,
+      "atr": 0.1157,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 96,
+      "atr": 0.1368,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 2.9617,
+    "leverage": 0.0905,
+    "atr": 0.0084,
+    "marketcap_pnt": 0.1658,
+    "green_marketcap_pnt": 0
+  }
+}

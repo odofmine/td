@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "ROSE",
+      "pnl": 0.0939,
+      "pnl_value": 0.0037,
+      "weight": 0.0102,
+      "rank": 122,
+      "atr": 0.069,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SKL",
+      "pnl": -0.003,
+      "pnl_value": -0.0001,
+      "weight": 0.0095,
+      "rank": 176,
+      "atr": 0.0736,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0136,
+      "pnl_value": -0.0006,
+      "weight": 0.0114,
+      "rank": 35,
+      "atr": 0.0617,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0404,
+      "pnl_value": -0.0016,
+      "weight": 0.0105,
+      "rank": 196,
+      "atr": 0.0669,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ASTR",
+      "pnl": -0.0625,
+      "pnl_value": -0.0023,
+      "weight": 0.0096,
+      "rank": 150,
+      "atr": 0.073,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MINA",
+      "pnl": -0.1108,
+      "pnl_value": -0.0039,
+      "weight": 0.0091,
+      "rank": 70,
+      "atr": 0.0773,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GRT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HBAR",
+      "rank": 35,
+      "atr": 0.0617,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 196,
+      "atr": 0.0669,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 122,
+      "atr": 0.069,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ASTR",
+      "rank": 150,
+      "atr": 0.073,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SKL",
+      "rank": 176,
+      "atr": 0.0736,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MINA",
+      "rank": 70,
+      "atr": 0.0773,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 2.8445,
+    "leverage": 0.0603,
+    "atr": 0.0042,
+    "marketcap_pnt": 0.0031,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "ANT",
+      "pnl": 0.0098,
+      "pnl_value": 0.0003,
+      "weight": 0.009,
+      "rank": 182,
+      "atr": 0.0952,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": 0.0022,
+      "pnl_value": 0.0001,
+      "weight": 0.0112,
+      "rank": 105,
+      "atr": 0.0765,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "YFI",
+      "rank": 105,
+      "atr": 0.0765,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 182,
+      "atr": 0.0952,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 2.652,
+    "leverage": 0.0202,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0004,
+    "green_marketcap_pnt": 0
+  }
+}

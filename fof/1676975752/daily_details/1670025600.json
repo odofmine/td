@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "DASH",
+      "pnl": -0.016,
+      "pnl_value": -0.0008,
+      "weight": 0.0129,
+      "rank": 72,
+      "atr": 0.059,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.0362,
+      "pnl_value": -0.0013,
+      "weight": 0.0095,
+      "rank": 71,
+      "atr": 0.0801,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.049,
+      "pnl_value": -0.0018,
+      "weight": 0.0101,
+      "rank": 21,
+      "atr": 0.0753,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OP",
+      "pnl": -0.0614,
+      "pnl_value": -0.0018,
+      "weight": 0.0078,
+      "rank": 119,
+      "atr": 0.097,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 72,
+      "atr": 0.059,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 21,
+      "atr": 0.0753,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 71,
+      "atr": 0.0801,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OP",
+      "rank": 119,
+      "atr": 0.097,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0015,
+    "cum_pnl": 2.651,
+    "leverage": 0.0403,
+    "atr": 0.003,
+    "marketcap_pnt": 0.0056,
+    "green_marketcap_pnt": 0
+  }
+}

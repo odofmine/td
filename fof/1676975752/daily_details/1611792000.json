@@ -1,0 +1,237 @@
+{
+  "pnls": [
+    {
+      "name": "FTM",
+      "pnl": 0.4701,
+      "pnl_value": 0.0098,
+      "weight": 0.0135,
+      "rank": 113,
+      "atr": 0.0716,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": 0.1961,
+      "pnl_value": 0.0025,
+      "weight": 0.0084,
+      "rank": 122,
+      "atr": 0.1153,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0396,
+      "pnl_value": 0.0007,
+      "weight": 0.012,
+      "rank": 15,
+      "atr": 0.0808,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": 0.0181,
+      "pnl_value": 0.0002,
+      "weight": 0.0079,
+      "rank": 136,
+      "atr": 0.1221,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SXP",
+      "pnl": -0.0374,
+      "pnl_value": -0.0005,
+      "weight": 0.0086,
+      "rank": 146,
+      "atr": 0.1126,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0432,
+      "pnl_value": -0.0008,
+      "weight": 0.0125,
+      "rank": 14,
+      "atr": 0.0773,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOTX",
+      "pnl": -0.0646,
+      "pnl_value": -0.001,
+      "weight": 0.0101,
+      "rank": 141,
+      "atr": 0.0958,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AKRO",
+      "pnl": -0.0724,
+      "pnl_value": -0.0009,
+      "weight": 0.008,
+      "rank": 200,
+      "atr": 0.121,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0759,
+      "pnl_value": -0.0011,
+      "weight": 0.0094,
+      "rank": 109,
+      "atr": 0.1035,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AVA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QTUM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ALGO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BZRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DIA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTM",
+      "rank": 113,
+      "atr": 0.0716,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 14,
+      "atr": 0.0773,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 15,
+      "atr": 0.0808,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 141,
+      "atr": 0.0958,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 109,
+      "atr": 0.1035,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SXP",
+      "rank": 146,
+      "atr": 0.1126,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 122,
+      "atr": 0.1153,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AKRO",
+      "rank": 200,
+      "atr": 0.121,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 136,
+      "atr": 0.1221,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0058,
+    "cum_pnl": 0.5505,
+    "leverage": 0.0904,
+    "atr": 0.0087,
+    "marketcap_pnt": 0.0078,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "BAL",
+      "pnl": 0.1016,
+      "pnl_value": 0.0038,
+      "weight": 0.0096,
+      "rank": 114,
+      "atr": 0.0948,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0186,
+      "pnl_value": -0.0007,
+      "weight": 0.0103,
+      "rank": 70,
+      "atr": 0.0887,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEXO",
+      "rank": 70,
+      "atr": 0.0887,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 114,
+      "atr": 0.0948,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 2.8911,
+    "leverage": 0.0199,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

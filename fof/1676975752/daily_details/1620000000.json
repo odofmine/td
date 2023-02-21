@@ -1,0 +1,455 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.3736,
+      "pnl_value": 0.0197,
+      "weight": 0.0133,
+      "rank": 56,
+      "atr": 0.0948,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.1633,
+      "pnl_value": 0.0143,
+      "weight": 0.0221,
+      "rank": 2,
+      "atr": 0.0571,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.1594,
+      "pnl_value": 0.0097,
+      "weight": 0.0154,
+      "rank": 31,
+      "atr": 0.0816,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ALPHA",
+      "pnl": 0.1045,
+      "pnl_value": 0.0043,
+      "weight": 0.0103,
+      "rank": 129,
+      "atr": 0.1221,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": 0.0931,
+      "pnl_value": 0.0045,
+      "weight": 0.0122,
+      "rank": 125,
+      "atr": 0.1033,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0875,
+      "pnl_value": 0.0058,
+      "weight": 0.0168,
+      "rank": 3,
+      "atr": 0.0749,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0751,
+      "pnl_value": 0.0039,
+      "weight": 0.0131,
+      "rank": 28,
+      "atr": 0.0964,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.0659,
+      "pnl_value": 0.0035,
+      "weight": 0.0136,
+      "rank": 12,
+      "atr": 0.0923,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0546,
+      "pnl_value": 0.0041,
+      "weight": 0.0192,
+      "rank": 32,
+      "atr": 0.0655,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": 0.0442,
+      "pnl_value": 0.0026,
+      "weight": 0.0146,
+      "rank": 10,
+      "atr": 0.0863,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UTK",
+      "pnl": 0.0389,
+      "pnl_value": 0.0015,
+      "weight": 0.0096,
+      "rank": 166,
+      "atr": 0.1314,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SXP",
+      "pnl": 0.0033,
+      "pnl_value": 0.0001,
+      "weight": 0.0106,
+      "rank": 128,
+      "atr": 0.1185,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": 0.0013,
+      "pnl_value": 0.0001,
+      "weight": 0.0139,
+      "rank": 25,
+      "atr": 0.0907,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0038,
+      "pnl_value": -0.0002,
+      "weight": 0.0115,
+      "rank": 4,
+      "atr": 0.1091,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0079,
+      "pnl_value": -0.0005,
+      "weight": 0.0151,
+      "rank": 9,
+      "atr": 0.0834,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": -0.0085,
+      "pnl_value": -0.0004,
+      "weight": 0.0112,
+      "rank": 81,
+      "atr": 0.1119,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STRAX",
+      "pnl": -0.0321,
+      "pnl_value": -0.0014,
+      "weight": 0.0111,
+      "rank": 162,
+      "atr": 0.1137,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0333,
+      "pnl_value": -0.0018,
+      "weight": 0.0135,
+      "rank": 39,
+      "atr": 0.0936,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOTX",
+      "pnl": -0.0372,
+      "pnl_value": -0.0017,
+      "weight": 0.0113,
+      "rank": 120,
+      "atr": 0.111,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DGB",
+      "pnl": -0.0418,
+      "pnl_value": -0.0018,
+      "weight": 0.0109,
+      "rank": 60,
+      "atr": 0.1155,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0435,
+      "pnl_value": -0.0019,
+      "weight": 0.0113,
+      "rank": 183,
+      "atr": 0.1115,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ALICE",
+      "pnl": -0.0548,
+      "pnl_value": -0.0013,
+      "weight": 0.0061,
+      "rank": 176,
+      "atr": 0.2053,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.0564,
+      "pnl_value": -0.0024,
+      "weight": 0.0108,
+      "rank": 69,
+      "atr": 0.1161,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "YFI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BAL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ANKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "INJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0571,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 32,
+      "atr": 0.0655,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 3,
+      "atr": 0.0749,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 31,
+      "atr": 0.0816,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 9,
+      "atr": 0.0834,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 10,
+      "atr": 0.0863,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 25,
+      "atr": 0.0907,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 12,
+      "atr": 0.0923,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 39,
+      "atr": 0.0936,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 56,
+      "atr": 0.0948,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 28,
+      "atr": 0.0964,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 125,
+      "atr": 0.1033,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.1091,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 120,
+      "atr": 0.111,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 183,
+      "atr": 0.1115,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 81,
+      "atr": 0.1119,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STRAX",
+      "rank": 162,
+      "atr": 0.1137,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 60,
+      "atr": 0.1155,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 69,
+      "atr": 0.1161,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SXP",
+      "rank": 128,
+      "atr": 0.1185,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALPHA",
+      "rank": 129,
+      "atr": 0.1221,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UTK",
+      "rank": 166,
+      "atr": 0.1314,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALICE",
+      "rank": 176,
+      "atr": 0.2053,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0153,
+    "cum_pnl": 3.0162,
+    "leverage": 0.2975,
+    "atr": 0.0289,
+    "marketcap_pnt": 0.2757,
+    "green_marketcap_pnt": 0
+  }
+}

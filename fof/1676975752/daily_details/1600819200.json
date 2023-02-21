@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "DGB",
+      "pnl": -0.1489,
+      "pnl_value": -0.0025,
+      "weight": 0.0107,
+      "rank": 45,
+      "atr": 0.1041,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DGB",
+      "rank": 45,
+      "atr": 0.1041,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 0.5975,
+    "leverage": 0.0107,
+    "atr": 0.0011,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

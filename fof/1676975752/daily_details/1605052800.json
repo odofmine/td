@@ -1,0 +1,255 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0283,
+      "pnl_value": 0.0008,
+      "weight": 0.019,
+      "rank": 2,
+      "atr": 0.0495,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0,
+      "pnl_value": -0.0,
+      "weight": 0.0228,
+      "rank": 45,
+      "atr": 0.0412,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZIL",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0122,
+      "rank": 63,
+      "atr": 0.0772,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STRAT",
+      "pnl": -0.0024,
+      "pnl_value": -0.0,
+      "weight": 0.01,
+      "rank": 143,
+      "atr": 0.0934,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0191,
+      "pnl_value": -0.0003,
+      "weight": 0.0111,
+      "rank": 6,
+      "atr": 0.0843,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0199,
+      "pnl_value": -0.0004,
+      "weight": 0.0138,
+      "rank": 44,
+      "atr": 0.0682,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0204,
+      "pnl_value": -0.0003,
+      "weight": 0.0092,
+      "rank": 137,
+      "atr": 0.1017,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RSR",
+      "pnl": -0.0206,
+      "pnl_value": -0.0002,
+      "weight": 0.0063,
+      "rank": 75,
+      "atr": 0.1474,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MANA",
+      "pnl": -0.0501,
+      "pnl_value": -0.0008,
+      "weight": 0.0095,
+      "rank": 78,
+      "atr": 0.0985,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.077,
+      "pnl_value": -0.001,
+      "weight": 0.008,
+      "rank": 136,
+      "atr": 0.1167,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RUNE",
+      "pnl": -0.0872,
+      "pnl_value": -0.001,
+      "weight": 0.0076,
+      "rank": 95,
+      "atr": 0.1229,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0923,
+      "pnl_value": -0.0016,
+      "weight": 0.011,
+      "rank": 79,
+      "atr": 0.0854,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.1441,
+      "pnl_value": -0.0018,
+      "weight": 0.0081,
+      "rank": 37,
+      "atr": 0.1152,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DOGE",
+      "rank": 45,
+      "atr": 0.0412,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0495,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 44,
+      "atr": 0.0682,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 63,
+      "atr": 0.0772,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 6,
+      "atr": 0.0843,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 79,
+      "atr": 0.0854,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STRAT",
+      "rank": 143,
+      "atr": 0.0934,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 78,
+      "atr": 0.0985,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 137,
+      "atr": 0.1017,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 37,
+      "atr": 0.1152,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 136,
+      "atr": 0.1167,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 95,
+      "atr": 0.1229,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 75,
+      "atr": 0.1474,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0042,
+    "cum_pnl": 0.573,
+    "leverage": 0.1486,
+    "atr": 0.0122,
+    "marketcap_pnt": 0.1318,
+    "green_marketcap_pnt": 0
+  }
+}

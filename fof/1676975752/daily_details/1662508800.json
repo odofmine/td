@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "FLUX",
+      "pnl": 0.0934,
+      "pnl_value": 0.0036,
+      "weight": 0.01,
+      "rank": 105,
+      "atr": 0.0994,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLUX",
+      "rank": 105,
+      "atr": 0.0994,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 2.8876,
+    "leverage": 0.01,
+    "atr": 0.001,
+    "marketcap_pnt": 0.0003,
+    "green_marketcap_pnt": 0
+  }
+}

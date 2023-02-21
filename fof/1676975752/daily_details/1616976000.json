@@ -1,0 +1,252 @@
+{
+  "pnls": [
+    {
+      "name": "HOT",
+      "pnl": 0.2768,
+      "pnl_value": 0.0096,
+      "weight": 0.0098,
+      "rank": 61,
+      "atr": 0.1018,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": 0.1218,
+      "pnl_value": 0.0039,
+      "weight": 0.0091,
+      "rank": 106,
+      "atr": 0.1096,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.0875,
+      "pnl_value": 0.0028,
+      "weight": 0.009,
+      "rank": 133,
+      "atr": 0.1104,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QTUM",
+      "pnl": 0.0665,
+      "pnl_value": 0.0024,
+      "weight": 0.0101,
+      "rank": 94,
+      "atr": 0.0983,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0538,
+      "pnl_value": 0.0018,
+      "weight": 0.0096,
+      "rank": 74,
+      "atr": 0.1036,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FET",
+      "pnl": 0.0523,
+      "pnl_value": 0.0018,
+      "weight": 0.0098,
+      "rank": 113,
+      "atr": 0.1015,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SOL",
+      "pnl": 0.049,
+      "pnl_value": 0.0021,
+      "weight": 0.0119,
+      "rank": 22,
+      "atr": 0.0837,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FIL",
+      "pnl": 0.0166,
+      "pnl_value": 0.0009,
+      "weight": 0.0153,
+      "rank": 16,
+      "atr": 0.0653,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": 0.014,
+      "pnl_value": 0.0005,
+      "weight": 0.0096,
+      "rank": 98,
+      "atr": 0.1042,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CVC",
+      "pnl": 0.0132,
+      "pnl_value": 0.0004,
+      "weight": 0.0087,
+      "rank": 144,
+      "atr": 0.1142,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": 0.0071,
+      "pnl_value": 0.0002,
+      "weight": 0.0084,
+      "rank": 139,
+      "atr": 0.1184,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HIVE",
+      "pnl": -0.0083,
+      "pnl_value": -0.0003,
+      "weight": 0.0096,
+      "rank": 148,
+      "atr": 0.1034,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.009,
+      "pnl_value": -0.0004,
+      "weight": 0.011,
+      "rank": 80,
+      "atr": 0.0908,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AKRO",
+      "pnl": -0.0431,
+      "pnl_value": -0.0013,
+      "weight": 0.0088,
+      "rank": 190,
+      "atr": 0.1132,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FIL",
+      "rank": 16,
+      "atr": 0.0653,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 22,
+      "atr": 0.0837,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 80,
+      "atr": 0.0908,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 94,
+      "atr": 0.0983,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FET",
+      "rank": 113,
+      "atr": 0.1015,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 61,
+      "atr": 0.1018,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HIVE",
+      "rank": 148,
+      "atr": 0.1034,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 74,
+      "atr": 0.1036,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 98,
+      "atr": 0.1042,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 106,
+      "atr": 0.1096,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 133,
+      "atr": 0.1104,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AKRO",
+      "rank": 190,
+      "atr": 0.1132,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 144,
+      "atr": 0.1142,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 139,
+      "atr": 0.1184,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0069,
+    "cum_pnl": 2.5793,
+    "leverage": 0.1407,
+    "atr": 0.0139,
+    "marketcap_pnt": 0.0122,
+    "green_marketcap_pnt": 0
+  }
+}

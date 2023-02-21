@@ -1,0 +1,187 @@
+{
+  "pnls": [
+    {
+      "name": "ANKR",
+      "pnl": 0.4327,
+      "pnl_value": 0.0152,
+      "weight": 0.0099,
+      "rank": 114,
+      "atr": 0.0891,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FIL",
+      "pnl": 0.0617,
+      "pnl_value": 0.0032,
+      "weight": 0.0145,
+      "rank": 20,
+      "atr": 0.061,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": 0.0115,
+      "pnl_value": 0.0003,
+      "weight": 0.008,
+      "rank": 149,
+      "atr": 0.1099,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.0113,
+      "pnl_value": -0.0004,
+      "weight": 0.0095,
+      "rank": 103,
+      "atr": 0.0931,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DENT",
+      "pnl": -0.0267,
+      "pnl_value": -0.0009,
+      "weight": 0.0095,
+      "rank": 100,
+      "atr": 0.0931,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0286,
+      "pnl_value": -0.0009,
+      "weight": 0.0085,
+      "rank": 7,
+      "atr": 0.104,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NPXS",
+      "pnl": -0.0306,
+      "pnl_value": -0.0012,
+      "weight": 0.0107,
+      "rank": 56,
+      "atr": 0.0829,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0334,
+      "pnl_value": -0.001,
+      "weight": 0.0087,
+      "rank": 82,
+      "atr": 0.1015,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0652,
+      "pnl_value": -0.0026,
+      "weight": 0.0111,
+      "rank": 13,
+      "atr": 0.0794,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FIL",
+      "rank": 20,
+      "atr": 0.061,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 13,
+      "atr": 0.0794,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NPXS",
+      "rank": 56,
+      "atr": 0.0829,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 114,
+      "atr": 0.0891,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DENT",
+      "rank": 100,
+      "atr": 0.0931,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 103,
+      "atr": 0.0931,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 82,
+      "atr": 0.1015,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 7,
+      "atr": 0.104,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 149,
+      "atr": 0.1099,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0033,
+    "cum_pnl": 2.5661,
+    "leverage": 0.0904,
+    "atr": 0.008,
+    "marketcap_pnt": 0.0244,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "ALGO",
+      "pnl": 0.0767,
+      "pnl_value": 0.0015,
+      "weight": 0.0163,
+      "rank": 45,
+      "atr": 0.0816,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ALGO",
+      "rank": 45,
+      "atr": 0.0816,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 0.2234,
+    "leverage": 0.0163,
+    "atr": 0.0013,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

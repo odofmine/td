@@ -1,0 +1,197 @@
+{
+  "pnls": [
+    {
+      "name": "NEAR",
+      "pnl": -0.0544,
+      "pnl_value": -0.0024,
+      "weight": 0.0105,
+      "rank": 19,
+      "atr": 0.0829,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SPELL",
+      "pnl": -0.0551,
+      "pnl_value": -0.0013,
+      "weight": 0.0056,
+      "rank": 138,
+      "atr": 0.1541,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MINA",
+      "pnl": -0.0647,
+      "pnl_value": -0.0028,
+      "weight": 0.0103,
+      "rank": 83,
+      "atr": 0.0852,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XNO",
+      "pnl": -0.0869,
+      "pnl_value": -0.0034,
+      "weight": 0.0095,
+      "rank": 167,
+      "atr": 0.0922,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.1126,
+      "pnl_value": -0.0058,
+      "weight": 0.0125,
+      "rank": 56,
+      "atr": 0.0701,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "JOE",
+      "pnl": -0.1243,
+      "pnl_value": -0.0043,
+      "weight": 0.0084,
+      "rank": 191,
+      "atr": 0.1035,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AUDIO",
+      "pnl": -0.1484,
+      "pnl_value": -0.0055,
+      "weight": 0.0089,
+      "rank": 99,
+      "atr": 0.098,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.1708,
+      "pnl_value": -0.0103,
+      "weight": 0.0146,
+      "rank": 12,
+      "atr": 0.06,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ROSE",
+      "pnl": -0.1936,
+      "pnl_value": -0.0074,
+      "weight": 0.0092,
+      "rank": 90,
+      "atr": 0.0949,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRIBE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MOVR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CHR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DOGE",
+      "rank": 12,
+      "atr": 0.06,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 56,
+      "atr": 0.0701,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 19,
+      "atr": 0.0829,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MINA",
+      "rank": 83,
+      "atr": 0.0852,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XNO",
+      "rank": 167,
+      "atr": 0.0922,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 90,
+      "atr": 0.0949,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AUDIO",
+      "rank": 99,
+      "atr": 0.098,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "JOE",
+      "rank": 191,
+      "atr": 0.1035,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SPELL",
+      "rank": 138,
+      "atr": 0.1541,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0104,
+    "cum_pnl": 3.0901,
+    "leverage": 0.0895,
+    "atr": 0.0079,
+    "marketcap_pnt": 0.0173,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "SYS",
+      "pnl": 0.1187,
+      "pnl_value": 0.0045,
+      "weight": 0.0096,
+      "rank": 166,
+      "atr": 0.097,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": 0.0368,
+      "pnl_value": 0.0017,
+      "weight": 0.0118,
+      "rank": 69,
+      "atr": 0.0792,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RSR",
+      "pnl": 0.0298,
+      "pnl_value": 0.0012,
+      "weight": 0.0102,
+      "rank": 149,
+      "atr": 0.0916,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STORJ",
+      "pnl": -0.0259,
+      "pnl_value": -0.0008,
+      "weight": 0.0083,
+      "rank": 104,
+      "atr": 0.1124,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HIVE",
+      "pnl": -0.0451,
+      "pnl_value": -0.0018,
+      "weight": 0.0103,
+      "rank": 115,
+      "atr": 0.0906,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CVC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ANKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "STX",
+      "rank": 69,
+      "atr": 0.0792,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HIVE",
+      "rank": 115,
+      "atr": 0.0906,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 149,
+      "atr": 0.0916,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 166,
+      "atr": 0.097,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 104,
+      "atr": 0.1124,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 2.946,
+    "leverage": 0.0502,
+    "atr": 0.0047,
+    "marketcap_pnt": 0.0021,
+    "green_marketcap_pnt": 0
+  }
+}

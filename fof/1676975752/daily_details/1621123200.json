@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.081,
+      "pnl_value": 0.0044,
+      "weight": 0.013,
+      "rank": 39,
+      "atr": 0.0821,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0574,
+      "pnl_value": 0.0033,
+      "weight": 0.014,
+      "rank": 5,
+      "atr": 0.0763,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": 0.0226,
+      "pnl_value": 0.0008,
+      "weight": 0.0082,
+      "rank": 73,
+      "atr": 0.1296,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0206,
+      "pnl_value": 0.0008,
+      "weight": 0.0095,
+      "rank": 33,
+      "atr": 0.1128,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.0119,
+      "pnl_value": -0.0004,
+      "weight": 0.0088,
+      "rank": 78,
+      "atr": 0.121,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.0177,
+      "pnl_value": -0.0007,
+      "weight": 0.0097,
+      "rank": 75,
+      "atr": 0.11,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COTI",
+      "pnl": -0.0258,
+      "pnl_value": -0.0008,
+      "weight": 0.0078,
+      "rank": 197,
+      "atr": 0.1372,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ALPHA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 5,
+      "atr": 0.0763,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 39,
+      "atr": 0.0821,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 75,
+      "atr": 0.11,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 33,
+      "atr": 0.1128,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 78,
+      "atr": 0.121,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 73,
+      "atr": 0.1296,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COTI",
+      "rank": 197,
+      "atr": 0.1372,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0018,
+    "cum_pnl": 3.1611,
+    "leverage": 0.071,
+    "atr": 0.0075,
+    "marketcap_pnt": 0.0302,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "CELR",
+      "pnl": 0.2236,
+      "pnl_value": 0.0083,
+      "weight": 0.0093,
+      "rank": 128,
+      "atr": 0.1064,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.008,
+      "pnl_value": -0.0004,
+      "weight": 0.0117,
+      "rank": 31,
+      "atr": 0.0851,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.0307,
+      "pnl_value": -0.0011,
+      "weight": 0.0088,
+      "rank": 14,
+      "atr": 0.113,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.045,
+      "pnl_value": -0.002,
+      "weight": 0.0111,
+      "rank": 25,
+      "atr": 0.0891,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.0578,
+      "pnl_value": -0.0025,
+      "weight": 0.011,
+      "rank": 15,
+      "atr": 0.0901,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0659,
+      "pnl_value": -0.0024,
+      "weight": 0.0091,
+      "rank": 58,
+      "atr": 0.1083,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": -0.067,
+      "pnl_value": -0.0025,
+      "weight": 0.0093,
+      "rank": 117,
+      "atr": 0.1061,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XTZ",
+      "rank": 31,
+      "atr": 0.0851,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 25,
+      "atr": 0.0891,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 15,
+      "atr": 0.0901,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 117,
+      "atr": 0.1061,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 128,
+      "atr": 0.1064,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 58,
+      "atr": 0.1083,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 14,
+      "atr": 0.113,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 2.9829,
+    "leverage": 0.0703,
+    "atr": 0.0069,
+    "marketcap_pnt": 0.0203,
+    "green_marketcap_pnt": 0
+  }
+}

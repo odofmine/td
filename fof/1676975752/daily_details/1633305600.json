@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "SHIB",
+      "pnl": 0.5766,
+      "pnl_value": 0.0257,
+      "weight": 0.0113,
+      "rank": 47,
+      "atr": 0.0967,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0198,
+      "pnl_value": -0.0007,
+      "weight": 0.0091,
+      "rank": 62,
+      "atr": 0.1192,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.0404,
+      "pnl_value": -0.0019,
+      "weight": 0.012,
+      "rank": 24,
+      "atr": 0.0911,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0767,
+      "pnl_value": -0.0028,
+      "weight": 0.0091,
+      "rank": 63,
+      "atr": 0.1197,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XTZ",
+      "rank": 24,
+      "atr": 0.0911,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 47,
+      "atr": 0.0967,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 62,
+      "atr": 0.1192,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 63,
+      "atr": 0.1197,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0051,
+    "cum_pnl": 2.9683,
+    "leverage": 0.0415,
+    "atr": 0.0044,
+    "marketcap_pnt": 0.0069,
+    "green_marketcap_pnt": 0
+  }
+}

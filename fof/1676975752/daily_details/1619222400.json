@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "SOL",
+      "pnl": 0.0952,
+      "pnl_value": 0.0043,
+      "weight": 0.0117,
+      "rank": 19,
+      "atr": 0.0844,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": 0.0494,
+      "pnl_value": 0.0016,
+      "weight": 0.0081,
+      "rank": 41,
+      "atr": 0.1225,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0118,
+      "pnl_value": -0.0005,
+      "weight": 0.0104,
+      "rank": 44,
+      "atr": 0.0956,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SOL",
+      "rank": 19,
+      "atr": 0.0844,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 44,
+      "atr": 0.0956,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 41,
+      "atr": 0.1225,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0014,
+    "cum_pnl": 2.9018,
+    "leverage": 0.0302,
+    "atr": 0.003,
+    "marketcap_pnt": 0.0076,
+    "green_marketcap_pnt": 0
+  }
+}

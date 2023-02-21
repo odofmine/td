@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": -0.0411,
+      "pnl_value": -0.0016,
+      "weight": 0.01,
+      "rank": 48,
+      "atr": 0.0715,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAVES",
+      "rank": 48,
+      "atr": 0.0715,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 2.8295,
+    "leverage": 0.01,
+    "atr": 0.0007,
+    "marketcap_pnt": 0.0011,
+    "green_marketcap_pnt": 0
+  }
+}

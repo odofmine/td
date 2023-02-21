@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "AVAX",
+      "pnl": 0.1688,
+      "pnl_value": 0.006,
+      "weight": 0.0089,
+      "rank": 14,
+      "atr": 0.1065,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELR",
+      "pnl": 0.1108,
+      "pnl_value": 0.0042,
+      "weight": 0.0095,
+      "rank": 128,
+      "atr": 0.1002,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": 0.0865,
+      "pnl_value": 0.0034,
+      "weight": 0.01,
+      "rank": 25,
+      "atr": 0.0949,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XTZ",
+      "pnl": 0.0068,
+      "pnl_value": 0.0003,
+      "weight": 0.0102,
+      "rank": 31,
+      "atr": 0.0927,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SKL",
+      "pnl": -0.0133,
+      "pnl_value": -0.0004,
+      "weight": 0.0081,
+      "rank": 134,
+      "atr": 0.1173,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0156,
+      "pnl_value": -0.0006,
+      "weight": 0.0102,
+      "rank": 75,
+      "atr": 0.0928,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "PHA",
+      "pnl": -0.0317,
+      "pnl_value": -0.0017,
+      "weight": 0.0135,
+      "rank": 187,
+      "atr": 0.0705,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PHA",
+      "rank": 187,
+      "atr": 0.0705,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 31,
+      "atr": 0.0927,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 75,
+      "atr": 0.0928,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 25,
+      "atr": 0.0949,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 128,
+      "atr": 0.1002,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 14,
+      "atr": 0.1065,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SKL",
+      "rank": 134,
+      "atr": 0.1173,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0028,
+    "cum_pnl": 2.995,
+    "leverage": 0.0704,
+    "atr": 0.0066,
+    "marketcap_pnt": 0.014,
+    "green_marketcap_pnt": 0
+  }
+}

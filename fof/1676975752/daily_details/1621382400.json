@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": -0.3364,
+      "pnl_value": -0.0192,
+      "weight": 0.0137,
+      "rank": 19,
+      "atr": 0.0708,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.3412,
+      "pnl_value": -0.0138,
+      "weight": 0.0097,
+      "rank": 28,
+      "atr": 0.1001,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": -0.3749,
+      "pnl_value": -0.0169,
+      "weight": 0.0108,
+      "rank": 16,
+      "atr": 0.0896,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.387,
+      "pnl_value": -0.0144,
+      "weight": 0.0089,
+      "rank": 63,
+      "atr": 0.1084,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.3875,
+      "pnl_value": -0.0115,
+      "weight": 0.0071,
+      "rank": 82,
+      "atr": 0.1353,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.0708,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 16,
+      "atr": 0.0896,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 28,
+      "atr": 0.1001,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 63,
+      "atr": 0.1084,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 82,
+      "atr": 0.1353,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0181,
+    "cum_pnl": 3.0955,
+    "leverage": 0.0502,
+    "atr": 0.0048,
+    "marketcap_pnt": 0.0156,
+    "green_marketcap_pnt": 0
+  }
+}

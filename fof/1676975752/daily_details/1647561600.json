@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "XNO",
+      "pnl": -0.1046,
+      "pnl_value": -0.004,
+      "weight": 0.01,
+      "rank": 180,
+      "atr": 0.0976,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XNO",
+      "rank": 180,
+      "atr": 0.0976,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 2.8247,
+    "leverage": 0.01,
+    "atr": 0.001,
+    "marketcap_pnt": 0.0001,
+    "green_marketcap_pnt": 0
+  }
+}

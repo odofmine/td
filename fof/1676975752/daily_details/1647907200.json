@@ -1,0 +1,357 @@
+{
+  "pnls": [
+    {
+      "name": "ETC",
+      "pnl": 0.1952,
+      "pnl_value": 0.0091,
+      "weight": 0.0122,
+      "rank": 29,
+      "atr": 0.0673,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": 0.1949,
+      "pnl_value": 0.0084,
+      "weight": 0.0113,
+      "rank": 102,
+      "atr": 0.0727,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": 0.1213,
+      "pnl_value": 0.0062,
+      "weight": 0.0135,
+      "rank": 25,
+      "atr": 0.0612,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": 0.1117,
+      "pnl_value": 0.0043,
+      "weight": 0.01,
+      "rank": 98,
+      "atr": 0.0827,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "IMX",
+      "pnl": 0.0808,
+      "pnl_value": 0.0016,
+      "weight": 0.0053,
+      "rank": 124,
+      "atr": 0.1537,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0574,
+      "pnl_value": 0.0025,
+      "weight": 0.0113,
+      "rank": 74,
+      "atr": 0.0727,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0568,
+      "pnl_value": 0.0026,
+      "weight": 0.0118,
+      "rank": 20,
+      "atr": 0.0696,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SXP",
+      "pnl": 0.0416,
+      "pnl_value": 0.0016,
+      "weight": 0.0102,
+      "rank": 100,
+      "atr": 0.0804,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "C98",
+      "pnl": 0.0367,
+      "pnl_value": 0.0011,
+      "weight": 0.008,
+      "rank": 170,
+      "atr": 0.1033,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "VGX",
+      "pnl": 0.0208,
+      "pnl_value": 0.0007,
+      "weight": 0.0082,
+      "rank": 128,
+      "atr": 0.1,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STORJ",
+      "pnl": 0.0175,
+      "pnl_value": 0.0006,
+      "weight": 0.0087,
+      "rank": 140,
+      "atr": 0.0947,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0157,
+      "pnl_value": 0.0007,
+      "weight": 0.0122,
+      "rank": 31,
+      "atr": 0.0678,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SRM",
+      "pnl": 0.0093,
+      "pnl_value": 0.0004,
+      "weight": 0.01,
+      "rank": 152,
+      "atr": 0.0823,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0098,
+      "rank": 101,
+      "atr": 0.0844,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0007,
+      "pnl_value": -0.0,
+      "weight": 0.0126,
+      "rank": 6,
+      "atr": 0.0655,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AUDIO",
+      "pnl": -0.004,
+      "pnl_value": -0.0001,
+      "weight": 0.0074,
+      "rank": 103,
+      "atr": 0.1117,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0065,
+      "pnl_value": -0.0002,
+      "weight": 0.009,
+      "rank": 53,
+      "atr": 0.0919,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": -0.025,
+      "pnl_value": -0.0008,
+      "weight": 0.0087,
+      "rank": 165,
+      "atr": 0.0941,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.0263,
+      "pnl_value": -0.0009,
+      "weight": 0.0089,
+      "rank": 10,
+      "atr": 0.0923,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XNO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "1INCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCH",
+      "rank": 25,
+      "atr": 0.0612,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0655,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 29,
+      "atr": 0.0673,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 31,
+      "atr": 0.0678,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 20,
+      "atr": 0.0696,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 74,
+      "atr": 0.0727,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 102,
+      "atr": 0.0727,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SXP",
+      "rank": 100,
+      "atr": 0.0804,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 152,
+      "atr": 0.0823,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 98,
+      "atr": 0.0827,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 101,
+      "atr": 0.0844,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 53,
+      "atr": 0.0919,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 10,
+      "atr": 0.0923,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 165,
+      "atr": 0.0941,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 140,
+      "atr": 0.0947,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VGX",
+      "rank": 128,
+      "atr": 0.1,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "C98",
+      "rank": 170,
+      "atr": 0.1033,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AUDIO",
+      "rank": 103,
+      "atr": 0.1117,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IMX",
+      "rank": 124,
+      "atr": 0.1537,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0099,
+    "cum_pnl": 2.8495,
+    "leverage": 0.1891,
+    "atr": 0.0156,
+    "marketcap_pnt": 0.0515,
+    "green_marketcap_pnt": 0
+  }
+}

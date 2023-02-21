@@ -1,0 +1,252 @@
+{
+  "pnls": [
+    {
+      "name": "RUNE",
+      "pnl": 0.111,
+      "pnl_value": 0.0016,
+      "weight": 0.009,
+      "rank": 76,
+      "atr": 0.1038,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": 0.0707,
+      "pnl_value": 0.0005,
+      "weight": 0.0046,
+      "rank": 26,
+      "atr": 0.2005,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAL",
+      "pnl": 0.0627,
+      "pnl_value": 0.0007,
+      "weight": 0.0075,
+      "rank": 102,
+      "atr": 0.1246,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0497,
+      "pnl_value": 0.0018,
+      "weight": 0.0226,
+      "rank": 4,
+      "atr": 0.0413,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TRB",
+      "pnl": 0.0427,
+      "pnl_value": 0.0004,
+      "weight": 0.0056,
+      "rank": 166,
+      "atr": 0.1656,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZIL",
+      "pnl": 0.041,
+      "pnl_value": 0.0008,
+      "weight": 0.0131,
+      "rank": 65,
+      "atr": 0.0713,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0337,
+      "pnl_value": 0.001,
+      "weight": 0.018,
+      "rank": 7,
+      "atr": 0.0519,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0319,
+      "pnl_value": 0.0008,
+      "weight": 0.0165,
+      "rank": 29,
+      "atr": 0.0566,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": 0.0167,
+      "pnl_value": 0.0002,
+      "weight": 0.0085,
+      "rank": 108,
+      "atr": 0.1094,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": 0.0155,
+      "pnl_value": 0.0005,
+      "weight": 0.0225,
+      "rank": 45,
+      "atr": 0.0416,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": 0.0083,
+      "pnl_value": 0.0,
+      "weight": 0.0036,
+      "rank": 71,
+      "atr": 0.2578,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0039,
+      "pnl_value": 0.0001,
+      "weight": 0.016,
+      "rank": 42,
+      "atr": 0.0584,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XVS",
+      "pnl": -0.1315,
+      "pnl_value": -0.0012,
+      "weight": 0.0059,
+      "rank": 199,
+      "atr": 0.1569,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.0413,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 45,
+      "atr": 0.0416,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0519,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 29,
+      "atr": 0.0566,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 42,
+      "atr": 0.0584,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 65,
+      "atr": 0.0713,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 76,
+      "atr": 0.1038,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STRAT",
+      "rank": 142,
+      "atr": 0.1069,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 108,
+      "atr": 0.1094,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 102,
+      "atr": 0.1246,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XVS",
+      "rank": 199,
+      "atr": 0.1569,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRB",
+      "rank": 166,
+      "atr": 0.1656,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 26,
+      "atr": 0.2005,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 71,
+      "atr": 0.2578,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0046,
+    "cum_pnl": 0.5816,
+    "leverage": 0.1534,
+    "atr": 0.0121,
+    "marketcap_pnt": 0.0431,
+    "green_marketcap_pnt": 0
+  }
+}

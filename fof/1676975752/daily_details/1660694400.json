@@ -1,0 +1,248 @@
+{
+  "pnls": [
+    {
+      "name": "FLUX",
+      "pnl": 0.12,
+      "pnl_value": 0.0042,
+      "weight": 0.009,
+      "rank": 129,
+      "atr": 0.0899,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UMA",
+      "pnl": -0.021,
+      "pnl_value": -0.0007,
+      "weight": 0.0081,
+      "rank": 140,
+      "atr": 0.1004,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0332,
+      "pnl_value": -0.0017,
+      "weight": 0.0127,
+      "rank": 6,
+      "atr": 0.0642,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.0493,
+      "pnl_value": -0.0018,
+      "weight": 0.0093,
+      "rank": 159,
+      "atr": 0.0874,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "API3",
+      "pnl": -0.0582,
+      "pnl_value": -0.0019,
+      "weight": 0.0082,
+      "rank": 174,
+      "atr": 0.0995,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": -0.0586,
+      "pnl_value": -0.0021,
+      "weight": 0.0092,
+      "rank": 103,
+      "atr": 0.0879,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SHIB",
+      "pnl": -0.0645,
+      "pnl_value": -0.003,
+      "weight": 0.0118,
+      "rank": 12,
+      "atr": 0.0688,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0756,
+      "pnl_value": -0.0037,
+      "weight": 0.0126,
+      "rank": 10,
+      "atr": 0.0644,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.0855,
+      "pnl_value": -0.0035,
+      "weight": 0.0103,
+      "rank": 94,
+      "atr": 0.079,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GALA",
+      "pnl": -0.0892,
+      "pnl_value": -0.0031,
+      "weight": 0.0089,
+      "rank": 85,
+      "atr": 0.091,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GMT",
+      "pnl": -0.0968,
+      "pnl_value": -0.0031,
+      "weight": 0.0082,
+      "rank": 78,
+      "atr": 0.099,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOTX",
+      "pnl": -0.1061,
+      "pnl_value": -0.0046,
+      "weight": 0.011,
+      "rank": 107,
+      "atr": 0.0742,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BAL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEXO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 6,
+      "atr": 0.0642,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 10,
+      "atr": 0.0644,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 12,
+      "atr": 0.0688,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 107,
+      "atr": 0.0742,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 94,
+      "atr": 0.079,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 159,
+      "atr": 0.0874,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 103,
+      "atr": 0.0879,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FLUX",
+      "rank": 129,
+      "atr": 0.0899,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GALA",
+      "rank": 85,
+      "atr": 0.091,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GMT",
+      "rank": 78,
+      "atr": 0.099,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "API3",
+      "rank": 174,
+      "atr": 0.0995,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UMA",
+      "rank": 140,
+      "atr": 0.1004,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0063,
+    "cum_pnl": 2.9009,
+    "leverage": 0.1193,
+    "atr": 0.0097,
+    "marketcap_pnt": 0.037,
+    "green_marketcap_pnt": 0
+  }
+}

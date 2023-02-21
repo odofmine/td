@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": 0.0072,
+      "pnl_value": 0.0003,
+      "weight": 0.01,
+      "rank": 52,
+      "atr": 0.0664,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WIN",
+      "pnl": -0.008,
+      "pnl_value": -0.0003,
+      "weight": 0.0112,
+      "rank": 176,
+      "atr": 0.0593,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0404,
+      "pnl_value": -0.0019,
+      "weight": 0.0124,
+      "rank": 24,
+      "atr": 0.0538,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0725,
+      "pnl_value": -0.0031,
+      "weight": 0.0109,
+      "rank": 6,
+      "atr": 0.0614,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0836,
+      "pnl_value": -0.0023,
+      "weight": 0.0072,
+      "rank": 158,
+      "atr": 0.092,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0895,
+      "pnl_value": -0.0033,
+      "weight": 0.0095,
+      "rank": 141,
+      "atr": 0.0701,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": -0.1064,
+      "pnl_value": -0.0037,
+      "weight": 0.0091,
+      "rank": 96,
+      "atr": 0.0733,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 24,
+      "atr": 0.0538,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WIN",
+      "rank": 176,
+      "atr": 0.0593,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0614,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 52,
+      "atr": 0.0664,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 141,
+      "atr": 0.0701,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 96,
+      "atr": 0.0733,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 158,
+      "atr": 0.092,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0037,
+    "cum_pnl": 2.8502,
+    "leverage": 0.0703,
+    "atr": 0.0047,
+    "marketcap_pnt": 0.0339,
+    "green_marketcap_pnt": 0
+  }
+}

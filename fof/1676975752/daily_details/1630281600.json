@@ -1,0 +1,180 @@
+{
+  "pnls": [
+    {
+      "name": "CELO",
+      "pnl": 0.6717,
+      "pnl_value": 0.0324,
+      "weight": 0.0111,
+      "rank": 85,
+      "atr": 0.0849,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": 0.3206,
+      "pnl_value": 0.0137,
+      "weight": 0.0098,
+      "rank": 76,
+      "atr": 0.0958,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HIVE",
+      "pnl": 0.0072,
+      "pnl_value": 0.0003,
+      "weight": 0.01,
+      "rank": 183,
+      "atr": 0.0944,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": -0.009,
+      "pnl_value": -0.0004,
+      "weight": 0.0103,
+      "rank": 75,
+      "atr": 0.0918,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ALICE",
+      "pnl": -0.0536,
+      "pnl_value": -0.002,
+      "weight": 0.0088,
+      "rank": 133,
+      "atr": 0.1076,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SKL",
+      "pnl": -0.0615,
+      "pnl_value": -0.0024,
+      "weight": 0.009,
+      "rank": 127,
+      "atr": 0.1049,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CHR",
+      "pnl": -0.0836,
+      "pnl_value": -0.0032,
+      "weight": 0.0088,
+      "rank": 190,
+      "atr": 0.1069,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.0844,
+      "pnl_value": -0.005,
+      "weight": 0.0135,
+      "rank": 30,
+      "atr": 0.0702,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ANKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "COTI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XTZ",
+      "rank": 30,
+      "atr": 0.0702,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 85,
+      "atr": 0.0849,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 75,
+      "atr": 0.0918,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HIVE",
+      "rank": 183,
+      "atr": 0.0944,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 76,
+      "atr": 0.0958,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SKL",
+      "rank": 127,
+      "atr": 0.1049,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHR",
+      "rank": 190,
+      "atr": 0.1069,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALICE",
+      "rank": 133,
+      "atr": 0.1076,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0077,
+    "cum_pnl": 3.3782,
+    "leverage": 0.0813,
+    "atr": 0.0076,
+    "marketcap_pnt": 0.005,
+    "green_marketcap_pnt": 0
+  }
+}

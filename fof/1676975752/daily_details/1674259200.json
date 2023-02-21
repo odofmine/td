@@ -1,0 +1,201 @@
+{
+  "pnls": [
+    {
+      "name": "MAGIC",
+      "pnl": 0.116,
+      "pnl_value": 0.0027,
+      "weight": 0.0061,
+      "rank": 160,
+      "atr": 0.1126,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "APT",
+      "pnl": 0.073,
+      "pnl_value": 0.0019,
+      "weight": 0.0067,
+      "rank": 46,
+      "atr": 0.1021,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": 0.0102,
+      "pnl_value": 0.0004,
+      "weight": 0.0113,
+      "rank": 180,
+      "atr": 0.0611,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0037,
+      "pnl_value": 0.0002,
+      "weight": 0.0109,
+      "rank": 84,
+      "atr": 0.0635,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0002,
+      "pnl_value": -0.0,
+      "weight": 0.0115,
+      "rank": 92,
+      "atr": 0.0601,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AMP",
+      "pnl": -0.0101,
+      "pnl_value": -0.0004,
+      "weight": 0.0101,
+      "rank": 152,
+      "atr": 0.0683,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0206,
+      "pnl_value": -0.0008,
+      "weight": 0.01,
+      "rank": 98,
+      "atr": 0.0692,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FLUX",
+      "pnl": -0.0222,
+      "pnl_value": -0.0008,
+      "weight": 0.0097,
+      "rank": 148,
+      "atr": 0.0715,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SHIB",
+      "pnl": -0.0295,
+      "pnl_value": -0.0014,
+      "weight": 0.0123,
+      "rank": 14,
+      "atr": 0.0563,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RNDR",
+      "pnl": -0.0486,
+      "pnl_value": -0.0017,
+      "weight": 0.0092,
+      "rank": 159,
+      "atr": 0.0746,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SKL",
+      "pnl": -0.0635,
+      "pnl_value": -0.0031,
+      "weight": 0.0128,
+      "rank": 177,
+      "atr": 0.0541,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SKL",
+      "rank": 177,
+      "atr": 0.0541,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 14,
+      "atr": 0.0563,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 92,
+      "atr": 0.0601,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 180,
+      "atr": 0.0611,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 84,
+      "atr": 0.0635,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AMP",
+      "rank": 152,
+      "atr": 0.0683,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 98,
+      "atr": 0.0692,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FLUX",
+      "rank": 148,
+      "atr": 0.0715,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 159,
+      "atr": 0.0746,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "APT",
+      "rank": 46,
+      "atr": 0.1021,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAGIC",
+      "rank": 160,
+      "atr": 0.1126,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 2.8511,
+    "leverage": 0.1106,
+    "atr": 0.0076,
+    "marketcap_pnt": 0.0091,
+    "green_marketcap_pnt": 0
+  }
+}

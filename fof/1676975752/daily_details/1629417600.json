@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "AVAX",
+      "pnl": 0.2771,
+      "pnl_value": 0.0172,
+      "weight": 0.0139,
+      "rank": 41,
+      "atr": 0.0701,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": 0.1479,
+      "pnl_value": 0.0073,
+      "weight": 0.0111,
+      "rank": 66,
+      "atr": 0.0875,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": 0.0889,
+      "pnl_value": 0.0048,
+      "weight": 0.012,
+      "rank": 44,
+      "atr": 0.0809,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AR",
+      "pnl": 0.0308,
+      "pnl_value": 0.0013,
+      "weight": 0.0098,
+      "rank": 116,
+      "atr": 0.099,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": 0.0114,
+      "pnl_value": 0.0006,
+      "weight": 0.012,
+      "rank": 39,
+      "atr": 0.0809,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHR",
+      "pnl": 0.0038,
+      "pnl_value": 0.0001,
+      "weight": 0.008,
+      "rank": 195,
+      "atr": 0.1219,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.0167,
+      "pnl_value": -0.001,
+      "weight": 0.0131,
+      "rank": 73,
+      "atr": 0.0744,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.0308,
+      "pnl_value": -0.0016,
+      "weight": 0.0116,
+      "rank": 96,
+      "atr": 0.0841,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AVAX",
+      "rank": 41,
+      "atr": 0.0701,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 73,
+      "atr": 0.0744,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 39,
+      "atr": 0.0809,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 44,
+      "atr": 0.0809,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 96,
+      "atr": 0.0841,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 66,
+      "atr": 0.0875,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 116,
+      "atr": 0.099,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHR",
+      "rank": 195,
+      "atr": 0.1219,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0065,
+    "cum_pnl": 3.485,
+    "leverage": 0.0915,
+    "atr": 0.0078,
+    "marketcap_pnt": 0.0074,
+    "green_marketcap_pnt": 0
+  }
+}

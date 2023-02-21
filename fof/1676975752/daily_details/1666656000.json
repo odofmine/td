@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "BAL",
+      "pnl": 0.0778,
+      "pnl_value": 0.0025,
+      "weight": 0.0084,
+      "rank": 113,
+      "atr": 0.0714,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0273,
+      "pnl_value": 0.0012,
+      "weight": 0.0113,
+      "rank": 11,
+      "atr": 0.0533,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0159,
+      "pnl_value": 0.0007,
+      "weight": 0.0109,
+      "rank": 74,
+      "atr": 0.0553,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0376,
+      "pnl_value": -0.0014,
+      "weight": 0.0097,
+      "rank": 45,
+      "atr": 0.0619,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 11,
+      "atr": 0.0533,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 74,
+      "atr": 0.0553,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 45,
+      "atr": 0.0619,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 113,
+      "atr": 0.0714,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 2.8347,
+    "leverage": 0.0403,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.0107,
+    "green_marketcap_pnt": 0
+  }
+}

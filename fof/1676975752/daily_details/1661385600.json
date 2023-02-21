@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "ATOM",
+      "pnl": -0.0129,
+      "pnl_value": -0.0005,
+      "weight": 0.01,
+      "rank": 26,
+      "atr": 0.0742,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ATOM",
+      "rank": 26,
+      "atr": 0.0742,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 2.892,
+    "leverage": 0.01,
+    "atr": 0.0007,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "ENS",
+      "pnl": -0.0095,
+      "pnl_value": -0.0004,
+      "weight": 0.01,
+      "rank": 114,
+      "atr": 0.0843,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RSR",
+      "pnl": -0.0263,
+      "pnl_value": -0.001,
+      "weight": 0.0099,
+      "rank": 98,
+      "atr": 0.0853,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ENS",
+      "rank": 114,
+      "atr": 0.0843,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 98,
+      "atr": 0.0853,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 2.8641,
+    "leverage": 0.0199,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

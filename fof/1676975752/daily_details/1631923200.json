@@ -1,0 +1,139 @@
+{
+  "pnls": [
+    {
+      "name": "COTI",
+      "pnl": 0.0513,
+      "pnl_value": 0.0017,
+      "weight": 0.0084,
+      "rank": 173,
+      "atr": 0.1132,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.0161,
+      "pnl_value": -0.0007,
+      "weight": 0.0103,
+      "rank": 14,
+      "atr": 0.0923,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELR",
+      "pnl": -0.0573,
+      "pnl_value": -0.0025,
+      "weight": 0.011,
+      "rank": 128,
+      "atr": 0.0862,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SHIB",
+      "pnl": -0.0711,
+      "pnl_value": -0.0025,
+      "weight": 0.0088,
+      "rank": 55,
+      "atr": 0.1076,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "PHA",
+      "pnl": -0.0771,
+      "pnl_value": -0.0036,
+      "weight": 0.0118,
+      "rank": 187,
+      "atr": 0.0807,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SKL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XTZ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PHA",
+      "rank": 187,
+      "atr": 0.0807,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 128,
+      "atr": 0.0862,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 14,
+      "atr": 0.0923,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 55,
+      "atr": 0.1076,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COTI",
+      "rank": 173,
+      "atr": 0.1132,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0019,
+    "cum_pnl": 2.9763,
+    "leverage": 0.0503,
+    "atr": 0.0047,
+    "marketcap_pnt": 0.008,
+    "green_marketcap_pnt": 0
+  }
+}

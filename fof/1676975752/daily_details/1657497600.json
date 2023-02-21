@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "ELF",
+      "pnl": 0.1113,
+      "pnl_value": 0.0041,
+      "weight": 0.0091,
+      "rank": 164,
+      "atr": 0.115,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0152,
+      "pnl_value": -0.0006,
+      "weight": 0.009,
+      "rank": 19,
+      "atr": 0.1169,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SHIB",
+      "pnl": -0.0794,
+      "pnl_value": -0.0033,
+      "weight": 0.0103,
+      "rank": 14,
+      "atr": 0.102,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.1074,
+      "pnl_value": -0.0049,
+      "weight": 0.0113,
+      "rank": 18,
+      "atr": 0.0929,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "UNI",
+      "rank": 18,
+      "atr": 0.0929,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 14,
+      "atr": 0.102,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ELF",
+      "rank": 164,
+      "atr": 0.115,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.1169,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 3.0728,
+    "leverage": 0.0397,
+    "atr": 0.0042,
+    "marketcap_pnt": 0.0168,
+    "green_marketcap_pnt": 0
+  }
+}

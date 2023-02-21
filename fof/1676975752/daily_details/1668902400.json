@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": -0.0291,
+      "pnl_value": -0.0011,
+      "weight": 0.0101,
+      "rank": 17,
+      "atr": 0.0654,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.1528,
+      "pnl_value": -0.0045,
+      "weight": 0.008,
+      "rank": 197,
+      "atr": 0.0828,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "YFII",
+      "pnl": -0.3265,
+      "pnl_value": -0.0146,
+      "weight": 0.0121,
+      "rank": 185,
+      "atr": 0.0549,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "YFII",
+      "rank": 185,
+      "atr": 0.0549,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 17,
+      "atr": 0.0654,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 197,
+      "atr": 0.0828,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0055,
+    "cum_pnl": 2.6677,
+    "leverage": 0.0302,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0052,
+    "green_marketcap_pnt": 0
+  }
+}
