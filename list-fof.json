@@ -1,5 +1,23 @@
 [
   {
+    "id": "1676975752",
+    "date": "2023-02-21 18:35:52",
+    "domain": "binance",
+    "start_point": "2020-01-01",
+    "end_point": "2023-02-21",
+    "funds": [
+      "100-10"
+    ],
+    "ever_holded_count": 205,
+    "avg_ever_holded_count": 10.9852,
+    "max_retracement": -0.2293,
+    "annual_return": 0.5487,
+    "sharpe_ratio": 1.5133,
+    "type": "fof",
+    "source": "",
+    "frequency": ""
+  },
+  {
     "id": "1676967642",
     "date": "2023-02-21 16:20:42",
     "domain": "cryptocompare",
