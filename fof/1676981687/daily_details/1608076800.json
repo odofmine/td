@@ -1,0 +1,184 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.1198,
+      "pnl_value": 0.0027,
+      "weight": 0.012,
+      "rank": 35,
+      "atr": 0.075,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0552,
+      "pnl_value": 0.0016,
+      "weight": 0.0157,
+      "rank": 14,
+      "atr": 0.0575,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": 0.0471,
+      "pnl_value": 0.0007,
+      "weight": 0.0075,
+      "rank": 49,
+      "atr": 0.1204,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0112,
+      "pnl_value": -0.0002,
+      "weight": 0.01,
+      "rank": 68,
+      "atr": 0.0899,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AION",
+      "pnl": -0.0328,
+      "pnl_value": -0.0006,
+      "weight": 0.0094,
+      "rank": 173,
+      "atr": 0.0963,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0359,
+      "pnl_value": -0.0008,
+      "weight": 0.0127,
+      "rank": 141,
+      "atr": 0.071,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.0362,
+      "pnl_value": -0.0006,
+      "weight": 0.0084,
+      "rank": 42,
+      "atr": 0.1076,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0424,
+      "pnl_value": -0.0009,
+      "weight": 0.0108,
+      "rank": 192,
+      "atr": 0.0838,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.0498,
+      "pnl_value": -0.0009,
+      "weight": 0.0095,
+      "rank": 147,
+      "atr": 0.0953,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.1074,
+      "pnl_value": -0.0029,
+      "weight": 0.0146,
+      "rank": 64,
+      "atr": 0.062,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 14,
+      "atr": 0.0575,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 64,
+      "atr": 0.062,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 141,
+      "atr": 0.071,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 35,
+      "atr": 0.075,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 192,
+      "atr": 0.0838,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 68,
+      "atr": 0.0899,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 147,
+      "atr": 0.0953,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AION",
+      "rank": 173,
+      "atr": 0.0963,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 42,
+      "atr": 0.1076,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 49,
+      "atr": 0.1204,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 0.8558,
+    "leverage": 0.1106,
+    "atr": 0.009,
+    "marketcap_pnt": 0.009,
+    "green_marketcap_pnt": 0
+  }
+}

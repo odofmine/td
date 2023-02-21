@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "STX",
+      "pnl": -0.0082,
+      "pnl_value": -0.0004,
+      "weight": 0.0114,
+      "rank": 92,
+      "atr": 0.0988,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AVA",
+      "pnl": -0.0558,
+      "pnl_value": -0.002,
+      "weight": 0.0094,
+      "rank": 191,
+      "atr": 0.1197,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "STX",
+      "rank": 92,
+      "atr": 0.0988,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AVA",
+      "rank": 191,
+      "atr": 0.1197,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0006,
+    "cum_pnl": 2.8575,
+    "leverage": 0.0208,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0004,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "MTL",
+      "pnl": -0.1942,
+      "pnl_value": -0.0051,
+      "weight": 0.0188,
+      "rank": 143,
+      "atr": 0.1273,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MTL",
+      "rank": 143,
+      "atr": 0.1273,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0036,
+    "cum_pnl": 0.3937,
+    "leverage": 0.0188,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.0002,
+    "green_marketcap_pnt": 0
+  }
+}

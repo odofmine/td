@@ -1,0 +1,384 @@
+{
+  "pnls": [
+    {
+      "name": "ETC",
+      "pnl": 0.332,
+      "pnl_value": 0.0276,
+      "weight": 0.0156,
+      "rank": 31,
+      "atr": 0.0734,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": 0.3134,
+      "pnl_value": 0.0167,
+      "weight": 0.01,
+      "rank": 183,
+      "atr": 0.1144,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.082,
+      "pnl_value": 0.0058,
+      "weight": 0.0133,
+      "rank": 12,
+      "atr": 0.0865,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RUNE",
+      "pnl": -0.05,
+      "pnl_value": -0.0034,
+      "weight": 0.0128,
+      "rank": 45,
+      "atr": 0.0897,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.056,
+      "pnl_value": -0.0065,
+      "weight": 0.0219,
+      "rank": 2,
+      "atr": 0.0524,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.0575,
+      "pnl_value": -0.0041,
+      "weight": 0.0133,
+      "rank": 72,
+      "atr": 0.086,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0637,
+      "pnl_value": -0.0047,
+      "weight": 0.0139,
+      "rank": 10,
+      "atr": 0.0825,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": -0.0847,
+      "pnl_value": -0.0046,
+      "weight": 0.0103,
+      "rank": 81,
+      "atr": 0.1118,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAL",
+      "pnl": -0.0964,
+      "pnl_value": -0.0067,
+      "weight": 0.013,
+      "rank": 143,
+      "atr": 0.088,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0987,
+      "pnl_value": -0.0087,
+      "weight": 0.0165,
+      "rank": 3,
+      "atr": 0.0695,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.1073,
+      "pnl_value": -0.006,
+      "weight": 0.0105,
+      "rank": 4,
+      "atr": 0.1091,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.109,
+      "pnl_value": -0.0083,
+      "weight": 0.0143,
+      "rank": 41,
+      "atr": 0.0802,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": -0.1222,
+      "pnl_value": -0.0076,
+      "weight": 0.0117,
+      "rank": 125,
+      "atr": 0.0979,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.1234,
+      "pnl_value": -0.0099,
+      "weight": 0.0151,
+      "rank": 34,
+      "atr": 0.0762,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XVS",
+      "pnl": -0.1272,
+      "pnl_value": -0.007,
+      "weight": 0.0103,
+      "rank": 90,
+      "atr": 0.1114,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UTK",
+      "pnl": -0.1301,
+      "pnl_value": -0.0061,
+      "weight": 0.0088,
+      "rank": 166,
+      "atr": 0.1296,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOTX",
+      "pnl": -0.1308,
+      "pnl_value": -0.007,
+      "weight": 0.01,
+      "rank": 120,
+      "atr": 0.1151,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.1361,
+      "pnl_value": -0.0092,
+      "weight": 0.0127,
+      "rank": 28,
+      "atr": 0.0902,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.1554,
+      "pnl_value": -0.008,
+      "weight": 0.0097,
+      "rank": 42,
+      "atr": 0.1187,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ALICE",
+      "pnl": -0.1612,
+      "pnl_value": -0.0045,
+      "weight": 0.0053,
+      "rank": 176,
+      "atr": 0.2163,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MANA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "UNI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0524,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 3,
+      "atr": 0.0695,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 31,
+      "atr": 0.0734,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 34,
+      "atr": 0.0762,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 41,
+      "atr": 0.0802,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 10,
+      "atr": 0.0825,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 72,
+      "atr": 0.086,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 12,
+      "atr": 0.0865,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 143,
+      "atr": 0.088,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 45,
+      "atr": 0.0897,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 28,
+      "atr": 0.0902,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 125,
+      "atr": 0.0979,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.1091,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XVS",
+      "rank": 90,
+      "atr": 0.1114,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 81,
+      "atr": 0.1118,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 183,
+      "atr": 0.1144,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 120,
+      "atr": 0.1151,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 42,
+      "atr": 0.1187,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UTK",
+      "rank": 166,
+      "atr": 0.1296,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALICE",
+      "rank": 176,
+      "atr": 0.2163,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0117,
+    "cum_pnl": 4.2577,
+    "leverage": 0.249,
+    "atr": 0.0229,
+    "marketcap_pnt": 0.2636,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "ANT",
+      "pnl": -0.0046,
+      "pnl_value": -0.0002,
+      "weight": 0.0101,
+      "rank": 182,
+      "atr": 0.0957,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ANT",
+      "rank": 182,
+      "atr": 0.0957,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0,
+    "cum_pnl": 3.3225,
+    "leverage": 0.0101,
+    "atr": 0.001,
+    "marketcap_pnt": 0.0001,
+    "green_marketcap_pnt": 0
+  }
+}

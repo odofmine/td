@@ -1,0 +1,105 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": -0.0212,
+      "pnl_value": -0.0007,
+      "weight": 0.0168,
+      "rank": 16,
+      "atr": 0.0589,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.0302,
+      "pnl_value": -0.0004,
+      "weight": 0.0069,
+      "rank": 139,
+      "atr": 0.1432,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.0575,
+      "pnl_value": -0.0008,
+      "weight": 0.0077,
+      "rank": 42,
+      "atr": 0.128,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "STORJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.0589,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 42,
+      "atr": 0.128,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 139,
+      "atr": 0.1432,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 0.915,
+    "leverage": 0.0314,
+    "atr": 0.003,
+    "marketcap_pnt": 0.0064,
+    "green_marketcap_pnt": 0
+  }
+}

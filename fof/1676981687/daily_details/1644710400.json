@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "KEEP",
+      "pnl": -0.0438,
+      "pnl_value": -0.0022,
+      "weight": 0.0108,
+      "rank": 170,
+      "atr": 0.1073,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.0523,
+      "pnl_value": -0.0025,
+      "weight": 0.0102,
+      "rank": 43,
+      "atr": 0.1136,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KEEP",
+      "rank": 170,
+      "atr": 0.1073,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 43,
+      "atr": 0.1136,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 3.7291,
+    "leverage": 0.021,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

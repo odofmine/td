@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "BAL",
+      "pnl": 0.0206,
+      "pnl_value": 0.0009,
+      "weight": 0.0093,
+      "rank": 121,
+      "atr": 0.0745,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0109,
+      "rank": 45,
+      "atr": 0.0635,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0124,
+      "pnl_value": -0.0006,
+      "weight": 0.01,
+      "rank": 99,
+      "atr": 0.0696,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AAVE",
+      "rank": 45,
+      "atr": 0.0635,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 99,
+      "atr": 0.0696,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 121,
+      "atr": 0.0745,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 3.5947,
+    "leverage": 0.0302,
+    "atr": 0.0021,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

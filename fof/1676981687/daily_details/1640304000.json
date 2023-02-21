@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "NEAR",
+      "pnl": 0.0893,
+      "pnl_value": 0.0042,
+      "weight": 0.0097,
+      "rank": 31,
+      "atr": 0.1064,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ANT",
+      "pnl": 0.0816,
+      "pnl_value": 0.0043,
+      "weight": 0.0108,
+      "rank": 197,
+      "atr": 0.0958,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": 0.0777,
+      "pnl_value": 0.0032,
+      "weight": 0.0083,
+      "rank": 65,
+      "atr": 0.125,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0153,
+      "pnl_value": 0.0009,
+      "weight": 0.0127,
+      "rank": 9,
+      "atr": 0.0815,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": -0.0006,
+      "pnl_value": -0.0,
+      "weight": 0.0095,
+      "rank": 68,
+      "atr": 0.1095,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0452,
+      "pnl_value": -0.0019,
+      "weight": 0.0087,
+      "rank": 52,
+      "atr": 0.1191,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.0535,
+      "pnl_value": -0.0028,
+      "weight": 0.0106,
+      "rank": 10,
+      "atr": 0.0975,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.0815,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 197,
+      "atr": 0.0958,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 10,
+      "atr": 0.0975,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 31,
+      "atr": 0.1064,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 68,
+      "atr": 0.1095,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 52,
+      "atr": 0.1191,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 65,
+      "atr": 0.125,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0016,
+    "cum_pnl": 3.8949,
+    "leverage": 0.0703,
+    "atr": 0.0072,
+    "marketcap_pnt": 0.0311,
+    "green_marketcap_pnt": 0
+  }
+}

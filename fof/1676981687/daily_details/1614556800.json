@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "UNFI",
+      "pnl": 0.1698,
+      "pnl_value": 0.0067,
+      "weight": 0.0102,
+      "rank": 178,
+      "atr": 0.1418,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "UNFI",
+      "rank": 178,
+      "atr": 0.1418,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0017,
+    "cum_pnl": 2.8613,
+    "leverage": 0.0102,
+    "atr": 0.0014,
+    "marketcap_pnt": 0.0001,
+    "green_marketcap_pnt": 0
+  }
+}

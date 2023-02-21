@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "FXS",
+      "pnl": 0.048,
+      "pnl_value": 0.0023,
+      "weight": 0.0111,
+      "rank": 199,
+      "atr": 0.0746,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ASTR",
+      "pnl": 0.0162,
+      "pnl_value": 0.0007,
+      "weight": 0.0106,
+      "rank": 141,
+      "atr": 0.078,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.0452,
+      "pnl_value": -0.0018,
+      "weight": 0.009,
+      "rank": 182,
+      "atr": 0.0916,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FXS",
+      "rank": 199,
+      "atr": 0.0746,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ASTR",
+      "rank": 141,
+      "atr": 0.078,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 182,
+      "atr": 0.0916,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 3.323,
+    "leverage": 0.0307,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0004,
+    "green_marketcap_pnt": 0
+  }
+}

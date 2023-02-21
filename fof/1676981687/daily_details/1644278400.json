@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "MANA",
+      "pnl": 0.0554,
+      "pnl_value": 0.0028,
+      "weight": 0.0106,
+      "rank": 29,
+      "atr": 0.0974,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POLY",
+      "pnl": -0.0409,
+      "pnl_value": -0.002,
+      "weight": 0.0102,
+      "rank": 141,
+      "atr": 0.1017,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": -0.0441,
+      "pnl_value": -0.0021,
+      "weight": 0.0101,
+      "rank": 81,
+      "atr": 0.1022,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.0648,
+      "pnl_value": -0.0033,
+      "weight": 0.0106,
+      "rank": 108,
+      "atr": 0.0978,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MANA",
+      "rank": 29,
+      "atr": 0.0974,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 108,
+      "atr": 0.0978,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POLY",
+      "rank": 141,
+      "atr": 0.1017,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 81,
+      "atr": 0.1022,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 3.8081,
+    "leverage": 0.0415,
+    "atr": 0.0041,
+    "marketcap_pnt": 0.0044,
+    "green_marketcap_pnt": 0
+  }
+}

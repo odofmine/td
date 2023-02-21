@@ -1,0 +1,278 @@
+{
+  "pnls": [
+    {
+      "name": "1INCH",
+      "pnl": 0.0812,
+      "pnl_value": 0.0051,
+      "weight": 0.0127,
+      "rank": 122,
+      "atr": 0.0924,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POLS",
+      "pnl": 0.0645,
+      "pnl_value": 0.0033,
+      "weight": 0.0105,
+      "rank": 198,
+      "atr": 0.1117,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": 0.0557,
+      "pnl_value": 0.0033,
+      "weight": 0.0121,
+      "rank": 156,
+      "atr": 0.0972,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CTSI",
+      "pnl": 0.0278,
+      "pnl_value": 0.0014,
+      "weight": 0.0105,
+      "rank": 187,
+      "atr": 0.111,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0081,
+      "pnl_value": -0.0006,
+      "weight": 0.014,
+      "rank": 10,
+      "atr": 0.0838,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WRX",
+      "pnl": -0.0092,
+      "pnl_value": -0.0006,
+      "weight": 0.013,
+      "rank": 153,
+      "atr": 0.0905,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WIN",
+      "pnl": -0.014,
+      "pnl_value": -0.0008,
+      "weight": 0.0115,
+      "rank": 134,
+      "atr": 0.1016,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NKN",
+      "pnl": -0.039,
+      "pnl_value": -0.0019,
+      "weight": 0.0099,
+      "rank": 165,
+      "atr": 0.1179,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0544,
+      "pnl_value": -0.0032,
+      "weight": 0.0118,
+      "rank": 159,
+      "atr": 0.0991,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REQ",
+      "pnl": -0.0599,
+      "pnl_value": -0.0023,
+      "weight": 0.0078,
+      "rank": 196,
+      "atr": 0.15,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SKL",
+      "pnl": -0.069,
+      "pnl_value": -0.0033,
+      "weight": 0.0096,
+      "rank": 112,
+      "atr": 0.1217,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.0741,
+      "pnl_value": -0.0051,
+      "weight": 0.0139,
+      "rank": 117,
+      "atr": 0.0842,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DOT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LRC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PERP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DOGE",
+      "rank": 10,
+      "atr": 0.0838,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 117,
+      "atr": 0.0842,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WRX",
+      "rank": 153,
+      "atr": 0.0905,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "1INCH",
+      "rank": 122,
+      "atr": 0.0924,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 156,
+      "atr": 0.0972,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 159,
+      "atr": 0.0991,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WIN",
+      "rank": 134,
+      "atr": 0.1016,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CTSI",
+      "rank": 187,
+      "atr": 0.111,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POLS",
+      "rank": 198,
+      "atr": 0.1117,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NKN",
+      "rank": 165,
+      "atr": 0.1179,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SKL",
+      "rank": 112,
+      "atr": 0.1217,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REQ",
+      "rank": 196,
+      "atr": 0.15,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 3.9129,
+    "leverage": 0.1373,
+    "atr": 0.0141,
+    "marketcap_pnt": 0.0147,
+    "green_marketcap_pnt": 0
+  }
+}

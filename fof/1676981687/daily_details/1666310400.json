@@ -1,0 +1,98 @@
+{
+  "pnls": [
+    {
+      "name": "AAVE",
+      "pnl": 0.0161,
+      "pnl_value": 0.0008,
+      "weight": 0.0108,
+      "rank": 45,
+      "atr": 0.0647,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAL",
+      "pnl": -0.0166,
+      "pnl_value": -0.0007,
+      "weight": 0.0095,
+      "rank": 121,
+      "atr": 0.0739,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FXS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WOO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "INJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AAVE",
+      "rank": 45,
+      "atr": 0.0647,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 121,
+      "atr": 0.0739,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0,
+    "cum_pnl": 3.5944,
+    "leverage": 0.0203,
+    "atr": 0.0014,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

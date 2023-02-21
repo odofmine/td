@@ -1,0 +1,295 @@
+{
+  "pnls": [
+    {
+      "name": "ALGO",
+      "pnl": 0.2308,
+      "pnl_value": 0.0066,
+      "weight": 0.0176,
+      "rank": 50,
+      "atr": 0.0642,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DATA",
+      "pnl": 0.1131,
+      "pnl_value": 0.0025,
+      "weight": 0.0133,
+      "rank": 175,
+      "atr": 0.0852,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LEND",
+      "pnl": 0.0891,
+      "pnl_value": 0.0023,
+      "weight": 0.0155,
+      "rank": 41,
+      "atr": 0.0731,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FET",
+      "pnl": 0.0684,
+      "pnl_value": 0.002,
+      "weight": 0.0175,
+      "rank": 188,
+      "atr": 0.0647,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": 0.0183,
+      "pnl_value": 0.0005,
+      "weight": 0.0151,
+      "rank": 102,
+      "atr": 0.0747,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONT",
+      "pnl": 0.0165,
+      "pnl_value": 0.0005,
+      "weight": 0.0173,
+      "rank": 30,
+      "atr": 0.0653,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": 0.0048,
+      "pnl_value": 0.0002,
+      "weight": 0.0195,
+      "rank": 57,
+      "atr": 0.0582,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0335,
+      "pnl_value": -0.0012,
+      "weight": 0.0211,
+      "rank": 27,
+      "atr": 0.0537,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.034,
+      "pnl_value": -0.0012,
+      "weight": 0.0217,
+      "rank": 11,
+      "atr": 0.0522,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.0364,
+      "pnl_value": -0.0011,
+      "weight": 0.0187,
+      "rank": 13,
+      "atr": 0.0605,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ERD",
+      "pnl": -0.0528,
+      "pnl_value": -0.0016,
+      "weight": 0.0181,
+      "rank": 62,
+      "atr": 0.0625,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0721,
+      "pnl_value": -0.0019,
+      "weight": 0.0159,
+      "rank": 122,
+      "atr": 0.0712,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAND",
+      "pnl": -0.0732,
+      "pnl_value": -0.0019,
+      "weight": 0.0161,
+      "rank": 163,
+      "atr": 0.0705,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOTX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MATIC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XZC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LINK",
+      "rank": 11,
+      "atr": 0.0522,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 27,
+      "atr": 0.0537,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 57,
+      "atr": 0.0582,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 13,
+      "atr": 0.0605,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ERD",
+      "rank": 62,
+      "atr": 0.0625,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 50,
+      "atr": 0.0642,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FET",
+      "rank": 188,
+      "atr": 0.0647,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 30,
+      "atr": 0.0653,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAND",
+      "rank": 163,
+      "atr": 0.0705,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 122,
+      "atr": 0.0712,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LEND",
+      "rank": 41,
+      "atr": 0.0731,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 102,
+      "atr": 0.0747,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DATA",
+      "rank": 175,
+      "atr": 0.0852,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0034,
+    "cum_pnl": 0.64,
+    "leverage": 0.2274,
+    "atr": 0.0147,
+    "marketcap_pnt": 0.0246,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "NKN",
+      "pnl": 0.1004,
+      "pnl_value": 0.0043,
+      "weight": 0.0087,
+      "rank": 193,
+      "atr": 0.1022,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0033,
+      "pnl_value": -0.0001,
+      "weight": 0.0089,
+      "rank": 181,
+      "atr": 0.1,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "1INCH",
+      "pnl": -0.0096,
+      "pnl_value": -0.0004,
+      "weight": 0.009,
+      "rank": 126,
+      "atr": 0.0987,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0099,
+      "pnl_value": -0.0007,
+      "weight": 0.0153,
+      "rank": 2,
+      "atr": 0.0581,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0183,
+      "pnl_value": -0.0013,
+      "weight": 0.0146,
+      "rank": 5,
+      "atr": 0.061,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0354,
+      "pnl_value": -0.0019,
+      "weight": 0.0111,
+      "rank": 8,
+      "atr": 0.0801,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PERP",
+      "pnl": -0.0734,
+      "pnl_value": -0.0026,
+      "weight": 0.0073,
+      "rank": 103,
+      "atr": 0.1211,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0581,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 5,
+      "atr": 0.061,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.0801,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "1INCH",
+      "rank": 126,
+      "atr": 0.0987,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 181,
+      "atr": 0.1,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NKN",
+      "rank": 193,
+      "atr": 0.1022,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PERP",
+      "rank": 103,
+      "atr": 0.1211,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0006,
+    "cum_pnl": 3.9235,
+    "leverage": 0.0749,
+    "atr": 0.0062,
+    "marketcap_pnt": 0.2258,
+    "green_marketcap_pnt": 0
+  }
+}

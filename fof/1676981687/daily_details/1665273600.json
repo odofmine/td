@@ -1,0 +1,177 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": 0.1058,
+      "pnl_value": 0.0053,
+      "weight": 0.0107,
+      "rank": 58,
+      "atr": 0.064,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": 0.0542,
+      "pnl_value": 0.003,
+      "weight": 0.0119,
+      "rank": 45,
+      "atr": 0.058,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0298,
+      "pnl_value": 0.0015,
+      "weight": 0.011,
+      "rank": 6,
+      "atr": 0.0626,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WIN",
+      "pnl": 0.021,
+      "pnl_value": 0.0011,
+      "weight": 0.0112,
+      "rank": 189,
+      "atr": 0.0614,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0198,
+      "pnl_value": 0.0011,
+      "weight": 0.0124,
+      "rank": 25,
+      "atr": 0.0554,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": 0.0186,
+      "pnl_value": 0.0008,
+      "weight": 0.0092,
+      "rank": 110,
+      "atr": 0.0749,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": 0.0124,
+      "pnl_value": 0.0006,
+      "weight": 0.0096,
+      "rank": 158,
+      "atr": 0.0715,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0377,
+      "pnl_value": -0.0014,
+      "weight": 0.0077,
+      "rank": 169,
+      "atr": 0.0894,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CVX",
+      "pnl": -1.0,
+      "pnl_value": -0.0402,
+      "weight": 0.0086,
+      "rank": 100,
+      "atr": 0.0795,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 25,
+      "atr": 0.0554,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 45,
+      "atr": 0.058,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WIN",
+      "rank": 189,
+      "atr": 0.0614,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0626,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 58,
+      "atr": 0.064,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 158,
+      "atr": 0.0715,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 110,
+      "atr": 0.0749,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVX",
+      "rank": 100,
+      "atr": 0.0795,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 169,
+      "atr": 0.0894,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.006,
+    "cum_pnl": 3.6433,
+    "leverage": 0.0923,
+    "atr": 0.0062,
+    "marketcap_pnt": 0.0309,
+    "green_marketcap_pnt": 0
+  }
+}

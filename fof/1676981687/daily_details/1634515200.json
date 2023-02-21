@@ -1,0 +1,272 @@
+{
+  "pnls": [
+    {
+      "name": "INJ",
+      "pnl": 0.0601,
+      "pnl_value": 0.003,
+      "weight": 0.0103,
+      "rank": 156,
+      "atr": 0.1034,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CTSI",
+      "pnl": 0.0406,
+      "pnl_value": 0.0018,
+      "weight": 0.0092,
+      "rank": 187,
+      "atr": 0.1158,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0297,
+      "pnl_value": 0.0025,
+      "weight": 0.017,
+      "rank": 3,
+      "atr": 0.0629,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NKN",
+      "pnl": 0.0214,
+      "pnl_value": 0.0009,
+      "weight": 0.009,
+      "rank": 165,
+      "atr": 0.1187,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WIN",
+      "pnl": 0.0108,
+      "pnl_value": 0.0006,
+      "weight": 0.0106,
+      "rank": 134,
+      "atr": 0.1008,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REQ",
+      "pnl": -0.0079,
+      "pnl_value": -0.0003,
+      "weight": 0.0074,
+      "rank": 196,
+      "atr": 0.1443,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "1INCH",
+      "pnl": -0.0098,
+      "pnl_value": -0.0006,
+      "weight": 0.0117,
+      "rank": 122,
+      "atr": 0.0912,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0102,
+      "pnl_value": -0.0007,
+      "weight": 0.0142,
+      "rank": 22,
+      "atr": 0.0756,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0226,
+      "pnl_value": -0.0014,
+      "weight": 0.013,
+      "rank": 8,
+      "atr": 0.0823,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0265,
+      "pnl_value": -0.0024,
+      "weight": 0.0184,
+      "rank": 2,
+      "atr": 0.0584,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0406,
+      "pnl_value": -0.0022,
+      "weight": 0.0112,
+      "rank": 159,
+      "atr": 0.0956,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LRC",
+      "pnl": -0.0443,
+      "pnl_value": -0.0023,
+      "weight": 0.0107,
+      "rank": 124,
+      "atr": 0.0996,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "PERP",
+      "pnl": -0.06,
+      "pnl_value": -0.0026,
+      "weight": 0.0087,
+      "rank": 85,
+      "atr": 0.1229,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POLS",
+      "pnl": -0.0791,
+      "pnl_value": -0.0041,
+      "weight": 0.0105,
+      "rank": 198,
+      "atr": 0.102,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "WRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "UNI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0584,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 3,
+      "atr": 0.0629,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 22,
+      "atr": 0.0756,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.0823,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "1INCH",
+      "rank": 122,
+      "atr": 0.0912,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 159,
+      "atr": 0.0956,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 124,
+      "atr": 0.0996,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WIN",
+      "rank": 134,
+      "atr": 0.1008,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POLS",
+      "rank": 198,
+      "atr": 0.102,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 156,
+      "atr": 0.1034,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CTSI",
+      "rank": 187,
+      "atr": 0.1158,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NKN",
+      "rank": 165,
+      "atr": 0.1187,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PERP",
+      "rank": 85,
+      "atr": 0.1229,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REQ",
+      "rank": 196,
+      "atr": 0.1443,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 3.9173,
+    "leverage": 0.1619,
+    "atr": 0.015,
+    "marketcap_pnt": 0.2386,
+    "green_marketcap_pnt": 0
+  }
+}

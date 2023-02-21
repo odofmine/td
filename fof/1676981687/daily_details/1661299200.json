@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "EOS",
+      "pnl": -0.0177,
+      "pnl_value": -0.0008,
+      "weight": 0.0097,
+      "rank": 37,
+      "atr": 0.072,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0319,
+      "pnl_value": -0.0016,
+      "weight": 0.0104,
+      "rank": 46,
+      "atr": 0.0673,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CHZ",
+      "rank": 46,
+      "atr": 0.0673,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 37,
+      "atr": 0.072,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 3.694,
+    "leverage": 0.0201,
+    "atr": 0.0014,
+    "marketcap_pnt": 0.0026,
+    "green_marketcap_pnt": 0
+  }
+}

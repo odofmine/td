@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "WOO",
+      "pnl": -0.0344,
+      "pnl_value": -0.0014,
+      "weight": 0.0082,
+      "rank": 124,
+      "atr": 0.1608,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0464,
+      "pnl_value": -0.0028,
+      "weight": 0.0119,
+      "rank": 19,
+      "atr": 0.1117,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "UNI",
+      "rank": 19,
+      "atr": 0.1117,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WOO",
+      "rank": 124,
+      "atr": 0.1608,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 4.0518,
+    "leverage": 0.0201,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0046,
+    "green_marketcap_pnt": 0
+  }
+}

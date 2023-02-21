@@ -1,0 +1,252 @@
+{
+  "pnls": [
+    {
+      "name": "LDO",
+      "pnl": 0.1963,
+      "pnl_value": 0.0081,
+      "weight": 0.0081,
+      "rank": 130,
+      "atr": 0.1484,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0181,
+      "pnl_value": -0.0009,
+      "weight": 0.0102,
+      "rank": 85,
+      "atr": 0.1178,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0326,
+      "pnl_value": -0.002,
+      "weight": 0.0118,
+      "rank": 83,
+      "atr": 0.1022,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0343,
+      "pnl_value": -0.002,
+      "weight": 0.0115,
+      "rank": 26,
+      "atr": 0.1045,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0378,
+      "pnl_value": -0.0021,
+      "weight": 0.0109,
+      "rank": 147,
+      "atr": 0.1101,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0389,
+      "pnl_value": -0.0028,
+      "weight": 0.014,
+      "rank": 48,
+      "atr": 0.0859,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0416,
+      "pnl_value": -0.0027,
+      "weight": 0.0128,
+      "rank": 65,
+      "atr": 0.0942,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0487,
+      "pnl_value": -0.0024,
+      "weight": 0.0099,
+      "rank": 154,
+      "atr": 0.1216,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0495,
+      "pnl_value": -0.0027,
+      "weight": 0.0109,
+      "rank": 45,
+      "atr": 0.1101,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SAND",
+      "pnl": -0.0566,
+      "pnl_value": -0.0032,
+      "weight": 0.0112,
+      "rank": 36,
+      "atr": 0.1079,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0583,
+      "pnl_value": -0.0042,
+      "weight": 0.0141,
+      "rank": 18,
+      "atr": 0.0855,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": -0.0735,
+      "pnl_value": -0.0047,
+      "weight": 0.0125,
+      "rank": 110,
+      "atr": 0.0962,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": -0.0817,
+      "pnl_value": -0.0044,
+      "weight": 0.0107,
+      "rank": 72,
+      "atr": 0.1123,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RAY",
+      "pnl": -0.0837,
+      "pnl_value": -0.0056,
+      "weight": 0.0133,
+      "rank": 198,
+      "atr": 0.0906,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "UNI",
+      "rank": 18,
+      "atr": 0.0855,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 48,
+      "atr": 0.0859,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RAY",
+      "rank": 198,
+      "atr": 0.0906,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 65,
+      "atr": 0.0942,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 110,
+      "atr": 0.0962,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 83,
+      "atr": 0.1022,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 26,
+      "atr": 0.1045,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SAND",
+      "rank": 36,
+      "atr": 0.1079,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 45,
+      "atr": 0.1101,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 147,
+      "atr": 0.1101,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 72,
+      "atr": 0.1123,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 85,
+      "atr": 0.1178,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 154,
+      "atr": 0.1216,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LDO",
+      "rank": 130,
+      "atr": 0.1484,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0062,
+    "cum_pnl": 4.0358,
+    "leverage": 0.1619,
+    "atr": 0.0168,
+    "marketcap_pnt": 0.0146,
+    "green_marketcap_pnt": 0
+  }
+}

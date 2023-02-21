@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "LSK",
+      "pnl": -0.0911,
+      "pnl_value": -0.0046,
+      "weight": 0.0108,
+      "rank": 199,
+      "atr": 0.0856,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.1043,
+      "pnl_value": -0.0047,
+      "weight": 0.0095,
+      "rank": 20,
+      "atr": 0.097,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LSK",
+      "rank": 199,
+      "atr": 0.0856,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 20,
+      "atr": 0.097,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.002,
+    "cum_pnl": 3.7125,
+    "leverage": 0.0203,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0046,
+    "green_marketcap_pnt": 0
+  }
+}

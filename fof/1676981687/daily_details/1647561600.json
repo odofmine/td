@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "BAT",
+      "pnl": -0.0101,
+      "pnl_value": -0.0005,
+      "weight": 0.0109,
+      "rank": 76,
+      "atr": 0.0842,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XNO",
+      "pnl": -0.1046,
+      "pnl_value": -0.0046,
+      "weight": 0.0094,
+      "rank": 180,
+      "atr": 0.0976,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BAT",
+      "rank": 76,
+      "atr": 0.0842,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XNO",
+      "rank": 180,
+      "atr": 0.0976,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0011,
+    "cum_pnl": 3.6961,
+    "leverage": 0.0203,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

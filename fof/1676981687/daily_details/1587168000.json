@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "TOMO",
+      "pnl": 0.0056,
+      "pnl_value": 0.0001,
+      "weight": 0.0175,
+      "rank": 191,
+      "atr": 0.129,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TOMO",
+      "rank": 191,
+      "atr": 0.129,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 0.3768,
+    "leverage": 0.0175,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0001,
+    "green_marketcap_pnt": 0
+  }
+}

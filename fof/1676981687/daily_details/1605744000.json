@@ -1,0 +1,437 @@
+{
+  "pnls": [
+    {
+      "name": "SUSHI",
+      "pnl": 0.3729,
+      "pnl_value": 0.0024,
+      "weight": 0.0035,
+      "rank": 71,
+      "atr": 0.2938,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "YFII",
+      "pnl": 0.1284,
+      "pnl_value": 0.0011,
+      "weight": 0.0045,
+      "rank": 123,
+      "atr": 0.2281,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.1281,
+      "pnl_value": 0.0042,
+      "weight": 0.0176,
+      "rank": 42,
+      "atr": 0.0587,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": 0.1217,
+      "pnl_value": 0.0014,
+      "weight": 0.0062,
+      "rank": 124,
+      "atr": 0.1672,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": 0.0912,
+      "pnl_value": 0.0014,
+      "weight": 0.0085,
+      "rank": 36,
+      "atr": 0.1219,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RSR",
+      "pnl": 0.0695,
+      "pnl_value": 0.001,
+      "weight": 0.0077,
+      "rank": 74,
+      "atr": 0.1335,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0349,
+      "pnl_value": 0.0016,
+      "weight": 0.0241,
+      "rank": 4,
+      "atr": 0.043,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0272,
+      "pnl_value": 0.0009,
+      "weight": 0.018,
+      "rank": 29,
+      "atr": 0.0577,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": 0.0242,
+      "pnl_value": 0.0004,
+      "weight": 0.0087,
+      "rank": 43,
+      "atr": 0.1182,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RUNE",
+      "pnl": 0.0086,
+      "pnl_value": 0.0001,
+      "weight": 0.009,
+      "rank": 76,
+      "atr": 0.1149,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.0038,
+      "pnl_value": 0.0001,
+      "weight": 0.0134,
+      "rank": 5,
+      "atr": 0.0773,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0014,
+      "pnl_value": 0.0001,
+      "weight": 0.029,
+      "rank": 1,
+      "atr": 0.0357,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": 0.0002,
+      "pnl_value": 0.0,
+      "weight": 0.0244,
+      "rank": 45,
+      "atr": 0.0424,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRB",
+      "pnl": -0.0134,
+      "pnl_value": -0.0001,
+      "weight": 0.0058,
+      "rank": 166,
+      "atr": 0.1776,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WIN",
+      "pnl": -0.0178,
+      "pnl_value": -0.0005,
+      "weight": 0.0149,
+      "rank": 193,
+      "atr": 0.0695,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0208,
+      "pnl_value": -0.0008,
+      "weight": 0.0205,
+      "rank": 35,
+      "atr": 0.0506,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XVS",
+      "pnl": -0.0414,
+      "pnl_value": -0.0004,
+      "weight": 0.0052,
+      "rank": 199,
+      "atr": 0.1991,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0424,
+      "pnl_value": -0.0012,
+      "weight": 0.0151,
+      "rank": 81,
+      "atr": 0.0685,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NPXS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BAL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DOT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "VET",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KNC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "COMP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "REN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "UNI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CRV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0357,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 45,
+      "atr": 0.0424,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.043,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 35,
+      "atr": 0.0506,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 29,
+      "atr": 0.0577,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 42,
+      "atr": 0.0587,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 81,
+      "atr": 0.0685,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WIN",
+      "rank": 193,
+      "atr": 0.0695,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 5,
+      "atr": 0.0773,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STRAT",
+      "rank": 142,
+      "atr": 0.1069,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 76,
+      "atr": 0.1149,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 43,
+      "atr": 0.1182,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 36,
+      "atr": 0.1219,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 74,
+      "atr": 0.1335,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 124,
+      "atr": 0.1672,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRB",
+      "rank": 166,
+      "atr": 0.1776,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XVS",
+      "rank": 199,
+      "atr": 0.1991,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "YFII",
+      "rank": 123,
+      "atr": 0.2281,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 71,
+      "atr": 0.2938,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0063,
+    "cum_pnl": 0.882,
+    "leverage": 0.2361,
+    "atr": 0.0186,
+    "marketcap_pnt": 0.7004,
+    "green_marketcap_pnt": 0
+  }
+}

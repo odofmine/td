@@ -1,0 +1,330 @@
+{
+  "pnls": [
+    {
+      "name": "DOGE",
+      "pnl": 0.4518,
+      "pnl_value": 0.0305,
+      "weight": 0.0146,
+      "rank": 10,
+      "atr": 0.0505,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": 0.1802,
+      "pnl_value": 0.0092,
+      "weight": 0.0111,
+      "rank": 115,
+      "atr": 0.066,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "INJ",
+      "pnl": 0.116,
+      "pnl_value": 0.0046,
+      "weight": 0.0086,
+      "rank": 160,
+      "atr": 0.0853,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": 0.0785,
+      "pnl_value": 0.0038,
+      "weight": 0.0106,
+      "rank": 144,
+      "atr": 0.0691,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PYR",
+      "pnl": 0.0721,
+      "pnl_value": 0.0028,
+      "weight": 0.0085,
+      "rank": 192,
+      "atr": 0.086,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0419,
+      "pnl_value": 0.0028,
+      "weight": 0.0145,
+      "rank": 2,
+      "atr": 0.0507,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": 0.035,
+      "pnl_value": 0.0018,
+      "weight": 0.011,
+      "rank": 18,
+      "atr": 0.067,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0287,
+      "pnl_value": 0.0019,
+      "weight": 0.0142,
+      "rank": 74,
+      "atr": 0.0519,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0222,
+      "pnl_value": 0.0022,
+      "weight": 0.0217,
+      "rank": 4,
+      "atr": 0.034,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": 0.022,
+      "pnl_value": 0.0011,
+      "weight": 0.0107,
+      "rank": 191,
+      "atr": 0.0686,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "1INCH",
+      "pnl": 0.0196,
+      "pnl_value": 0.0012,
+      "weight": 0.013,
+      "rank": 95,
+      "atr": 0.0565,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WOO",
+      "pnl": 0.0144,
+      "pnl_value": 0.0007,
+      "weight": 0.0109,
+      "rank": 139,
+      "atr": 0.0672,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DYDX",
+      "pnl": 0.0115,
+      "pnl_value": 0.0006,
+      "weight": 0.0105,
+      "rank": 188,
+      "atr": 0.0697,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0106,
+      "pnl_value": 0.001,
+      "weight": 0.0199,
+      "rank": 1,
+      "atr": 0.0371,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": 0.007,
+      "pnl_value": 0.0003,
+      "weight": 0.0096,
+      "rank": 176,
+      "atr": 0.0769,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RNDR",
+      "pnl": -0.0018,
+      "pnl_value": -0.0001,
+      "weight": 0.0082,
+      "rank": 174,
+      "atr": 0.09,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": -0.0098,
+      "pnl_value": -0.0006,
+      "weight": 0.0132,
+      "rank": 142,
+      "atr": 0.0557,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LDO",
+      "pnl": -0.0233,
+      "pnl_value": -0.0008,
+      "weight": 0.0077,
+      "rank": 78,
+      "atr": 0.0954,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 4,
+      "atr": 0.034,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0371,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 10,
+      "atr": 0.0505,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0507,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 74,
+      "atr": 0.0519,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 142,
+      "atr": 0.0557,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "1INCH",
+      "rank": 95,
+      "atr": 0.0565,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 115,
+      "atr": 0.066,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 18,
+      "atr": 0.067,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WOO",
+      "rank": 139,
+      "atr": 0.0672,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 191,
+      "atr": 0.0686,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 144,
+      "atr": 0.0691,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DYDX",
+      "rank": 188,
+      "atr": 0.0697,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 176,
+      "atr": 0.0769,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 160,
+      "atr": 0.0853,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PYR",
+      "rank": 192,
+      "atr": 0.086,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 174,
+      "atr": 0.09,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LDO",
+      "rank": 78,
+      "atr": 0.0954,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0136,
+    "cum_pnl": 3.6842,
+    "leverage": 0.2185,
+    "atr": 0.0132,
+    "marketcap_pnt": 0.6467,
+    "green_marketcap_pnt": 0
+  }
+}

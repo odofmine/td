@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": -0.0329,
+      "pnl_value": -0.0007,
+      "weight": 0.0109,
+      "rank": 5,
+      "atr": 0.0711,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0562,
+      "pnl_value": -0.0015,
+      "weight": 0.0137,
+      "rank": 16,
+      "atr": 0.0569,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STORJ",
+      "pnl": -0.0996,
+      "pnl_value": -0.0012,
+      "weight": 0.0062,
+      "rank": 103,
+      "atr": 0.126,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.0569,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 5,
+      "atr": 0.0711,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 103,
+      "atr": 0.126,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0018,
+    "cum_pnl": 0.9125,
+    "leverage": 0.0308,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0181,
+    "green_marketcap_pnt": 0
+  }
+}

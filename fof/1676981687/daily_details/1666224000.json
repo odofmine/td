@@ -1,0 +1,146 @@
+{
+  "pnls": [
+    {
+      "name": "FXS",
+      "pnl": 0.0067,
+      "pnl_value": 0.0003,
+      "weight": 0.011,
+      "rank": 184,
+      "atr": 0.067,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0242,
+      "pnl_value": -0.0013,
+      "weight": 0.0116,
+      "rank": 45,
+      "atr": 0.0636,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0349,
+      "pnl_value": -0.0018,
+      "weight": 0.0111,
+      "rank": 50,
+      "atr": 0.0661,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WOO",
+      "pnl": -0.0436,
+      "pnl_value": -0.0021,
+      "weight": 0.0103,
+      "rank": 135,
+      "atr": 0.0712,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0623,
+      "pnl_value": -0.0023,
+      "weight": 0.0081,
+      "rank": 158,
+      "atr": 0.0902,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0801,
+      "pnl_value": -0.0037,
+      "weight": 0.0101,
+      "rank": 136,
+      "atr": 0.0728,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PYR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AAVE",
+      "rank": 45,
+      "atr": 0.0636,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 50,
+      "atr": 0.0661,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FXS",
+      "rank": 184,
+      "atr": 0.067,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WOO",
+      "rank": 135,
+      "atr": 0.0712,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 136,
+      "atr": 0.0728,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 158,
+      "atr": 0.0902,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0024,
+    "cum_pnl": 3.5943,
+    "leverage": 0.0622,
+    "atr": 0.0044,
+    "marketcap_pnt": 0.0029,
+    "green_marketcap_pnt": 0
+  }
+}

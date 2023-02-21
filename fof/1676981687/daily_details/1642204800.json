@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "ROSE",
+      "pnl": -0.0001,
+      "pnl_value": -0.0,
+      "weight": 0.0104,
+      "rank": 82,
+      "atr": 0.0921,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KP3R",
+      "pnl": -0.0047,
+      "pnl_value": -0.0002,
+      "weight": 0.0077,
+      "rank": 194,
+      "atr": 0.124,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0404,
+      "pnl_value": -0.0021,
+      "weight": 0.0109,
+      "rank": 117,
+      "atr": 0.0872,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.0452,
+      "pnl_value": -0.0024,
+      "weight": 0.0111,
+      "rank": 24,
+      "atr": 0.0858,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0497,
+      "pnl_value": -0.0025,
+      "weight": 0.0102,
+      "rank": 47,
+      "atr": 0.0937,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEAR",
+      "rank": 24,
+      "atr": 0.0858,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 117,
+      "atr": 0.0872,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 82,
+      "atr": 0.0921,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 47,
+      "atr": 0.0937,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KP3R",
+      "rank": 194,
+      "atr": 0.124,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0015,
+    "cum_pnl": 3.8574,
+    "leverage": 0.0503,
+    "atr": 0.0048,
+    "marketcap_pnt": 0.007,
+    "green_marketcap_pnt": 0
+  }
+}

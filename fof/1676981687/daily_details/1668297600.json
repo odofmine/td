@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "DYDX",
+      "pnl": 0.2725,
+      "pnl_value": 0.0119,
+      "weight": 0.0101,
+      "rank": 179,
+      "atr": 0.1039,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DYDX",
+      "rank": 179,
+      "atr": 0.1039,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0027,
+    "cum_pnl": 3.3464,
+    "leverage": 0.0101,
+    "atr": 0.001,
+    "marketcap_pnt": 0.0001,
+    "green_marketcap_pnt": 0
+  }
+}

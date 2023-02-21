@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "APE",
+      "pnl": 0.2211,
+      "pnl_value": 0.0084,
+      "weight": 0.0075,
+      "rank": 29,
+      "atr": 0.1298,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": 0.078,
+      "pnl_value": 0.005,
+      "weight": 0.0126,
+      "rank": 85,
+      "atr": 0.0769,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KAVA",
+      "rank": 85,
+      "atr": 0.0769,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "APE",
+      "rank": 29,
+      "atr": 0.1298,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0027,
+    "cum_pnl": 4.1034,
+    "leverage": 0.0201,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.0032,
+    "green_marketcap_pnt": 0
+  }
+}

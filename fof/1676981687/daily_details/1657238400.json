@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": 0.1302,
+      "pnl_value": 0.0071,
+      "weight": 0.0108,
+      "rank": 61,
+      "atr": 0.1058,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DYDX",
+      "pnl": 0.0874,
+      "pnl_value": 0.0038,
+      "weight": 0.0087,
+      "rank": 181,
+      "atr": 0.1309,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": 0.0122,
+      "pnl_value": 0.0007,
+      "weight": 0.0113,
+      "rank": 19,
+      "atr": 0.1008,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IMX",
+      "pnl": -0.0388,
+      "pnl_value": -0.0018,
+      "weight": 0.009,
+      "rank": 120,
+      "atr": 0.1273,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0416,
+      "pnl_value": -0.0021,
+      "weight": 0.0101,
+      "rank": 26,
+      "atr": 0.1126,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0442,
+      "pnl_value": -0.0028,
+      "weight": 0.0124,
+      "rank": 66,
+      "atr": 0.0919,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SAND",
+      "pnl": -0.0478,
+      "pnl_value": -0.0023,
+      "weight": 0.0096,
+      "rank": 35,
+      "atr": 0.1195,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0706,
+      "pnl_value": -0.003,
+      "weight": 0.0084,
+      "rank": 83,
+      "atr": 0.1352,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BAT",
+      "rank": 66,
+      "atr": 0.0919,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 19,
+      "atr": 0.1008,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 61,
+      "atr": 0.1058,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 26,
+      "atr": 0.1126,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SAND",
+      "rank": 35,
+      "atr": 0.1195,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IMX",
+      "rank": 120,
+      "atr": 0.1273,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DYDX",
+      "rank": 181,
+      "atr": 0.1309,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 83,
+      "atr": 0.1352,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 4.0447,
+    "leverage": 0.0803,
+    "atr": 0.0091,
+    "marketcap_pnt": 0.0106,
+    "green_marketcap_pnt": 0
+  }
+}

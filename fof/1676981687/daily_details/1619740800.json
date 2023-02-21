@@ -1,0 +1,204 @@
+{
+  "pnls": [
+    {
+      "name": "COMP",
+      "pnl": 0.1531,
+      "pnl_value": 0.0087,
+      "weight": 0.0105,
+      "rank": 41,
+      "atr": 0.0984,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": 0.0375,
+      "pnl_value": 0.0018,
+      "weight": 0.009,
+      "rank": 127,
+      "atr": 0.1157,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0352,
+      "pnl_value": 0.0025,
+      "weight": 0.013,
+      "rank": 23,
+      "atr": 0.0796,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MANA",
+      "pnl": 0.021,
+      "pnl_value": 0.001,
+      "weight": 0.0092,
+      "rank": 59,
+      "atr": 0.1128,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0131,
+      "pnl_value": 0.0007,
+      "weight": 0.0099,
+      "rank": 31,
+      "atr": 0.1052,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0056,
+      "pnl_value": 0.0005,
+      "weight": 0.0167,
+      "rank": 2,
+      "atr": 0.0622,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0093,
+      "pnl_value": -0.0006,
+      "weight": 0.0118,
+      "rank": 9,
+      "atr": 0.0883,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0271,
+      "pnl_value": -0.0014,
+      "weight": 0.0099,
+      "rank": 152,
+      "atr": 0.105,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XVS",
+      "pnl": -0.031,
+      "pnl_value": -0.0016,
+      "weight": 0.0095,
+      "rank": 109,
+      "atr": 0.1087,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CAKE",
+      "pnl": -0.0433,
+      "pnl_value": -0.0029,
+      "weight": 0.0124,
+      "rank": 26,
+      "atr": 0.084,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0622,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 23,
+      "atr": 0.0796,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 26,
+      "atr": 0.084,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 9,
+      "atr": 0.0883,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 41,
+      "atr": 0.0984,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 152,
+      "atr": 0.105,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 31,
+      "atr": 0.1052,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XVS",
+      "rank": 109,
+      "atr": 0.1087,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 59,
+      "atr": 0.1128,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 127,
+      "atr": 0.1157,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0016,
+    "cum_pnl": 4.3897,
+    "leverage": 0.1119,
+    "atr": 0.0104,
+    "marketcap_pnt": 0.1699,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "XTZ",
+      "pnl": -0.0219,
+      "pnl_value": -0.0005,
+      "weight": 0.0204,
+      "rank": 15,
+      "atr": 0.0691,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0923,
+      "pnl_value": -0.0019,
+      "weight": 0.0187,
+      "rank": 60,
+      "atr": 0.0751,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XTZ",
+      "rank": 15,
+      "atr": 0.0691,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 60,
+      "atr": 0.0751,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0021,
+    "cum_pnl": 0.0795,
+    "leverage": 0.0391,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0045,
+    "green_marketcap_pnt": 0
+  }
+}

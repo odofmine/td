@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": 0.0324,
+      "pnl_value": 0.0016,
+      "weight": 0.0105,
+      "rank": 31,
+      "atr": 0.0641,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WOO",
+      "pnl": -0.0085,
+      "pnl_value": -0.0003,
+      "weight": 0.0085,
+      "rank": 146,
+      "atr": 0.0787,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0538,
+      "pnl_value": -0.0028,
+      "weight": 0.0112,
+      "rank": 39,
+      "atr": 0.06,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HBAR",
+      "rank": 39,
+      "atr": 0.06,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 31,
+      "atr": 0.0641,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WOO",
+      "rank": 146,
+      "atr": 0.0787,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 3.6109,
+    "leverage": 0.0302,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0037,
+    "green_marketcap_pnt": 0
+  }
+}

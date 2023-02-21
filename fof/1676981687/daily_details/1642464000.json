@@ -1,0 +1,119 @@
+{
+  "pnls": [
+    {
+      "name": "DUSK",
+      "pnl": -0.0291,
+      "pnl_value": -0.0013,
+      "weight": 0.0089,
+      "rank": 150,
+      "atr": 0.1252,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": -0.0308,
+      "pnl_value": -0.0016,
+      "weight": 0.0106,
+      "rank": 67,
+      "atr": 0.105,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0553,
+      "pnl_value": -0.0033,
+      "weight": 0.0125,
+      "rank": 97,
+      "atr": 0.0893,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHR",
+      "pnl": -0.0639,
+      "pnl_value": -0.0031,
+      "weight": 0.01,
+      "rank": 139,
+      "atr": 0.111,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KP3R",
+      "pnl": -0.1132,
+      "pnl_value": -0.0045,
+      "weight": 0.0083,
+      "rank": 156,
+      "atr": 0.1337,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEAR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KAVA",
+      "rank": 97,
+      "atr": 0.0893,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 67,
+      "atr": 0.105,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHR",
+      "rank": 139,
+      "atr": 0.111,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DUSK",
+      "rank": 150,
+      "atr": 0.1252,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KP3R",
+      "rank": 156,
+      "atr": 0.1337,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0029,
+    "cum_pnl": 3.8277,
+    "leverage": 0.0503,
+    "atr": 0.0056,
+    "marketcap_pnt": 0.0019,
+    "green_marketcap_pnt": 0
+  }
+}

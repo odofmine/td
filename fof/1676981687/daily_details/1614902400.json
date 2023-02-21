@@ -1,0 +1,238 @@
+{
+  "pnls": [
+    {
+      "name": "FET",
+      "pnl": 0.1605,
+      "pnl_value": 0.0055,
+      "weight": 0.0087,
+      "rank": 133,
+      "atr": 0.1257,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": 0.0657,
+      "pnl_value": 0.0034,
+      "weight": 0.0134,
+      "rank": 80,
+      "atr": 0.0818,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RUNE",
+      "pnl": 0.0488,
+      "pnl_value": 0.0017,
+      "weight": 0.0089,
+      "rank": 64,
+      "atr": 0.1234,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": 0.0213,
+      "pnl_value": 0.0009,
+      "weight": 0.0104,
+      "rank": 16,
+      "atr": 0.1055,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COTI",
+      "pnl": -0.0113,
+      "pnl_value": -0.0005,
+      "weight": 0.0109,
+      "rank": 165,
+      "atr": 0.1004,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0184,
+      "pnl_value": -0.0007,
+      "weight": 0.01,
+      "rank": 71,
+      "atr": 0.1094,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": -0.0241,
+      "pnl_value": -0.0012,
+      "weight": 0.0122,
+      "rank": 89,
+      "atr": 0.0897,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.043,
+      "pnl_value": -0.0016,
+      "weight": 0.0095,
+      "rank": 140,
+      "atr": 0.1149,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0649,
+      "pnl_value": -0.0034,
+      "weight": 0.0133,
+      "rank": 113,
+      "atr": 0.0822,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0721,
+      "pnl_value": -0.004,
+      "weight": 0.0142,
+      "rank": 25,
+      "atr": 0.0774,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0766,
+      "pnl_value": -0.0038,
+      "weight": 0.0126,
+      "rank": 91,
+      "atr": 0.0871,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MANA",
+      "pnl": -0.1049,
+      "pnl_value": -0.0048,
+      "weight": 0.0116,
+      "rank": 100,
+      "atr": 0.0946,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RSR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "UNFI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 25,
+      "atr": 0.0774,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 80,
+      "atr": 0.0818,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 113,
+      "atr": 0.0822,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 91,
+      "atr": 0.0871,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 89,
+      "atr": 0.0897,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 100,
+      "atr": 0.0946,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COTI",
+      "rank": 165,
+      "atr": 0.1004,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 16,
+      "atr": 0.1055,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 71,
+      "atr": 0.1094,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 140,
+      "atr": 0.1149,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 64,
+      "atr": 0.1234,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FET",
+      "rank": 133,
+      "atr": 0.1257,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0021,
+    "cum_pnl": 2.9061,
+    "leverage": 0.1357,
+    "atr": 0.0131,
+    "marketcap_pnt": 0.0096,
+    "green_marketcap_pnt": 0
+  }
+}

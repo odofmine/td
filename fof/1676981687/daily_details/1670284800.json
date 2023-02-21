@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "ANT",
+      "pnl": 0.0098,
+      "pnl_value": 0.0004,
+      "weight": 0.0089,
+      "rank": 182,
+      "atr": 0.0952,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": 0.0022,
+      "pnl_value": 0.0001,
+      "weight": 0.011,
+      "rank": 105,
+      "atr": 0.0765,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KSM",
+      "pnl": -0.0145,
+      "pnl_value": -0.0007,
+      "weight": 0.0109,
+      "rank": 110,
+      "atr": 0.0778,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "YFI",
+      "rank": 105,
+      "atr": 0.0765,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 110,
+      "atr": 0.0778,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 182,
+      "atr": 0.0952,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0,
+    "cum_pnl": 3.3223,
+    "leverage": 0.0308,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

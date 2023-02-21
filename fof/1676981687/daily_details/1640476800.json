@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "ROSE",
+      "pnl": 0.0768,
+      "pnl_value": 0.003,
+      "weight": 0.0081,
+      "rank": 92,
+      "atr": 0.1247,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEAR",
+      "pnl": 0.0684,
+      "pnl_value": 0.0034,
+      "weight": 0.0103,
+      "rank": 31,
+      "atr": 0.098,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": 0.0209,
+      "pnl_value": 0.0009,
+      "weight": 0.0084,
+      "rank": 65,
+      "atr": 0.1207,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0167,
+      "pnl_value": 0.001,
+      "weight": 0.0118,
+      "rank": 57,
+      "atr": 0.0861,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0133,
+      "pnl_value": 0.0009,
+      "weight": 0.0131,
+      "rank": 9,
+      "atr": 0.0776,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SAND",
+      "pnl": 0.0038,
+      "pnl_value": 0.0002,
+      "weight": 0.0103,
+      "rank": 38,
+      "atr": 0.0982,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.0113,
+      "pnl_value": -0.0005,
+      "weight": 0.0099,
+      "rank": 197,
+      "atr": 0.1024,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": -0.0168,
+      "pnl_value": -0.0008,
+      "weight": 0.0102,
+      "rank": 68,
+      "atr": 0.0988,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.0776,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 57,
+      "atr": 0.0861,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 31,
+      "atr": 0.098,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SAND",
+      "rank": 38,
+      "atr": 0.0982,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 68,
+      "atr": 0.0988,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 197,
+      "atr": 0.1024,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 65,
+      "atr": 0.1207,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 92,
+      "atr": 0.1247,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0016,
+    "cum_pnl": 3.9061,
+    "leverage": 0.0821,
+    "atr": 0.0081,
+    "marketcap_pnt": 0.0214,
+    "green_marketcap_pnt": 0
+  }
+}

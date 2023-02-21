@@ -1,0 +1,166 @@
+{
+  "pnls": [
+    {
+      "name": "TOMO",
+      "pnl": -0.0409,
+      "pnl_value": -0.0007,
+      "weight": 0.0132,
+      "rank": 183,
+      "atr": 0.1354,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0417,
+      "pnl_value": -0.0013,
+      "weight": 0.0226,
+      "rank": 14,
+      "atr": 0.0795,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0448,
+      "pnl_value": -0.0013,
+      "weight": 0.0209,
+      "rank": 16,
+      "atr": 0.0859,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0545,
+      "pnl_value": -0.0016,
+      "weight": 0.0217,
+      "rank": 2,
+      "atr": 0.0827,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0745,
+      "pnl_value": -0.002,
+      "weight": 0.0196,
+      "rank": 19,
+      "atr": 0.0913,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0975,
+      "pnl_value": -0.0029,
+      "weight": 0.0217,
+      "rank": 28,
+      "atr": 0.0826,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NANO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ENJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 14,
+      "atr": 0.0795,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 28,
+      "atr": 0.0826,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0827,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 16,
+      "atr": 0.0859,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 19,
+      "atr": 0.0913,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 183,
+      "atr": 0.1354,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0071,
+    "cum_pnl": 0.3613,
+    "leverage": 0.1197,
+    "atr": 0.0108,
+    "marketcap_pnt": 0.1105,
+    "green_marketcap_pnt": 0
+  }
+}

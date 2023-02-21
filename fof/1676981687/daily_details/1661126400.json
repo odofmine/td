@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "EOS",
+      "pnl": 0.1708,
+      "pnl_value": 0.0081,
+      "weight": 0.0101,
+      "rank": 37,
+      "atr": 0.0737,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 37,
+      "atr": 0.0737,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0017,
+    "cum_pnl": 3.6972,
+    "leverage": 0.0101,
+    "atr": 0.0007,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

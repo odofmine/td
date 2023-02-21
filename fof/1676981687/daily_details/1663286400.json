@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "BNX",
+      "pnl": -0.0867,
+      "pnl_value": -0.0041,
+      "weight": 0.0102,
+      "rank": 115,
+      "atr": 0.0443,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RVN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNX",
+      "rank": 115,
+      "atr": 0.0443,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 3.6801,
+    "leverage": 0.0102,
+    "atr": 0.0005,
+    "marketcap_pnt": 0.0003,
+    "green_marketcap_pnt": 0
+  }
+}

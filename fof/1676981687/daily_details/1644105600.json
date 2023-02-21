@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": -0.0031,
+      "pnl_value": -0.0002,
+      "weight": 0.0128,
+      "rank": 53,
+      "atr": 0.0817,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.0846,
+      "pnl_value": -0.0031,
+      "weight": 0.0075,
+      "rank": 173,
+      "atr": 0.1378,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MKR",
+      "rank": 53,
+      "atr": 0.0817,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 173,
+      "atr": 0.1378,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 3.812,
+    "leverage": 0.0203,
+    "atr": 0.0021,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

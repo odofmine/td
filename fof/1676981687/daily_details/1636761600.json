@@ -1,0 +1,255 @@
+{
+  "pnls": [
+    {
+      "name": "ROSE",
+      "pnl": 0.0218,
+      "pnl_value": 0.001,
+      "weight": 0.0094,
+      "rank": 194,
+      "atr": 0.1095,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0037,
+      "pnl_value": -0.0003,
+      "weight": 0.0176,
+      "rank": 21,
+      "atr": 0.0583,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0076,
+      "pnl_value": -0.0005,
+      "weight": 0.0137,
+      "rank": 15,
+      "atr": 0.0748,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.0223,
+      "pnl_value": -0.0012,
+      "weight": 0.0106,
+      "rank": 39,
+      "atr": 0.0967,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.0327,
+      "pnl_value": -0.002,
+      "weight": 0.0124,
+      "rank": 20,
+      "atr": 0.083,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0334,
+      "pnl_value": -0.002,
+      "weight": 0.0123,
+      "rank": 37,
+      "atr": 0.0833,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0415,
+      "pnl_value": -0.0021,
+      "weight": 0.0104,
+      "rank": 108,
+      "atr": 0.099,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UMA",
+      "pnl": -0.0518,
+      "pnl_value": -0.0024,
+      "weight": 0.0095,
+      "rank": 109,
+      "atr": 0.1082,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NKN",
+      "pnl": -0.0595,
+      "pnl_value": -0.0027,
+      "weight": 0.0092,
+      "rank": 153,
+      "atr": 0.1116,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CTSI",
+      "pnl": -0.0616,
+      "pnl_value": -0.0032,
+      "weight": 0.0106,
+      "rank": 164,
+      "atr": 0.0968,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XVG",
+      "pnl": -0.0782,
+      "pnl_value": -0.0053,
+      "weight": 0.0138,
+      "rank": 166,
+      "atr": 0.0745,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHR",
+      "pnl": -0.0806,
+      "pnl_value": -0.0043,
+      "weight": 0.0107,
+      "rank": 173,
+      "atr": 0.0955,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LRC",
+      "pnl": -0.1183,
+      "pnl_value": -0.0071,
+      "weight": 0.0122,
+      "rank": 77,
+      "atr": 0.0839,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "INJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCH",
+      "rank": 21,
+      "atr": 0.0583,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XVG",
+      "rank": 166,
+      "atr": 0.0745,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 15,
+      "atr": 0.0748,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 20,
+      "atr": 0.083,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 37,
+      "atr": 0.0833,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 77,
+      "atr": 0.0839,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHR",
+      "rank": 173,
+      "atr": 0.0955,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 39,
+      "atr": 0.0967,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CTSI",
+      "rank": 164,
+      "atr": 0.0968,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 108,
+      "atr": 0.099,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UMA",
+      "rank": 109,
+      "atr": 0.1082,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 194,
+      "atr": 0.1095,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NKN",
+      "rank": 153,
+      "atr": 0.1116,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0065,
+    "cum_pnl": 3.9176,
+    "leverage": 0.1524,
+    "atr": 0.0133,
+    "marketcap_pnt": 0.02,
+    "green_marketcap_pnt": 0
+  }
+}

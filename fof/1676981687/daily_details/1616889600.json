@@ -1,0 +1,190 @@
+{
+  "pnls": [
+    {
+      "name": "ONT",
+      "pnl": 0.1036,
+      "pnl_value": 0.0053,
+      "weight": 0.0102,
+      "rank": 85,
+      "atr": 0.1032,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.0736,
+      "pnl_value": 0.0035,
+      "weight": 0.0094,
+      "rank": 77,
+      "atr": 0.1124,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HOT",
+      "pnl": 0.0194,
+      "pnl_value": 0.001,
+      "weight": 0.0101,
+      "rank": 71,
+      "atr": 0.1041,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "TRX",
+      "pnl": 0.0005,
+      "pnl_value": 0.0,
+      "weight": 0.0133,
+      "rank": 22,
+      "atr": 0.0793,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FET",
+      "pnl": -0.0124,
+      "pnl_value": -0.0007,
+      "weight": 0.0107,
+      "rank": 120,
+      "atr": 0.0987,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CRV",
+      "pnl": -0.0323,
+      "pnl_value": -0.0014,
+      "weight": 0.0084,
+      "rank": 102,
+      "atr": 0.1256,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.0768,
+      "pnl_value": -0.0037,
+      "weight": 0.0096,
+      "rank": 149,
+      "atr": 0.1095,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.1277,
+      "pnl_value": -0.0095,
+      "weight": 0.0147,
+      "rank": 114,
+      "atr": 0.0721,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DENT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NPXS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ANKR",
+      "rank": 114,
+      "atr": 0.0721,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRX",
+      "rank": 22,
+      "atr": 0.0793,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FET",
+      "rank": 120,
+      "atr": 0.0987,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 85,
+      "atr": 0.1032,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 71,
+      "atr": 0.1041,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 149,
+      "atr": 0.1095,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 77,
+      "atr": 0.1124,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 102,
+      "atr": 0.1256,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0011,
+    "cum_pnl": 4.0579,
+    "leverage": 0.0864,
+    "atr": 0.0084,
+    "marketcap_pnt": 0.0056,
+    "green_marketcap_pnt": 0
+  }
+}

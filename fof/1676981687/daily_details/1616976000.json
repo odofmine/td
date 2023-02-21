@@ -1,0 +1,235 @@
+{
+  "pnls": [
+    {
+      "name": "HOT",
+      "pnl": 0.2768,
+      "pnl_value": 0.0164,
+      "weight": 0.0117,
+      "rank": 61,
+      "atr": 0.1018,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": 0.1648,
+      "pnl_value": 0.0076,
+      "weight": 0.0091,
+      "rank": 97,
+      "atr": 0.1306,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": 0.1218,
+      "pnl_value": 0.0067,
+      "weight": 0.0109,
+      "rank": 106,
+      "atr": 0.1096,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONT",
+      "pnl": 0.1084,
+      "pnl_value": 0.0067,
+      "weight": 0.0122,
+      "rank": 76,
+      "atr": 0.0978,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.0973,
+      "pnl_value": 0.0054,
+      "weight": 0.011,
+      "rank": 69,
+      "atr": 0.1081,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FET",
+      "pnl": 0.0523,
+      "pnl_value": 0.0031,
+      "weight": 0.0117,
+      "rank": 113,
+      "atr": 0.1015,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRX",
+      "pnl": 0.0174,
+      "pnl_value": 0.0013,
+      "weight": 0.0152,
+      "rank": 23,
+      "atr": 0.0781,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": 0.014,
+      "pnl_value": 0.0008,
+      "weight": 0.0114,
+      "rank": 98,
+      "atr": 0.1042,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CVC",
+      "pnl": 0.0132,
+      "pnl_value": 0.0007,
+      "weight": 0.0104,
+      "rank": 144,
+      "atr": 0.1142,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": 0.0071,
+      "pnl_value": 0.0004,
+      "weight": 0.01,
+      "rank": 139,
+      "atr": 0.1184,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HIVE",
+      "pnl": -0.0083,
+      "pnl_value": -0.0005,
+      "weight": 0.0115,
+      "rank": 148,
+      "atr": 0.1034,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.009,
+      "pnl_value": -0.0006,
+      "weight": 0.0131,
+      "rank": 80,
+      "atr": 0.0908,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AKRO",
+      "pnl": -0.0431,
+      "pnl_value": -0.0023,
+      "weight": 0.0105,
+      "rank": 190,
+      "atr": 0.1132,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TRX",
+      "rank": 23,
+      "atr": 0.0781,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 80,
+      "atr": 0.0908,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 76,
+      "atr": 0.0978,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FET",
+      "rank": 113,
+      "atr": 0.1015,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 61,
+      "atr": 0.1018,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HIVE",
+      "rank": 148,
+      "atr": 0.1034,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 98,
+      "atr": 0.1042,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 69,
+      "atr": 0.1081,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 106,
+      "atr": 0.1096,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AKRO",
+      "rank": 190,
+      "atr": 0.1132,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 144,
+      "atr": 0.1142,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 139,
+      "atr": 0.1184,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 97,
+      "atr": 0.1306,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.009,
+    "cum_pnl": 4.1036,
+    "leverage": 0.1487,
+    "atr": 0.0155,
+    "marketcap_pnt": 0.0081,
+    "green_marketcap_pnt": 0
+  }
+}

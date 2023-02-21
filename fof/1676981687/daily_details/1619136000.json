@@ -1,0 +1,51 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": 0.0095,
+      "pnl_value": 0.0005,
+      "weight": 0.0105,
+      "rank": 44,
+      "atr": 0.0882,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DGB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MKR",
+      "rank": 44,
+      "atr": 0.0882,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 4.339,
+    "leverage": 0.0105,
+    "atr": 0.0009,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

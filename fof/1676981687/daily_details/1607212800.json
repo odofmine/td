@@ -1,0 +1,303 @@
+{
+  "pnls": [
+    {
+      "name": "PNT",
+      "pnl": 0.1787,
+      "pnl_value": 0.0026,
+      "weight": 0.0078,
+      "rank": 135,
+      "atr": 0.1383,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0362,
+      "pnl_value": 0.0009,
+      "weight": 0.014,
+      "rank": 36,
+      "atr": 0.077,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.0168,
+      "pnl_value": 0.0004,
+      "weight": 0.0144,
+      "rank": 76,
+      "atr": 0.0749,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0067,
+      "pnl_value": 0.0002,
+      "weight": 0.0163,
+      "rank": 16,
+      "atr": 0.0658,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NPXS",
+      "pnl": 0.003,
+      "pnl_value": 0.0001,
+      "weight": 0.0174,
+      "rank": 165,
+      "atr": 0.0619,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0101,
+      "pnl_value": -0.0002,
+      "weight": 0.0111,
+      "rank": 57,
+      "atr": 0.0968,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.0117,
+      "pnl_value": -0.0002,
+      "weight": 0.0091,
+      "rank": 42,
+      "atr": 0.1173,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0147,
+      "pnl_value": -0.0005,
+      "weight": 0.0168,
+      "rank": 84,
+      "atr": 0.0639,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.0152,
+      "pnl_value": -0.0004,
+      "weight": 0.0126,
+      "rank": 92,
+      "atr": 0.0853,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.0182,
+      "pnl_value": -0.0003,
+      "weight": 0.0092,
+      "rank": 35,
+      "atr": 0.1162,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RUNE",
+      "pnl": -0.0227,
+      "pnl_value": -0.0004,
+      "weight": 0.0093,
+      "rank": 87,
+      "atr": 0.1152,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0269,
+      "pnl_value": -0.0007,
+      "weight": 0.0141,
+      "rank": 86,
+      "atr": 0.0764,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAND",
+      "pnl": -0.0355,
+      "pnl_value": -0.0006,
+      "weight": 0.009,
+      "rank": 90,
+      "atr": 0.1196,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0448,
+      "pnl_value": -0.0009,
+      "weight": 0.0112,
+      "rank": 44,
+      "atr": 0.0961,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0519,
+      "pnl_value": -0.001,
+      "weight": 0.0105,
+      "rank": 32,
+      "atr": 0.1026,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0528,
+      "pnl_value": -0.0014,
+      "weight": 0.0139,
+      "rank": 38,
+      "atr": 0.0776,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0557,
+      "pnl_value": -0.0008,
+      "weight": 0.0074,
+      "rank": 66,
+      "atr": 0.1445,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NPXS",
+      "rank": 165,
+      "atr": 0.0619,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 84,
+      "atr": 0.0639,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.0658,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 76,
+      "atr": 0.0749,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 86,
+      "atr": 0.0764,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 36,
+      "atr": 0.077,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 38,
+      "atr": 0.0776,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 92,
+      "atr": 0.0853,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 44,
+      "atr": 0.0961,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 57,
+      "atr": 0.0968,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 32,
+      "atr": 0.1026,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 87,
+      "atr": 0.1152,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 35,
+      "atr": 0.1162,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 42,
+      "atr": 0.1173,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAND",
+      "rank": 90,
+      "atr": 0.1196,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PNT",
+      "rank": 135,
+      "atr": 0.1383,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 66,
+      "atr": 0.1445,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 0.8584,
+    "leverage": 0.2041,
+    "atr": 0.0183,
+    "marketcap_pnt": 0.0139,
+    "green_marketcap_pnt": 0
+  }
+}

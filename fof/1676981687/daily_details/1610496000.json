@@ -1,0 +1,159 @@
+{
+  "pnls": [
+    {
+      "name": "TOMO",
+      "pnl": 0.0798,
+      "pnl_value": 0.0018,
+      "weight": 0.0111,
+      "rank": 133,
+      "atr": 0.1037,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": 0.047,
+      "pnl_value": 0.0012,
+      "weight": 0.0123,
+      "rank": 21,
+      "atr": 0.0939,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": 0.0408,
+      "pnl_value": 0.0012,
+      "weight": 0.0144,
+      "rank": 27,
+      "atr": 0.0802,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0364,
+      "pnl_value": 0.0009,
+      "weight": 0.0124,
+      "rank": 28,
+      "atr": 0.0932,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0047,
+      "pnl_value": -0.0001,
+      "weight": 0.0121,
+      "rank": 82,
+      "atr": 0.0948,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "YFI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ONE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XZC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HOT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MKR",
+      "rank": 27,
+      "atr": 0.0802,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 28,
+      "atr": 0.0932,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 21,
+      "atr": 0.0939,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 82,
+      "atr": 0.0948,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 133,
+      "atr": 0.1037,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0024,
+    "cum_pnl": 1.0689,
+    "leverage": 0.0623,
+    "atr": 0.0058,
+    "marketcap_pnt": 0.0049,
+    "green_marketcap_pnt": 0
+  }
+}

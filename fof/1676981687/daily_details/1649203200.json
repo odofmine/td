@@ -1,0 +1,200 @@
+{
+  "pnls": [
+    {
+      "name": "NEAR",
+      "pnl": -0.0544,
+      "pnl_value": -0.0035,
+      "weight": 0.0124,
+      "rank": 19,
+      "atr": 0.0829,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SPELL",
+      "pnl": -0.0551,
+      "pnl_value": -0.0019,
+      "weight": 0.0067,
+      "rank": 138,
+      "atr": 0.1541,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FXS",
+      "pnl": -0.0721,
+      "pnl_value": -0.0042,
+      "weight": 0.0112,
+      "rank": 122,
+      "atr": 0.0924,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XNO",
+      "pnl": -0.0869,
+      "pnl_value": -0.0051,
+      "weight": 0.0112,
+      "rank": 167,
+      "atr": 0.0922,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PYR",
+      "pnl": -0.1053,
+      "pnl_value": -0.0054,
+      "weight": 0.0098,
+      "rank": 162,
+      "atr": 0.1055,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.1126,
+      "pnl_value": -0.0086,
+      "weight": 0.0147,
+      "rank": 56,
+      "atr": 0.0701,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AUDIO",
+      "pnl": -0.1484,
+      "pnl_value": -0.0081,
+      "weight": 0.0105,
+      "rank": 99,
+      "atr": 0.098,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.1708,
+      "pnl_value": -0.0153,
+      "weight": 0.0172,
+      "rank": 12,
+      "atr": 0.06,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MOVR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DYDX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MBOX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CHR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DOGE",
+      "rank": 12,
+      "atr": 0.06,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 56,
+      "atr": 0.0701,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 19,
+      "atr": 0.0829,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XNO",
+      "rank": 167,
+      "atr": 0.0922,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FXS",
+      "rank": 122,
+      "atr": 0.0924,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AUDIO",
+      "rank": 99,
+      "atr": 0.098,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PYR",
+      "rank": 162,
+      "atr": 0.1055,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SPELL",
+      "rank": 138,
+      "atr": 0.1541,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.01,
+    "cum_pnl": 4.1448,
+    "leverage": 0.0937,
+    "atr": 0.0083,
+    "marketcap_pnt": 0.0166,
+    "green_marketcap_pnt": 0
+  }
+}

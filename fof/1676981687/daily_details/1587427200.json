@@ -1,0 +1,81 @@
+{
+  "pnls": [
+    {
+      "name": "ZEC",
+      "pnl": 0.0041,
+      "pnl_value": 0.0001,
+      "weight": 0.0188,
+      "rank": 28,
+      "atr": 0.0948,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ADA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZEC",
+      "rank": 28,
+      "atr": 0.0948,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 0.3614,
+    "leverage": 0.0188,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "pnls": [
+    {
+      "name": "COMP",
+      "pnl": -0.0456,
+      "pnl_value": -0.0009,
+      "weight": 0.0105,
+      "rank": 39,
+      "atr": 0.0997,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WAVES",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "COMP",
+      "rank": 39,
+      "atr": 0.0997,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 0.8373,
+    "leverage": 0.0105,
+    "atr": 0.001,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

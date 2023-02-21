@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "UNI",
+      "pnl": 0.0819,
+      "pnl_value": 0.005,
+      "weight": 0.0114,
+      "rank": 9,
+      "atr": 0.0893,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": 0.0492,
+      "pnl_value": 0.0022,
+      "weight": 0.0085,
+      "rank": 152,
+      "atr": 0.1187,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0457,
+      "pnl_value": 0.0024,
+      "weight": 0.0098,
+      "rank": 31,
+      "atr": 0.104,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0308,
+      "pnl_value": 0.0026,
+      "weight": 0.0158,
+      "rank": 2,
+      "atr": 0.0645,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CAKE",
+      "pnl": 0.0092,
+      "pnl_value": 0.0005,
+      "weight": 0.0106,
+      "rank": 26,
+      "atr": 0.0961,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0172,
+      "pnl_value": -0.001,
+      "weight": 0.0106,
+      "rank": 41,
+      "atr": 0.0959,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0344,
+      "pnl_value": -0.0018,
+      "weight": 0.0099,
+      "rank": 75,
+      "atr": 0.1027,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SRM",
+      "pnl": -0.0712,
+      "pnl_value": -0.0038,
+      "weight": 0.01,
+      "rank": 127,
+      "atr": 0.1011,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0645,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 9,
+      "atr": 0.0893,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 41,
+      "atr": 0.0959,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 26,
+      "atr": 0.0961,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 127,
+      "atr": 0.1011,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 75,
+      "atr": 0.1027,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 31,
+      "atr": 0.104,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 152,
+      "atr": 0.1187,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 4.3796,
+    "leverage": 0.0866,
+    "atr": 0.0081,
+    "marketcap_pnt": 0.1658,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "CFX",
+      "pnl": -0.0941,
+      "pnl_value": -0.0045,
+      "weight": 0.0101,
+      "rank": 195,
+      "atr": 0.1334,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CFX",
+      "rank": 195,
+      "atr": 0.1334,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 3.722,
+    "leverage": 0.0101,
+    "atr": 0.0013,
+    "marketcap_pnt": 0.0001,
+    "green_marketcap_pnt": 0
+  }
+}

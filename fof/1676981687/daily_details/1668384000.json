@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "DYDX",
+      "pnl": 0.0567,
+      "pnl_value": 0.002,
+      "weight": 0.0083,
+      "rank": 139,
+      "atr": 0.0888,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "YFII",
+      "pnl": 0.0252,
+      "pnl_value": 0.0013,
+      "weight": 0.0118,
+      "rank": 185,
+      "atr": 0.0621,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "YFII",
+      "rank": 185,
+      "atr": 0.0621,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DYDX",
+      "rank": 139,
+      "atr": 0.0888,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 3.3498,
+    "leverage": 0.0201,
+    "atr": 0.0015,
+    "marketcap_pnt": 0.0003,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": 0.082,
+      "pnl_value": 0.0044,
+      "weight": 0.0117,
+      "rank": 29,
+      "atr": 0.0572,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FXS",
+      "pnl": 0.0156,
+      "pnl_value": 0.0008,
+      "weight": 0.0109,
+      "rank": 184,
+      "atr": 0.0615,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WOO",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0091,
+      "rank": 135,
+      "atr": 0.0731,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": -0.0227,
+      "pnl_value": -0.001,
+      "weight": 0.0095,
+      "rank": 83,
+      "atr": 0.0704,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0274,
+      "pnl_value": -0.0011,
+      "weight": 0.009,
+      "rank": 136,
+      "atr": 0.0742,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "QNT",
+      "rank": 29,
+      "atr": 0.0572,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FXS",
+      "rank": 184,
+      "atr": 0.0615,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 83,
+      "atr": 0.0704,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WOO",
+      "rank": 135,
+      "atr": 0.0731,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 136,
+      "atr": 0.0742,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 3.6221,
+    "leverage": 0.0502,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.0035,
+    "green_marketcap_pnt": 0
+  }
+}

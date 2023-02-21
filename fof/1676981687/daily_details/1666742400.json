@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "SUSHI",
+      "pnl": 0.0698,
+      "pnl_value": 0.0031,
+      "weight": 0.0097,
+      "rank": 144,
+      "atr": 0.0729,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0397,
+      "pnl_value": 0.0024,
+      "weight": 0.013,
+      "rank": 74,
+      "atr": 0.0543,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAL",
+      "pnl": 0.026,
+      "pnl_value": 0.0012,
+      "weight": 0.0103,
+      "rank": 113,
+      "atr": 0.0683,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RNDR",
+      "pnl": 0.0057,
+      "pnl_value": 0.0002,
+      "weight": 0.0076,
+      "rank": 174,
+      "atr": 0.093,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AAVE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEXO",
+      "rank": 74,
+      "atr": 0.0543,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 113,
+      "atr": 0.0683,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 144,
+      "atr": 0.0729,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 174,
+      "atr": 0.093,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0015,
+    "cum_pnl": 3.606,
+    "leverage": 0.0406,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "pnls": [
+    {
+      "name": "ATOM",
+      "pnl": 0.1041,
+      "pnl_value": 0.0055,
+      "weight": 0.0108,
+      "rank": 26,
+      "atr": 0.09,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KP3R",
+      "pnl": 0.095,
+      "pnl_value": 0.0027,
+      "weight": 0.0059,
+      "rank": 198,
+      "atr": 0.1644,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CRV",
+      "pnl": 0.0791,
+      "pnl_value": 0.0038,
+      "weight": 0.0099,
+      "rank": 58,
+      "atr": 0.0977,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0691,
+      "pnl_value": 0.0033,
+      "weight": 0.0099,
+      "rank": 49,
+      "atr": 0.0982,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ROSE",
+      "pnl": 0.0245,
+      "pnl_value": 0.0011,
+      "weight": 0.009,
+      "rank": 80,
+      "atr": 0.1073,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.0088,
+      "pnl_value": -0.0005,
+      "weight": 0.0123,
+      "rank": 81,
+      "atr": 0.0791,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GNO",
+      "pnl": -0.026,
+      "pnl_value": -0.0014,
+      "weight": 0.0113,
+      "rank": 95,
+      "atr": 0.0861,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0342,
+      "pnl_value": -0.0023,
+      "weight": 0.0138,
+      "rank": 43,
+      "atr": 0.0704,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHR",
+      "pnl": -0.0496,
+      "pnl_value": -0.0018,
+      "weight": 0.0076,
+      "rank": 148,
+      "atr": 0.1279,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ALGO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DUSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 43,
+      "atr": 0.0704,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 81,
+      "atr": 0.0791,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GNO",
+      "rank": 95,
+      "atr": 0.0861,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 26,
+      "atr": 0.09,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 58,
+      "atr": 0.0977,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 49,
+      "atr": 0.0982,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 80,
+      "atr": 0.1073,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHR",
+      "rank": 148,
+      "atr": 0.1279,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KP3R",
+      "rank": 198,
+      "atr": 0.1644,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0021,
+    "cum_pnl": 3.8749,
+    "leverage": 0.0905,
+    "atr": 0.0087,
+    "marketcap_pnt": 0.0102,
+    "green_marketcap_pnt": 0
+  }
+}

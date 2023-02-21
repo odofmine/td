@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "ANT",
+      "pnl": 0.0068,
+      "pnl_value": 0.0002,
+      "weight": 0.0084,
+      "rank": 182,
+      "atr": 0.0866,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.029,
+      "pnl_value": -0.0015,
+      "weight": 0.0121,
+      "rank": 44,
+      "atr": 0.0605,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FXS",
+      "pnl": -0.0331,
+      "pnl_value": -0.0015,
+      "weight": 0.0103,
+      "rank": 199,
+      "atr": 0.0706,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 44,
+      "atr": 0.0605,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FXS",
+      "rank": 199,
+      "atr": 0.0706,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 182,
+      "atr": 0.0866,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0006,
+    "cum_pnl": 3.3224,
+    "leverage": 0.0308,
+    "atr": 0.0022,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

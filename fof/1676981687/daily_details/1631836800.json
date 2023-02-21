@@ -1,0 +1,255 @@
+{
+  "pnls": [
+    {
+      "name": "AVAX",
+      "pnl": 0.0379,
+      "pnl_value": 0.0022,
+      "weight": 0.0113,
+      "rank": 14,
+      "atr": 0.0937,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0475,
+      "pnl_value": -0.0028,
+      "weight": 0.0114,
+      "rank": 110,
+      "atr": 0.0929,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0696,
+      "pnl_value": -0.0042,
+      "weight": 0.0117,
+      "rank": 8,
+      "atr": 0.0907,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SKL",
+      "pnl": -0.0797,
+      "pnl_value": -0.0036,
+      "weight": 0.0089,
+      "rank": 134,
+      "atr": 0.1198,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": -0.0816,
+      "pnl_value": -0.0048,
+      "weight": 0.0115,
+      "rank": 91,
+      "atr": 0.0926,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0854,
+      "pnl_value": -0.0048,
+      "weight": 0.011,
+      "rank": 96,
+      "atr": 0.0963,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "TRX",
+      "pnl": -0.0907,
+      "pnl_value": -0.0071,
+      "weight": 0.0154,
+      "rank": 24,
+      "atr": 0.069,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": -0.0968,
+      "pnl_value": -0.0058,
+      "weight": 0.0117,
+      "rank": 95,
+      "atr": 0.0908,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0974,
+      "pnl_value": -0.0059,
+      "weight": 0.0118,
+      "rank": 25,
+      "atr": 0.0899,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.1061,
+      "pnl_value": -0.0066,
+      "weight": 0.0122,
+      "rank": 43,
+      "atr": 0.0869,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.1194,
+      "pnl_value": -0.007,
+      "weight": 0.0115,
+      "rank": 31,
+      "atr": 0.0921,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.1252,
+      "pnl_value": -0.0069,
+      "weight": 0.0108,
+      "rank": 84,
+      "atr": 0.0986,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.1613,
+      "pnl_value": -0.0092,
+      "weight": 0.0111,
+      "rank": 75,
+      "atr": 0.0954,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KSM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TRX",
+      "rank": 24,
+      "atr": 0.069,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 43,
+      "atr": 0.0869,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 25,
+      "atr": 0.0899,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.0907,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 95,
+      "atr": 0.0908,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 31,
+      "atr": 0.0921,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 91,
+      "atr": 0.0926,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 110,
+      "atr": 0.0929,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 14,
+      "atr": 0.0937,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 75,
+      "atr": 0.0954,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 96,
+      "atr": 0.0963,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 84,
+      "atr": 0.0986,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SKL",
+      "rank": 134,
+      "atr": 0.1198,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.013,
+    "cum_pnl": 4.0473,
+    "leverage": 0.1503,
+    "atr": 0.0138,
+    "marketcap_pnt": 0.0387,
+    "green_marketcap_pnt": 0
+  }
+}

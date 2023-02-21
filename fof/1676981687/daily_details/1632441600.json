@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "COTI",
+      "pnl": -0.1217,
+      "pnl_value": -0.0061,
+      "weight": 0.0101,
+      "rank": 168,
+      "atr": 0.0993,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "COTI",
+      "rank": 168,
+      "atr": 0.0993,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 3.9909,
+    "leverage": 0.0101,
+    "atr": 0.001,
+    "marketcap_pnt": 0.0002,
+    "green_marketcap_pnt": 0
+  }
+}

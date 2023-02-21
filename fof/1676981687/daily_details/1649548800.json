@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": -0.0175,
+      "pnl_value": -0.0009,
+      "weight": 0.0101,
+      "rank": 43,
+      "atr": 0.0594,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 43,
+      "atr": 0.0594,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 4.1437,
+    "leverage": 0.0101,
+    "atr": 0.0006,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

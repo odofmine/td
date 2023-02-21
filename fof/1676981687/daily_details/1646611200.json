@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "LSK",
+      "pnl": -0.1008,
+      "pnl_value": -0.0048,
+      "weight": 0.0101,
+      "rank": 162,
+      "atr": 0.092,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LSK",
+      "rank": 162,
+      "atr": 0.092,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 3.7114,
+    "leverage": 0.0101,
+    "atr": 0.0009,
+    "marketcap_pnt": 0.0002,
+    "green_marketcap_pnt": 0
+  }
+}

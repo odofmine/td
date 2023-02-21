@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "CHR",
+      "pnl": -0.1366,
+      "pnl_value": -0.0073,
+      "weight": 0.0101,
+      "rank": 195,
+      "atr": 0.1405,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CHR",
+      "rank": 195,
+      "atr": 0.1405,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0014,
+    "cum_pnl": 4.2903,
+    "leverage": 0.0101,
+    "atr": 0.0014,
+    "marketcap_pnt": 0.0001,
+    "green_marketcap_pnt": 0
+  }
+}

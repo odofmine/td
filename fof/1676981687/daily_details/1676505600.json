@@ -1,0 +1,201 @@
+{
+  "pnls": [
+    {
+      "name": "LRC",
+      "pnl": -0.0201,
+      "pnl_value": -0.0009,
+      "weight": 0.0091,
+      "rank": 76,
+      "atr": 0.0809,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GMX",
+      "pnl": -0.0588,
+      "pnl_value": -0.0028,
+      "weight": 0.0102,
+      "rank": 79,
+      "atr": 0.0725,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0626,
+      "pnl_value": -0.0035,
+      "weight": 0.0119,
+      "rank": 92,
+      "atr": 0.0623,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ASTR",
+      "pnl": -0.0673,
+      "pnl_value": -0.0031,
+      "weight": 0.0099,
+      "rank": 117,
+      "atr": 0.0748,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0711,
+      "pnl_value": -0.0039,
+      "weight": 0.0116,
+      "rank": 67,
+      "atr": 0.0637,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0773,
+      "pnl_value": -0.0035,
+      "weight": 0.0097,
+      "rank": 169,
+      "atr": 0.0759,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0831,
+      "pnl_value": -0.0044,
+      "weight": 0.0113,
+      "rank": 28,
+      "atr": 0.0653,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LDO",
+      "pnl": -0.0907,
+      "pnl_value": -0.0031,
+      "weight": 0.0073,
+      "rank": 31,
+      "atr": 0.1011,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SKL",
+      "pnl": -0.0921,
+      "pnl_value": -0.004,
+      "weight": 0.0092,
+      "rank": 144,
+      "atr": 0.0805,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IMX",
+      "pnl": -0.1243,
+      "pnl_value": -0.0054,
+      "weight": 0.0092,
+      "rank": 58,
+      "atr": 0.08,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNX",
+      "pnl": -1.0,
+      "pnl_value": -0.0515,
+      "weight": 0.011,
+      "rank": 88,
+      "atr": 0.067,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BAT",
+      "rank": 92,
+      "atr": 0.0623,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 67,
+      "atr": 0.0637,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 28,
+      "atr": 0.0653,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNX",
+      "rank": 88,
+      "atr": 0.067,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GMX",
+      "rank": 79,
+      "atr": 0.0725,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ASTR",
+      "rank": 117,
+      "atr": 0.0748,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 169,
+      "atr": 0.0759,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IMX",
+      "rank": 58,
+      "atr": 0.08,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SKL",
+      "rank": 144,
+      "atr": 0.0805,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 76,
+      "atr": 0.0809,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LDO",
+      "rank": 31,
+      "atr": 0.1011,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0184,
+    "cum_pnl": 3.5974,
+    "leverage": 0.1104,
+    "atr": 0.0081,
+    "marketcap_pnt": 0.0085,
+    "green_marketcap_pnt": 0
+  }
+}

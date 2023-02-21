@@ -1,0 +1,88 @@
+{
+  "pnls": [
+    {
+      "name": "RVN",
+      "pnl": 0.1716,
+      "pnl_value": 0.0056,
+      "weight": 0.007,
+      "rank": 75,
+      "atr": 0.0882,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNX",
+      "pnl": -0.0013,
+      "pnl_value": -0.0001,
+      "weight": 0.0139,
+      "rank": 115,
+      "atr": 0.0447,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEAR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNX",
+      "rank": 115,
+      "atr": 0.0447,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 75,
+      "atr": 0.0882,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 3.6909,
+    "leverage": 0.0209,
+    "atr": 0.0012,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

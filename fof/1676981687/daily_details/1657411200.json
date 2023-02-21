@@ -1,0 +1,146 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": -0.0111,
+      "pnl_value": -0.0005,
+      "weight": 0.0094,
+      "rank": 164,
+      "atr": 0.1346,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0341,
+      "pnl_value": -0.0024,
+      "weight": 0.014,
+      "rank": 19,
+      "atr": 0.09,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DYDX",
+      "pnl": -0.0413,
+      "pnl_value": -0.0022,
+      "weight": 0.0106,
+      "rank": 181,
+      "atr": 0.1193,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GMT",
+      "pnl": -0.0503,
+      "pnl_value": -0.0019,
+      "weight": 0.0073,
+      "rank": 73,
+      "atr": 0.1733,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0504,
+      "pnl_value": -0.0037,
+      "weight": 0.0143,
+      "rank": 61,
+      "atr": 0.0886,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": -0.0591,
+      "pnl_value": -0.0028,
+      "weight": 0.0094,
+      "rank": 77,
+      "atr": 0.1348,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SAND",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BAT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "QNT",
+      "rank": 61,
+      "atr": 0.0886,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 19,
+      "atr": 0.09,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DYDX",
+      "rank": 181,
+      "atr": 0.1193,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 164,
+      "atr": 0.1346,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 77,
+      "atr": 0.1348,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GMT",
+      "rank": 73,
+      "atr": 0.1733,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0026,
+    "cum_pnl": 4.0538,
+    "leverage": 0.065,
+    "atr": 0.0076,
+    "marketcap_pnt": 0.0063,
+    "green_marketcap_pnt": 0
+  }
+}

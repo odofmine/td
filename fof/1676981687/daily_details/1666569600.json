@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "BAL",
+      "pnl": -0.0334,
+      "pnl_value": -0.0014,
+      "weight": 0.0092,
+      "rank": 113,
+      "atr": 0.0698,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0427,
+      "pnl_value": -0.0021,
+      "weight": 0.0109,
+      "rank": 45,
+      "atr": 0.0592,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AAVE",
+      "rank": 45,
+      "atr": 0.0592,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 113,
+      "atr": 0.0698,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 3.5968,
+    "leverage": 0.0201,
+    "atr": 0.0013,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

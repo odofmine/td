@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "LTO",
+      "pnl": 0.0647,
+      "pnl_value": 0.0013,
+      "weight": 0.0105,
+      "rank": 168,
+      "atr": 0.0814,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.0355,
+      "pnl_value": 0.0006,
+      "weight": 0.0092,
+      "rank": 45,
+      "atr": 0.0925,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0311,
+      "pnl_value": -0.0005,
+      "weight": 0.0091,
+      "rank": 131,
+      "atr": 0.0939,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTT",
+      "pnl": -0.1012,
+      "pnl_value": -0.0027,
+      "weight": 0.0141,
+      "rank": 53,
+      "atr": 0.0606,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTT",
+      "rank": 53,
+      "atr": 0.0606,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTO",
+      "rank": 168,
+      "atr": 0.0814,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 45,
+      "atr": 0.0925,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 131,
+      "atr": 0.0939,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 0.8892,
+    "leverage": 0.0429,
+    "atr": 0.0034,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

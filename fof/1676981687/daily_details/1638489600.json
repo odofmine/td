@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "OCEAN",
+      "pnl": 0.0194,
+      "pnl_value": 0.0009,
+      "weight": 0.009,
+      "rank": 140,
+      "atr": 0.0984,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0424,
+      "pnl_value": -0.0025,
+      "weight": 0.0119,
+      "rank": 13,
+      "atr": 0.0743,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RSR",
+      "pnl": -0.1279,
+      "pnl_value": -0.0059,
+      "weight": 0.0094,
+      "rank": 149,
+      "atr": 0.0938,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STMX",
+      "pnl": -0.1485,
+      "pnl_value": -0.0073,
+      "weight": 0.01,
+      "rank": 191,
+      "atr": 0.0886,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "POLS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 13,
+      "atr": 0.0743,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STMX",
+      "rank": 191,
+      "atr": 0.0886,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 149,
+      "atr": 0.0938,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 140,
+      "atr": 0.0984,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.003,
+    "cum_pnl": 3.8788,
+    "leverage": 0.0403,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.0084,
+    "green_marketcap_pnt": 0
+  }
+}

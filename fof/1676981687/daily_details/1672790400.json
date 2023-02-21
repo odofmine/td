@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "LDO",
+      "pnl": 0.1471,
+      "pnl_value": 0.0064,
+      "weight": 0.0101,
+      "rank": 78,
+      "atr": 0.0789,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LDO",
+      "rank": 78,
+      "atr": 0.0789,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0015,
+    "cum_pnl": 3.2967,
+    "leverage": 0.0101,
+    "atr": 0.0008,
+    "marketcap_pnt": 0.0004,
+    "green_marketcap_pnt": 0
+  }
+}

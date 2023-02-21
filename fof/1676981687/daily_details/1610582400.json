@@ -1,0 +1,170 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": 0.0395,
+      "pnl_value": 0.0011,
+      "weight": 0.0134,
+      "rank": 27,
+      "atr": 0.0791,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": 0.0176,
+      "pnl_value": 0.0004,
+      "weight": 0.0109,
+      "rank": 44,
+      "atr": 0.0967,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.006,
+      "pnl_value": 0.0001,
+      "weight": 0.0115,
+      "rank": 26,
+      "atr": 0.0921,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.001,
+      "pnl_value": -0.0,
+      "weight": 0.0116,
+      "rank": 28,
+      "atr": 0.0914,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0429,
+      "pnl_value": -0.0012,
+      "weight": 0.0132,
+      "rank": 15,
+      "atr": 0.08,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XZC",
+      "pnl": -0.045,
+      "pnl_value": -0.0009,
+      "weight": 0.0095,
+      "rank": 185,
+      "atr": 0.1109,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.0533,
+      "pnl_value": -0.0013,
+      "weight": 0.0116,
+      "rank": 25,
+      "atr": 0.0915,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0659,
+      "pnl_value": -0.0015,
+      "weight": 0.0109,
+      "rank": 82,
+      "atr": 0.0975,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MKR",
+      "rank": 27,
+      "atr": 0.0791,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 15,
+      "atr": 0.08,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 28,
+      "atr": 0.0914,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 25,
+      "atr": 0.0915,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 26,
+      "atr": 0.0921,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 44,
+      "atr": 0.0967,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 82,
+      "atr": 0.0975,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XZC",
+      "rank": 185,
+      "atr": 0.1109,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0015,
+    "cum_pnl": 1.0657,
+    "leverage": 0.0926,
+    "atr": 0.0085,
+    "marketcap_pnt": 0.0101,
+    "green_marketcap_pnt": 0
+  }
+}

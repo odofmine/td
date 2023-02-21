@@ -1,0 +1,160 @@
+{
+  "pnls": [
+    {
+      "name": "SUSHI",
+      "pnl": -0.008,
+      "pnl_value": -0.0004,
+      "weight": 0.0107,
+      "rank": 136,
+      "atr": 0.0729,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0118,
+      "pnl_value": -0.0007,
+      "weight": 0.012,
+      "rank": 50,
+      "atr": 0.0651,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0343,
+      "pnl_value": -0.0017,
+      "weight": 0.0108,
+      "rank": 99,
+      "atr": 0.0722,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WOO",
+      "pnl": -0.0352,
+      "pnl_value": -0.0018,
+      "weight": 0.0113,
+      "rank": 135,
+      "atr": 0.0691,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PYR",
+      "pnl": -0.0444,
+      "pnl_value": -0.0017,
+      "weight": 0.0081,
+      "rank": 176,
+      "atr": 0.0954,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0541,
+      "pnl_value": -0.0023,
+      "weight": 0.009,
+      "rank": 158,
+      "atr": 0.0862,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.062,
+      "pnl_value": -0.0033,
+      "weight": 0.0114,
+      "rank": 29,
+      "atr": 0.0683,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FXS",
+      "pnl": -0.0909,
+      "pnl_value": -0.0056,
+      "weight": 0.0133,
+      "rank": 184,
+      "atr": 0.0584,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FXS",
+      "rank": 184,
+      "atr": 0.0584,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 50,
+      "atr": 0.0651,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 29,
+      "atr": 0.0683,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WOO",
+      "rank": 135,
+      "atr": 0.0691,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 99,
+      "atr": 0.0722,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 136,
+      "atr": 0.0729,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 158,
+      "atr": 0.0862,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PYR",
+      "rank": 176,
+      "atr": 0.0954,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0038,
+    "cum_pnl": 3.6052,
+    "leverage": 0.0866,
+    "atr": 0.0062,
+    "marketcap_pnt": 0.0048,
+    "green_marketcap_pnt": 0
+  }
+}

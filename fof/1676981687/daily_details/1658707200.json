@@ -1,0 +1,206 @@
+{
+  "pnls": [
+    {
+      "name": "ENS",
+      "pnl": -0.0487,
+      "pnl_value": -0.0029,
+      "weight": 0.012,
+      "rank": 110,
+      "atr": 0.0973,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "APE",
+      "pnl": -0.0696,
+      "pnl_value": -0.0032,
+      "weight": 0.0093,
+      "rank": 31,
+      "atr": 0.1252,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.079,
+      "pnl_value": -0.0064,
+      "weight": 0.0164,
+      "rank": 44,
+      "atr": 0.0711,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ACA",
+      "pnl": -0.0931,
+      "pnl_value": -0.0034,
+      "weight": 0.0074,
+      "rank": 162,
+      "atr": 0.1582,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": -0.1217,
+      "pnl_value": -0.0083,
+      "weight": 0.0139,
+      "rank": 88,
+      "atr": 0.0837,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.1317,
+      "pnl_value": -0.0067,
+      "weight": 0.0104,
+      "rank": 89,
+      "atr": 0.1118,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FLOW",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FLUX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ENJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CRV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XEM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KSM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 44,
+      "atr": 0.0711,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 88,
+      "atr": 0.0837,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 110,
+      "atr": 0.0973,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 89,
+      "atr": 0.1118,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "APE",
+      "rank": 31,
+      "atr": 0.1252,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ACA",
+      "rank": 162,
+      "atr": 0.1582,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0063,
+    "cum_pnl": 3.8952,
+    "leverage": 0.0694,
+    "atr": 0.007,
+    "marketcap_pnt": 0.0042,
+    "green_marketcap_pnt": 0
+  }
+}

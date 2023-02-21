@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "ENS",
+      "pnl": -0.1552,
+      "pnl_value": -0.008,
+      "weight": 0.0101,
+      "rank": 120,
+      "atr": 0.087,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ENS",
+      "rank": 120,
+      "atr": 0.087,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 4.0774,
+    "leverage": 0.0101,
+    "atr": 0.0009,
+    "marketcap_pnt": 0.0003,
+    "green_marketcap_pnt": 0
+  }
+}

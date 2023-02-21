@@ -1,0 +1,343 @@
+{
+  "pnls": [
+    {
+      "name": "MANA",
+      "pnl": 1.5723,
+      "pnl_value": 0.1128,
+      "weight": 0.0146,
+      "rank": 80,
+      "atr": 0.0649,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SAND",
+      "pnl": 0.5468,
+      "pnl_value": 0.0347,
+      "weight": 0.0129,
+      "rank": 118,
+      "atr": 0.0734,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": 0.4769,
+      "pnl_value": 0.0258,
+      "weight": 0.011,
+      "rank": 67,
+      "atr": 0.0862,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": 0.4553,
+      "pnl_value": 0.0311,
+      "weight": 0.0139,
+      "rank": 99,
+      "atr": 0.0682,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.2377,
+      "pnl_value": 0.0152,
+      "weight": 0.013,
+      "rank": 78,
+      "atr": 0.0729,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAXP",
+      "pnl": 0.1478,
+      "pnl_value": 0.007,
+      "weight": 0.0096,
+      "rank": 128,
+      "atr": 0.0983,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": 0.0871,
+      "pnl_value": 0.0052,
+      "weight": 0.0122,
+      "rank": 73,
+      "atr": 0.0774,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": 0.0135,
+      "pnl_value": 0.0008,
+      "weight": 0.0114,
+      "rank": 77,
+      "atr": 0.0834,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LRC",
+      "pnl": -0.0011,
+      "pnl_value": -0.0001,
+      "weight": 0.0109,
+      "rank": 129,
+      "atr": 0.0872,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0036,
+      "pnl_value": -0.0003,
+      "weight": 0.0171,
+      "rank": 3,
+      "atr": 0.0554,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0221,
+      "pnl_value": -0.0012,
+      "weight": 0.011,
+      "rank": 72,
+      "atr": 0.0863,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GNO",
+      "pnl": -0.0251,
+      "pnl_value": -0.002,
+      "weight": 0.0162,
+      "rank": 126,
+      "atr": 0.0587,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0525,
+      "pnl_value": -0.0027,
+      "weight": 0.0104,
+      "rank": 11,
+      "atr": 0.0912,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0572,
+      "pnl_value": -0.0027,
+      "weight": 0.0097,
+      "rank": 24,
+      "atr": 0.0977,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0666,
+      "pnl_value": -0.0036,
+      "weight": 0.011,
+      "rank": 9,
+      "atr": 0.0864,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "1INCH",
+      "pnl": -0.0713,
+      "pnl_value": -0.0035,
+      "weight": 0.0099,
+      "rank": 119,
+      "atr": 0.0955,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COTI",
+      "pnl": -0.104,
+      "pnl_value": -0.0048,
+      "weight": 0.0093,
+      "rank": 147,
+      "atr": 0.1017,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RUNE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEAR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AAVE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ONE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 3,
+      "atr": 0.0554,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GNO",
+      "rank": 126,
+      "atr": 0.0587,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 80,
+      "atr": 0.0649,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 99,
+      "atr": 0.0682,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 78,
+      "atr": 0.0729,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SAND",
+      "rank": 118,
+      "atr": 0.0734,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 73,
+      "atr": 0.0774,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 77,
+      "atr": 0.0834,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 67,
+      "atr": 0.0862,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 72,
+      "atr": 0.0863,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 9,
+      "atr": 0.0864,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 129,
+      "atr": 0.0872,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 11,
+      "atr": 0.0912,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "1INCH",
+      "rank": 119,
+      "atr": 0.0955,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 24,
+      "atr": 0.0977,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAXP",
+      "rank": 128,
+      "atr": 0.0983,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COTI",
+      "rank": 147,
+      "atr": 0.1017,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0431,
+    "cum_pnl": 4.1274,
+    "leverage": 0.2041,
+    "atr": 0.0161,
+    "marketcap_pnt": 0.0612,
+    "green_marketcap_pnt": 0
+  }
+}

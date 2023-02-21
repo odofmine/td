@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "ROSE",
+      "pnl": 0.0361,
+      "pnl_value": 0.0015,
+      "weight": 0.0085,
+      "rank": 84,
+      "atr": 0.109,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0142,
+      "pnl_value": 0.0009,
+      "weight": 0.0125,
+      "rank": 44,
+      "atr": 0.0736,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DUSK",
+      "pnl": -0.0043,
+      "pnl_value": -0.0002,
+      "weight": 0.0089,
+      "rank": 187,
+      "atr": 0.1041,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GNO",
+      "pnl": -0.0511,
+      "pnl_value": -0.0028,
+      "weight": 0.0114,
+      "rank": 121,
+      "atr": 0.0813,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.08,
+      "pnl_value": -0.0037,
+      "weight": 0.0096,
+      "rank": 94,
+      "atr": 0.0965,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 44,
+      "atr": 0.0736,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GNO",
+      "rank": 121,
+      "atr": 0.0813,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 94,
+      "atr": 0.0965,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DUSK",
+      "rank": 187,
+      "atr": 0.1041,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 84,
+      "atr": 0.109,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 3.8676,
+    "leverage": 0.0509,
+    "atr": 0.0046,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}

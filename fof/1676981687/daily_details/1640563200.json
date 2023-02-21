@@ -1,0 +1,184 @@
+{
+  "pnls": [
+    {
+      "name": "DUSK",
+      "pnl": 0.2525,
+      "pnl_value": 0.0128,
+      "weight": 0.0103,
+      "rank": 187,
+      "atr": 0.1045,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0351,
+      "pnl_value": 0.0022,
+      "weight": 0.0126,
+      "rank": 46,
+      "atr": 0.0854,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0293,
+      "pnl_value": -0.0013,
+      "weight": 0.0092,
+      "rank": 69,
+      "atr": 0.1174,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SAND",
+      "pnl": -0.0446,
+      "pnl_value": -0.0025,
+      "weight": 0.0112,
+      "rank": 31,
+      "atr": 0.0967,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.0497,
+      "pnl_value": -0.0025,
+      "weight": 0.0103,
+      "rank": 165,
+      "atr": 0.1045,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": -0.0714,
+      "pnl_value": -0.0032,
+      "weight": 0.0091,
+      "rank": 84,
+      "atr": 0.118,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0753,
+      "pnl_value": -0.0041,
+      "weight": 0.0111,
+      "rank": 27,
+      "atr": 0.0971,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CRV",
+      "pnl": -0.08,
+      "pnl_value": -0.0042,
+      "weight": 0.0108,
+      "rank": 62,
+      "atr": 0.0997,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0873,
+      "pnl_value": -0.0061,
+      "weight": 0.0142,
+      "rank": 9,
+      "atr": 0.0758,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.093,
+      "pnl_value": -0.0053,
+      "weight": 0.0117,
+      "rank": 23,
+      "atr": 0.0923,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.0758,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 46,
+      "atr": 0.0854,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 23,
+      "atr": 0.0923,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SAND",
+      "rank": 31,
+      "atr": 0.0967,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 27,
+      "atr": 0.0971,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 62,
+      "atr": 0.0997,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 165,
+      "atr": 0.1045,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DUSK",
+      "rank": 187,
+      "atr": 0.1045,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 69,
+      "atr": 0.1174,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 84,
+      "atr": 0.118,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0029,
+    "cum_pnl": 3.8918,
+    "leverage": 0.1105,
+    "atr": 0.0108,
+    "marketcap_pnt": 0.0293,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "pnls": [
+    {
+      "name": "EOS",
+      "pnl": 0.5667,
+      "pnl_value": 0.0292,
+      "weight": 0.0094,
+      "rank": 21,
+      "atr": 0.1187,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": 0.3289,
+      "pnl_value": 0.026,
+      "weight": 0.0144,
+      "rank": 75,
+      "atr": 0.0778,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.1188,
+      "pnl_value": 0.0077,
+      "weight": 0.0118,
+      "rank": 14,
+      "atr": 0.095,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONT",
+      "pnl": 0.104,
+      "pnl_value": 0.005,
+      "weight": 0.0088,
+      "rank": 64,
+      "atr": 0.1274,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": 0.0744,
+      "pnl_value": 0.0039,
+      "weight": 0.0095,
+      "rank": 101,
+      "atr": 0.1177,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": 0.0709,
+      "pnl_value": 0.0038,
+      "weight": 0.0097,
+      "rank": 170,
+      "atr": 0.1157,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0575,
+      "pnl_value": 0.0064,
+      "weight": 0.0204,
+      "rank": 2,
+      "atr": 0.0552,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0269,
+      "pnl_value": 0.002,
+      "weight": 0.0139,
+      "rank": 23,
+      "atr": 0.0808,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CTSI",
+      "pnl": 0.0001,
+      "pnl_value": 0.0,
+      "weight": 0.0075,
+      "rank": 131,
+      "atr": 0.1497,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KSM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AVAX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZEN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "1INCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XTZ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0552,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 75,
+      "atr": 0.0778,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 23,
+      "atr": 0.0808,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 14,
+      "atr": 0.095,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 170,
+      "atr": 0.1157,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 101,
+      "atr": 0.1177,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 21,
+      "atr": 0.1187,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 64,
+      "atr": 0.1274,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CTSI",
+      "rank": 131,
+      "atr": 0.1497,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0153,
+    "cum_pnl": 4.5697,
+    "leverage": 0.1054,
+    "atr": 0.0101,
+    "marketcap_pnt": 0.2031,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "pnls": [
+    {
+      "name": "OMG",
+      "pnl": 0.0955,
+      "pnl_value": 0.0031,
+      "weight": 0.0161,
+      "rank": 44,
+      "atr": 0.0498,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": 0.0437,
+      "pnl_value": 0.0011,
+      "weight": 0.0129,
+      "rank": 38,
+      "atr": 0.0623,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HC",
+      "pnl": 0.0376,
+      "pnl_value": 0.001,
+      "weight": 0.0136,
+      "rank": 153,
+      "atr": 0.0589,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0576,
+      "pnl_value": -0.0016,
+      "weight": 0.0135,
+      "rank": 7,
+      "atr": 0.0592,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.0762,
+      "pnl_value": -0.0021,
+      "weight": 0.0137,
+      "rank": 53,
+      "atr": 0.0584,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0826,
+      "pnl_value": -0.0024,
+      "weight": 0.0145,
+      "rank": 22,
+      "atr": 0.0555,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LEND",
+      "pnl": -0.1615,
+      "pnl_value": -0.0033,
+      "weight": 0.0103,
+      "rank": 29,
+      "atr": 0.078,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.2059,
+      "pnl_value": -0.0042,
+      "weight": 0.0103,
+      "rank": 188,
+      "atr": 0.078,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WAVES",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FET",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OMG",
+      "rank": 44,
+      "atr": 0.0498,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 22,
+      "atr": 0.0555,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 53,
+      "atr": 0.0584,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HC",
+      "rank": 153,
+      "atr": 0.0589,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0592,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 38,
+      "atr": 0.0623,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LEND",
+      "rank": 29,
+      "atr": 0.078,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 188,
+      "atr": 0.078,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0042,
+    "cum_pnl": 0.989,
+    "leverage": 0.1049,
+    "atr": 0.0064,
+    "marketcap_pnt": 0.0192,
+    "green_marketcap_pnt": 0
+  }
+}

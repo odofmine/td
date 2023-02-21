@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "WOO",
+      "pnl": -0.0434,
+      "pnl_value": -0.0023,
+      "weight": 0.0104,
+      "rank": 121,
+      "atr": 0.1431,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.0571,
+      "pnl_value": -0.0028,
+      "weight": 0.0097,
+      "rank": 106,
+      "atr": 0.1543,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WOO",
+      "rank": 121,
+      "atr": 0.1431,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 106,
+      "atr": 0.1543,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 4.0644,
+    "leverage": 0.0201,
+    "atr": 0.003,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

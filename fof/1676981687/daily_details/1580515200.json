@@ -1,0 +1,425 @@
+{
+  "pnls": [
+    {
+      "name": "BEAM",
+      "pnl": 0.1128,
+      "pnl_value": 0.0031,
+      "weight": 0.0255,
+      "rank": 138,
+      "atr": 0.0727,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.0563,
+      "pnl_value": 0.0022,
+      "weight": 0.0356,
+      "rank": 69,
+      "atr": 0.0521,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XTZ",
+      "pnl": 0.0541,
+      "pnl_value": 0.0017,
+      "weight": 0.0288,
+      "rank": 15,
+      "atr": 0.0645,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0397,
+      "pnl_value": 0.0014,
+      "weight": 0.0333,
+      "rank": 7,
+      "atr": 0.0558,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": 0.032,
+      "pnl_value": 0.0012,
+      "weight": 0.033,
+      "rank": 41,
+      "atr": 0.0562,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NANO",
+      "pnl": 0.0306,
+      "pnl_value": 0.001,
+      "weight": 0.0311,
+      "rank": 68,
+      "atr": 0.0596,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TRX",
+      "pnl": 0.022,
+      "pnl_value": 0.0008,
+      "weight": 0.0328,
+      "rank": 12,
+      "atr": 0.0566,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WIN",
+      "pnl": 0.0219,
+      "pnl_value": 0.0007,
+      "weight": 0.0279,
+      "rank": 193,
+      "atr": 0.0665,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0218,
+      "pnl_value": 0.0005,
+      "weight": 0.0203,
+      "rank": 119,
+      "atr": 0.0914,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0205,
+      "pnl_value": 0.0009,
+      "weight": 0.039,
+      "rank": 2,
+      "atr": 0.0476,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0168,
+      "pnl_value": 0.0005,
+      "weight": 0.0266,
+      "rank": 14,
+      "atr": 0.0698,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0151,
+      "pnl_value": 0.0006,
+      "weight": 0.0348,
+      "rank": 13,
+      "atr": 0.0533,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": 0.0141,
+      "pnl_value": 0.0005,
+      "weight": 0.0297,
+      "rank": 4,
+      "atr": 0.0625,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RVN",
+      "pnl": 0.0105,
+      "pnl_value": 0.0003,
+      "weight": 0.03,
+      "rank": 49,
+      "atr": 0.0618,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": 0.0101,
+      "pnl_value": 0.0004,
+      "weight": 0.0324,
+      "rank": 108,
+      "atr": 0.0572,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0083,
+      "pnl_value": 0.0003,
+      "weight": 0.0363,
+      "rank": 3,
+      "atr": 0.0511,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.004,
+      "pnl_value": 0.0001,
+      "weight": 0.0322,
+      "rank": 17,
+      "atr": 0.0576,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0035,
+      "pnl_value": 0.0002,
+      "weight": 0.0507,
+      "rank": 1,
+      "atr": 0.0366,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.002,
+      "pnl_value": 0.0001,
+      "weight": 0.0322,
+      "rank": 8,
+      "atr": 0.0577,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": 0.0018,
+      "pnl_value": 0.0001,
+      "weight": 0.0296,
+      "rank": 192,
+      "atr": 0.0626,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0006,
+      "pnl_value": 0.0,
+      "weight": 0.0384,
+      "rank": 9,
+      "atr": 0.0483,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0075,
+      "pnl_value": -0.0002,
+      "weight": 0.0282,
+      "rank": 27,
+      "atr": 0.0657,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONT",
+      "pnl": -0.0105,
+      "pnl_value": -0.0004,
+      "weight": 0.0321,
+      "rank": 30,
+      "atr": 0.0579,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0366,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0476,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 9,
+      "atr": 0.0483,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0511,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 69,
+      "atr": 0.0521,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 13,
+      "atr": 0.0533,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0558,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 41,
+      "atr": 0.0562,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRX",
+      "rank": 12,
+      "atr": 0.0566,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 108,
+      "atr": 0.0572,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 17,
+      "atr": 0.0576,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 8,
+      "atr": 0.0577,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 30,
+      "atr": 0.0579,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 68,
+      "atr": 0.0596,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 49,
+      "atr": 0.0618,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.0625,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 192,
+      "atr": 0.0626,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 15,
+      "atr": 0.0645,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 27,
+      "atr": 0.0657,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WIN",
+      "rank": 193,
+      "atr": 0.0665,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 14,
+      "atr": 0.0698,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BEAM",
+      "rank": 138,
+      "atr": 0.0727,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 119,
+      "atr": 0.0914,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0146,
+    "cum_pnl": 0.111,
+    "leverage": 0.7405,
+    "atr": 0.0427,
+    "marketcap_pnt": 0.8701,
+    "green_marketcap_pnt": 0
+  }
+}

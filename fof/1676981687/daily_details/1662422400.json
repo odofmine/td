@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "BAL",
+      "pnl": -0.0827,
+      "pnl_value": -0.0037,
+      "weight": 0.0096,
+      "rank": 106,
+      "atr": 0.0885,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FLUX",
+      "pnl": -0.145,
+      "pnl_value": -0.0071,
+      "weight": 0.0105,
+      "rank": 105,
+      "atr": 0.0806,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLUX",
+      "rank": 105,
+      "atr": 0.0806,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 106,
+      "atr": 0.0885,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0023,
+    "cum_pnl": 3.6703,
+    "leverage": 0.0201,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

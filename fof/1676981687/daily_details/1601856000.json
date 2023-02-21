@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": -0.0065,
+      "pnl_value": -0.0001,
+      "weight": 0.009,
+      "rank": 36,
+      "atr": 0.088,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0121,
+      "pnl_value": -0.0003,
+      "weight": 0.0111,
+      "rank": 5,
+      "atr": 0.0712,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 5,
+      "atr": 0.0712,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 36,
+      "atr": 0.088,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 0.9159,
+    "leverage": 0.0201,
+    "atr": 0.0016,
+    "marketcap_pnt": 0.014,
+    "green_marketcap_pnt": 0
+  }
+}

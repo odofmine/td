@@ -1,0 +1,356 @@
+{
+  "pnls": [
+    {
+      "name": "MAGIC",
+      "pnl": 0.3252,
+      "pnl_value": 0.0124,
+      "weight": 0.008,
+      "rank": 130,
+      "atr": 0.1174,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ASTR",
+      "pnl": 0.0978,
+      "pnl_value": 0.0068,
+      "weight": 0.0147,
+      "rank": 139,
+      "atr": 0.064,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SFP",
+      "pnl": 0.0919,
+      "pnl_value": 0.0053,
+      "weight": 0.0121,
+      "rank": 165,
+      "atr": 0.0773,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DYDX",
+      "pnl": 0.0468,
+      "pnl_value": 0.0027,
+      "weight": 0.0122,
+      "rank": 121,
+      "atr": 0.077,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": 0.0426,
+      "pnl_value": 0.0025,
+      "weight": 0.0122,
+      "rank": 143,
+      "atr": 0.0769,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "APE",
+      "pnl": 0.0317,
+      "pnl_value": 0.0022,
+      "weight": 0.0143,
+      "rank": 31,
+      "atr": 0.0655,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OSMO",
+      "pnl": 0.0313,
+      "pnl_value": 0.0009,
+      "weight": 0.006,
+      "rank": 79,
+      "atr": 0.1549,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": 0.0116,
+      "pnl_value": 0.0007,
+      "weight": 0.0127,
+      "rank": 127,
+      "atr": 0.0738,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.0095,
+      "pnl_value": 0.0007,
+      "weight": 0.0144,
+      "rank": 146,
+      "atr": 0.0652,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LRC",
+      "pnl": 0.0006,
+      "pnl_value": 0.0,
+      "weight": 0.0137,
+      "rank": 93,
+      "atr": 0.0686,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GTC",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0128,
+      "rank": 195,
+      "atr": 0.0734,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0093,
+      "pnl_value": -0.0007,
+      "weight": 0.0148,
+      "rank": 169,
+      "atr": 0.0632,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RNDR",
+      "pnl": -0.0193,
+      "pnl_value": -0.0011,
+      "weight": 0.0125,
+      "rank": 155,
+      "atr": 0.075,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "APT",
+      "pnl": -0.0219,
+      "pnl_value": -0.0012,
+      "weight": 0.0112,
+      "rank": 29,
+      "atr": 0.0836,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AUDIO",
+      "pnl": -0.0409,
+      "pnl_value": -0.0028,
+      "weight": 0.0145,
+      "rank": 150,
+      "atr": 0.0646,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "T",
+      "pnl": -0.0933,
+      "pnl_value": -0.0058,
+      "weight": 0.013,
+      "rank": 142,
+      "atr": 0.0719,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CAKE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "1INCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ILV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GMX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LDO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "INJ",
+      "rank": 169,
+      "atr": 0.0632,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ASTR",
+      "rank": 139,
+      "atr": 0.064,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AUDIO",
+      "rank": 150,
+      "atr": 0.0646,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 146,
+      "atr": 0.0652,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "APE",
+      "rank": 31,
+      "atr": 0.0655,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 93,
+      "atr": 0.0686,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "T",
+      "rank": 142,
+      "atr": 0.0719,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GTC",
+      "rank": 195,
+      "atr": 0.0734,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 127,
+      "atr": 0.0738,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 155,
+      "atr": 0.075,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 143,
+      "atr": 0.0769,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DYDX",
+      "rank": 121,
+      "atr": 0.077,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SFP",
+      "rank": 165,
+      "atr": 0.0773,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "APT",
+      "rank": 29,
+      "atr": 0.0836,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAGIC",
+      "rank": 130,
+      "atr": 0.1174,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OSMO",
+      "rank": 79,
+      "atr": 0.1549,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0048,
+    "cum_pnl": 3.7775,
+    "leverage": 0.1991,
+    "atr": 0.015,
+    "marketcap_pnt": 0.007,
+    "green_marketcap_pnt": 0
+  }
+}

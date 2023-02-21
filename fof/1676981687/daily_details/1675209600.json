@@ -1,0 +1,207 @@
+{
+  "pnls": [
+    {
+      "name": "INJ",
+      "pnl": 0.2272,
+      "pnl_value": 0.0137,
+      "weight": 0.0126,
+      "rank": 158,
+      "atr": 0.0615,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GMX",
+      "pnl": 0.1242,
+      "pnl_value": 0.0061,
+      "weight": 0.0102,
+      "rank": 78,
+      "atr": 0.0764,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RNDR",
+      "pnl": 0.0793,
+      "pnl_value": 0.0041,
+      "weight": 0.0108,
+      "rank": 112,
+      "atr": 0.0718,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SFP",
+      "pnl": 0.062,
+      "pnl_value": 0.0034,
+      "weight": 0.0113,
+      "rank": 168,
+      "atr": 0.0687,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FLUX",
+      "pnl": 0.0409,
+      "pnl_value": 0.0019,
+      "weight": 0.0097,
+      "rank": 131,
+      "atr": 0.0802,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GNO",
+      "pnl": 0.0378,
+      "pnl_value": 0.0026,
+      "weight": 0.0141,
+      "rank": 123,
+      "atr": 0.0553,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DYDX",
+      "pnl": 0.0205,
+      "pnl_value": 0.0011,
+      "weight": 0.0107,
+      "rank": 106,
+      "atr": 0.0727,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ASTR",
+      "pnl": 0.017,
+      "pnl_value": 0.0009,
+      "weight": 0.0116,
+      "rank": 140,
+      "atr": 0.0668,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0218,
+      "pnl_value": -0.0013,
+      "weight": 0.012,
+      "rank": 9,
+      "atr": 0.0647,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ONE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GALA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AVAX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GNO",
+      "rank": 123,
+      "atr": 0.0553,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 158,
+      "atr": 0.0615,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 9,
+      "atr": 0.0647,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ASTR",
+      "rank": 140,
+      "atr": 0.0668,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SFP",
+      "rank": 168,
+      "atr": 0.0687,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 112,
+      "atr": 0.0718,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DYDX",
+      "rank": 106,
+      "atr": 0.0727,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GMX",
+      "rank": 78,
+      "atr": 0.0764,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FLUX",
+      "rank": 131,
+      "atr": 0.0802,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0068,
+    "cum_pnl": 3.8337,
+    "leverage": 0.103,
+    "atr": 0.007,
+    "marketcap_pnt": 0.0134,
+    "green_marketcap_pnt": 0
+  }
+}

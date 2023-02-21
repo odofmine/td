@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "CHR",
+      "pnl": 0.0553,
+      "pnl_value": 0.0023,
+      "weight": 0.0085,
+      "rank": 139,
+      "atr": 0.1171,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": -0.049,
+      "pnl_value": -0.0024,
+      "weight": 0.01,
+      "rank": 67,
+      "atr": 0.0991,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0542,
+      "pnl_value": -0.0031,
+      "weight": 0.0119,
+      "rank": 97,
+      "atr": 0.0838,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DUSK",
+      "pnl": -0.0856,
+      "pnl_value": -0.0037,
+      "weight": 0.0088,
+      "rank": 150,
+      "atr": 0.113,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0966,
+      "pnl_value": -0.005,
+      "weight": 0.0106,
+      "rank": 42,
+      "atr": 0.0942,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.1216,
+      "pnl_value": -0.0069,
+      "weight": 0.0117,
+      "rank": 16,
+      "atr": 0.0852,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KP3R",
+      "pnl": -0.1447,
+      "pnl_value": -0.0063,
+      "weight": 0.009,
+      "rank": 156,
+      "atr": 0.1108,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KAVA",
+      "rank": 97,
+      "atr": 0.0838,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 16,
+      "atr": 0.0852,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 42,
+      "atr": 0.0942,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 67,
+      "atr": 0.0991,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KP3R",
+      "rank": 156,
+      "atr": 0.1108,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DUSK",
+      "rank": 150,
+      "atr": 0.113,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHR",
+      "rank": 139,
+      "atr": 0.1171,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0052,
+    "cum_pnl": 3.8415,
+    "leverage": 0.0705,
+    "atr": 0.007,
+    "marketcap_pnt": 0.0099,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "pnls": [
+    {
+      "name": "DGB",
+      "pnl": 0.1813,
+      "pnl_value": 0.0098,
+      "weight": 0.0101,
+      "rank": 67,
+      "atr": 0.1046,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MANA",
+      "pnl": -0.0491,
+      "pnl_value": -0.0026,
+      "weight": 0.0098,
+      "rank": 60,
+      "atr": 0.1078,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0581,
+      "pnl_value": -0.0029,
+      "weight": 0.0092,
+      "rank": 56,
+      "atr": 0.1149,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0719,
+      "pnl_value": -0.0063,
+      "weight": 0.0162,
+      "rank": 26,
+      "atr": 0.0654,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VTHO",
+      "pnl": -0.0855,
+      "pnl_value": -0.0034,
+      "weight": 0.0074,
+      "rank": 109,
+      "atr": 0.1418,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VET",
+      "pnl": -0.0997,
+      "pnl_value": -0.007,
+      "weight": 0.013,
+      "rank": 13,
+      "atr": 0.0815,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.1046,
+      "pnl_value": -0.0076,
+      "weight": 0.0136,
+      "rank": 21,
+      "atr": 0.0776,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ONT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 26,
+      "atr": 0.0654,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 21,
+      "atr": 0.0776,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 13,
+      "atr": 0.0815,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 67,
+      "atr": 0.1046,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 60,
+      "atr": 0.1078,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 56,
+      "atr": 0.1149,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTHO",
+      "rank": 109,
+      "atr": 0.1418,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0037,
+    "cum_pnl": 4.3519,
+    "leverage": 0.0793,
+    "atr": 0.0074,
+    "marketcap_pnt": 0.0186,
+    "green_marketcap_pnt": 0
+  }
+}

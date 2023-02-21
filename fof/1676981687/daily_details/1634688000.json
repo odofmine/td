@@ -1,0 +1,207 @@
+{
+  "pnls": [
+    {
+      "name": "CTSI",
+      "pnl": 0.171,
+      "pnl_value": 0.0085,
+      "weight": 0.0101,
+      "rank": 187,
+      "atr": 0.1066,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "1INCH",
+      "pnl": 0.118,
+      "pnl_value": 0.0073,
+      "weight": 0.0126,
+      "rank": 122,
+      "atr": 0.0858,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": 0.0383,
+      "pnl_value": 0.0024,
+      "weight": 0.0129,
+      "rank": 10,
+      "atr": 0.0837,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": 0.0283,
+      "pnl_value": 0.0016,
+      "weight": 0.0118,
+      "rank": 117,
+      "atr": 0.0914,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WIN",
+      "pnl": 0.0273,
+      "pnl_value": 0.0014,
+      "weight": 0.0107,
+      "rank": 134,
+      "atr": 0.1013,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NKN",
+      "pnl": 0.0171,
+      "pnl_value": 0.0007,
+      "weight": 0.0089,
+      "rank": 165,
+      "atr": 0.1217,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": 0.0133,
+      "pnl_value": 0.0008,
+      "weight": 0.0116,
+      "rank": 156,
+      "atr": 0.0933,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POLS",
+      "pnl": 0.0129,
+      "pnl_value": 0.0006,
+      "weight": 0.0101,
+      "rank": 198,
+      "atr": 0.1069,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": -0.0058,
+      "pnl_value": -0.0003,
+      "weight": 0.0119,
+      "rank": 53,
+      "atr": 0.0909,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "RLC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "REQ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SKL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DOGE",
+      "rank": 10,
+      "atr": 0.0837,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "1INCH",
+      "rank": 122,
+      "atr": 0.0858,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 53,
+      "atr": 0.0909,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 117,
+      "atr": 0.0914,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 156,
+      "atr": 0.0933,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WIN",
+      "rank": 134,
+      "atr": 0.1013,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CTSI",
+      "rank": 187,
+      "atr": 0.1066,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POLS",
+      "rank": 198,
+      "atr": 0.1069,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NKN",
+      "rank": 165,
+      "atr": 0.1217,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0047,
+    "cum_pnl": 3.936,
+    "leverage": 0.1006,
+    "atr": 0.0097,
+    "marketcap_pnt": 0.0151,
+    "green_marketcap_pnt": 0
+  }
+}

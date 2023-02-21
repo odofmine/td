@@ -1,0 +1,321 @@
+{
+  "pnls": [
+    {
+      "name": "DOGE",
+      "pnl": 0.1323,
+      "pnl_value": 0.0094,
+      "weight": 0.0151,
+      "rank": 10,
+      "atr": 0.0694,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": 0.0661,
+      "pnl_value": 0.005,
+      "weight": 0.0159,
+      "rank": 50,
+      "atr": 0.066,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": 0.0503,
+      "pnl_value": 0.0031,
+      "weight": 0.0129,
+      "rank": 94,
+      "atr": 0.0808,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GALA",
+      "pnl": 0.0353,
+      "pnl_value": 0.0018,
+      "weight": 0.0111,
+      "rank": 85,
+      "atr": 0.0941,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FLUX",
+      "pnl": 0.0074,
+      "pnl_value": 0.0004,
+      "weight": 0.0115,
+      "rank": 129,
+      "atr": 0.0908,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": 0.002,
+      "pnl_value": 0.0001,
+      "weight": 0.0109,
+      "rank": 197,
+      "atr": 0.0962,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAL",
+      "pnl": 0.0015,
+      "pnl_value": 0.0001,
+      "weight": 0.0097,
+      "rank": 122,
+      "atr": 0.1081,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0118,
+      "pnl_value": -0.0009,
+      "weight": 0.0164,
+      "rank": 2,
+      "atr": 0.0637,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0283,
+      "pnl_value": -0.0013,
+      "weight": 0.0099,
+      "rank": 79,
+      "atr": 0.105,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": -0.0363,
+      "pnl_value": -0.0021,
+      "weight": 0.0123,
+      "rank": 103,
+      "atr": 0.0853,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.0628,
+      "pnl_value": -0.0038,
+      "weight": 0.013,
+      "rank": 159,
+      "atr": 0.0803,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "POLY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AAVE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XEM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GNO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "INJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SLP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ONE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0637,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 50,
+      "atr": 0.066,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 10,
+      "atr": 0.0694,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 159,
+      "atr": 0.0803,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 94,
+      "atr": 0.0808,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 103,
+      "atr": 0.0853,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FLUX",
+      "rank": 129,
+      "atr": 0.0908,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GALA",
+      "rank": 85,
+      "atr": 0.0941,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 197,
+      "atr": 0.0962,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 79,
+      "atr": 0.105,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 122,
+      "atr": 0.1081,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0025,
+    "cum_pnl": 3.721,
+    "leverage": 0.1387,
+    "atr": 0.0115,
+    "marketcap_pnt": 0.218,
+    "green_marketcap_pnt": 0
+  }
+}

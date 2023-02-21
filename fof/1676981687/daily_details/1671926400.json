@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "RLC",
+      "pnl": 0.0369,
+      "pnl_value": 0.0017,
+      "weight": 0.0108,
+      "rank": 170,
+      "atr": 0.0853,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": -0.0079,
+      "pnl_value": -0.0003,
+      "weight": 0.0093,
+      "rank": 178,
+      "atr": 0.0983,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "RLC",
+      "rank": 170,
+      "atr": 0.0853,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 178,
+      "atr": 0.0983,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 3.2921,
+    "leverage": 0.0201,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0002,
+    "green_marketcap_pnt": 0
+  }
+}

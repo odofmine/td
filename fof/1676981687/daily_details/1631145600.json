@@ -1,0 +1,177 @@
+{
+  "pnls": [
+    {
+      "name": "ONE",
+      "pnl": 0.4143,
+      "pnl_value": 0.0223,
+      "weight": 0.0107,
+      "rank": 85,
+      "atr": 0.0963,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ALGO",
+      "pnl": 0.202,
+      "pnl_value": 0.0153,
+      "weight": 0.015,
+      "rank": 39,
+      "atr": 0.0691,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MDX",
+      "pnl": 0.1077,
+      "pnl_value": 0.0056,
+      "weight": 0.0103,
+      "rank": 93,
+      "atr": 0.1004,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": 0.038,
+      "pnl_value": 0.0022,
+      "weight": 0.0117,
+      "rank": 52,
+      "atr": 0.0882,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ROSE",
+      "pnl": 0.0164,
+      "pnl_value": 0.0009,
+      "weight": 0.011,
+      "rank": 187,
+      "atr": 0.0935,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOST",
+      "pnl": 0.014,
+      "pnl_value": 0.001,
+      "weight": 0.0145,
+      "rank": 103,
+      "atr": 0.0714,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FET",
+      "pnl": 0.0115,
+      "pnl_value": 0.0006,
+      "weight": 0.0109,
+      "rank": 137,
+      "atr": 0.0946,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": 0.0087,
+      "pnl_value": 0.0005,
+      "weight": 0.0115,
+      "rank": 43,
+      "atr": 0.0899,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.0618,
+      "pnl_value": -0.0047,
+      "weight": 0.0151,
+      "rank": 55,
+      "atr": 0.0686,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NU",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEAR",
+      "rank": 55,
+      "atr": 0.0686,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 39,
+      "atr": 0.0691,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 103,
+      "atr": 0.0714,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 52,
+      "atr": 0.0882,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 43,
+      "atr": 0.0899,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 187,
+      "atr": 0.0935,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FET",
+      "rank": 137,
+      "atr": 0.0946,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 85,
+      "atr": 0.0963,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MDX",
+      "rank": 93,
+      "atr": 0.1004,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0087,
+    "cum_pnl": 4.0818,
+    "leverage": 0.1107,
+    "atr": 0.0093,
+    "marketcap_pnt": 0.008,
+    "green_marketcap_pnt": 0
+  }
+}

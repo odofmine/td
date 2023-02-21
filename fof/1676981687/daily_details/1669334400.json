@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "RLC",
+      "pnl": -0.0482,
+      "pnl_value": -0.0012,
+      "weight": 0.0057,
+      "rank": 180,
+      "atr": 0.1203,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNX",
+      "pnl": -0.0893,
+      "pnl_value": -0.0056,
+      "weight": 0.0144,
+      "rank": 72,
+      "atr": 0.0481,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNX",
+      "rank": 72,
+      "atr": 0.0481,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 180,
+      "atr": 0.1203,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 3.3283,
+    "leverage": 0.0201,
+    "atr": 0.0014,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

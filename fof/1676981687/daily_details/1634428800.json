@@ -1,0 +1,184 @@
+{
+  "pnls": [
+    {
+      "name": "1INCH",
+      "pnl": 0.0847,
+      "pnl_value": 0.004,
+      "weight": 0.0095,
+      "rank": 126,
+      "atr": 0.0979,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": 0.0448,
+      "pnl_value": 0.0021,
+      "weight": 0.0094,
+      "rank": 181,
+      "atr": 0.0994,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PERP",
+      "pnl": 0.0385,
+      "pnl_value": 0.0014,
+      "weight": 0.0072,
+      "rank": 103,
+      "atr": 0.1291,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0112,
+      "pnl_value": 0.0008,
+      "weight": 0.0145,
+      "rank": 5,
+      "atr": 0.0644,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": 0.0089,
+      "pnl_value": 0.0005,
+      "weight": 0.0112,
+      "rank": 8,
+      "atr": 0.0831,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0044,
+      "pnl_value": 0.0004,
+      "weight": 0.016,
+      "rank": 2,
+      "atr": 0.0582,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WRX",
+      "pnl": -0.02,
+      "pnl_value": -0.001,
+      "weight": 0.0103,
+      "rank": 151,
+      "atr": 0.0906,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0338,
+      "pnl_value": -0.0021,
+      "weight": 0.0129,
+      "rank": 22,
+      "atr": 0.0723,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0421,
+      "pnl_value": -0.0023,
+      "weight": 0.0111,
+      "rank": 12,
+      "atr": 0.0843,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NKN",
+      "pnl": -0.0468,
+      "pnl_value": -0.002,
+      "weight": 0.0085,
+      "rank": 193,
+      "atr": 0.1094,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0582,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 5,
+      "atr": 0.0644,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 22,
+      "atr": 0.0723,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.0831,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 12,
+      "atr": 0.0843,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WRX",
+      "rank": 151,
+      "atr": 0.0906,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "1INCH",
+      "rank": 126,
+      "atr": 0.0979,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 181,
+      "atr": 0.0994,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NKN",
+      "rank": 193,
+      "atr": 0.1094,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PERP",
+      "rank": 103,
+      "atr": 0.1291,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 3.9251,
+    "leverage": 0.1106,
+    "atr": 0.0093,
+    "marketcap_pnt": 0.2361,
+    "green_marketcap_pnt": 0
+  }
+}

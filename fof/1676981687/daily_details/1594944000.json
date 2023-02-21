@@ -1,0 +1,252 @@
+{
+  "pnls": [
+    {
+      "name": "RLC",
+      "pnl": 0.4633,
+      "pnl_value": 0.0113,
+      "weight": 0.0149,
+      "rank": 102,
+      "atr": 0.0763,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": 0.1146,
+      "pnl_value": 0.0027,
+      "weight": 0.0142,
+      "rank": 122,
+      "atr": 0.0803,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAND",
+      "pnl": 0.0658,
+      "pnl_value": 0.0016,
+      "weight": 0.0144,
+      "rank": 163,
+      "atr": 0.0791,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.049,
+      "pnl_value": 0.0012,
+      "weight": 0.0147,
+      "rank": 70,
+      "atr": 0.0773,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LEND",
+      "pnl": 0.0392,
+      "pnl_value": 0.001,
+      "weight": 0.0163,
+      "rank": 41,
+      "atr": 0.0697,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": 0.0378,
+      "pnl_value": 0.0012,
+      "weight": 0.0192,
+      "rank": 57,
+      "atr": 0.0593,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XTZ",
+      "pnl": 0.023,
+      "pnl_value": 0.0007,
+      "weight": 0.0175,
+      "rank": 13,
+      "atr": 0.0649,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONT",
+      "pnl": 0.0154,
+      "pnl_value": 0.0004,
+      "weight": 0.0171,
+      "rank": 30,
+      "atr": 0.0664,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.0068,
+      "pnl_value": 0.0002,
+      "weight": 0.0202,
+      "rank": 27,
+      "atr": 0.0564,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0114,
+      "pnl_value": -0.0004,
+      "weight": 0.0203,
+      "rank": 11,
+      "atr": 0.056,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FET",
+      "pnl": -0.0213,
+      "pnl_value": -0.0006,
+      "weight": 0.0178,
+      "rank": 188,
+      "atr": 0.064,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.0243,
+      "pnl_value": -0.0008,
+      "weight": 0.0191,
+      "rank": 50,
+      "atr": 0.0595,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DATA",
+      "pnl": -0.0441,
+      "pnl_value": -0.001,
+      "weight": 0.0143,
+      "rank": 175,
+      "atr": 0.0795,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ERD",
+      "pnl": -0.1028,
+      "pnl_value": -0.0028,
+      "weight": 0.0165,
+      "rank": 62,
+      "atr": 0.0688,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LINK",
+      "rank": 11,
+      "atr": 0.056,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 27,
+      "atr": 0.0564,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 57,
+      "atr": 0.0593,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 50,
+      "atr": 0.0595,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FET",
+      "rank": 188,
+      "atr": 0.064,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 13,
+      "atr": 0.0649,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 30,
+      "atr": 0.0664,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ERD",
+      "rank": 62,
+      "atr": 0.0688,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LEND",
+      "rank": 41,
+      "atr": 0.0697,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 102,
+      "atr": 0.0763,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 70,
+      "atr": 0.0773,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAND",
+      "rank": 163,
+      "atr": 0.0791,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DATA",
+      "rank": 175,
+      "atr": 0.0795,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 122,
+      "atr": 0.0803,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.009,
+    "cum_pnl": 0.6547,
+    "leverage": 0.2365,
+    "atr": 0.0159,
+    "marketcap_pnt": 0.0252,
+    "green_marketcap_pnt": 0
+  }
+}

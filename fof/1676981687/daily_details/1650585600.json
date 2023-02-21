@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "GMT",
+      "pnl": 0.0173,
+      "pnl_value": 0.0007,
+      "weight": 0.0077,
+      "rank": 63,
+      "atr": 0.1098,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0366,
+      "pnl_value": -0.0027,
+      "weight": 0.0142,
+      "rank": 32,
+      "atr": 0.0599,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FXS",
+      "pnl": -0.0772,
+      "pnl_value": -0.0033,
+      "weight": 0.0083,
+      "rank": 125,
+      "atr": 0.1027,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0889,
+      "pnl_value": -0.0045,
+      "weight": 0.01,
+      "rank": 114,
+      "atr": 0.0853,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SNX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 32,
+      "atr": 0.0599,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 114,
+      "atr": 0.0853,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FXS",
+      "rank": 125,
+      "atr": 0.1027,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GMT",
+      "rank": 63,
+      "atr": 0.1098,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0019,
+    "cum_pnl": 4.1014,
+    "leverage": 0.0402,
+    "atr": 0.0034,
+    "marketcap_pnt": 0.0038,
+    "green_marketcap_pnt": 0
+  }
+}

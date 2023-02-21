@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "CAKE",
+      "pnl": 0.0494,
+      "pnl_value": 0.0023,
+      "weight": 0.0086,
+      "rank": 41,
+      "atr": 0.1225,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0118,
+      "pnl_value": -0.0007,
+      "weight": 0.011,
+      "rank": 44,
+      "atr": 0.0956,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0863,
+      "pnl_value": -0.0051,
+      "weight": 0.0111,
+      "rank": 52,
+      "atr": 0.0948,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "COMP",
+      "rank": 52,
+      "atr": 0.0948,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 44,
+      "atr": 0.0956,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 41,
+      "atr": 0.1225,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 4.3355,
+    "leverage": 0.0307,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0045,
+    "green_marketcap_pnt": 0
+  }
+}

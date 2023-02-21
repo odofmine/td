@@ -1,0 +1,247 @@
+{
+  "pnls": [
+    {
+      "name": "BAT",
+      "pnl": 0.3191,
+      "pnl_value": 0.0152,
+      "weight": 0.0097,
+      "rank": 84,
+      "atr": 0.0983,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HIVE",
+      "pnl": 0.0814,
+      "pnl_value": 0.0039,
+      "weight": 0.0099,
+      "rank": 161,
+      "atr": 0.0966,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": 0.0678,
+      "pnl_value": 0.0034,
+      "weight": 0.0102,
+      "rank": 175,
+      "atr": 0.0939,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0135,
+      "rank": 102,
+      "atr": 0.0709,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": -0.0183,
+      "pnl_value": -0.0008,
+      "weight": 0.0087,
+      "rank": 82,
+      "atr": 0.1097,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.0228,
+      "pnl_value": -0.0012,
+      "weight": 0.011,
+      "rank": 107,
+      "atr": 0.0866,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": -0.0341,
+      "pnl_value": -0.0018,
+      "weight": 0.0108,
+      "rank": 143,
+      "atr": 0.0885,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0387,
+      "pnl_value": -0.0017,
+      "weight": 0.0091,
+      "rank": 64,
+      "atr": 0.1044,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ALICE",
+      "pnl": -0.0447,
+      "pnl_value": -0.0017,
+      "weight": 0.0076,
+      "rank": 151,
+      "atr": 0.1253,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "EGLD",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "INJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ROSE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LRC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "STMX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZEN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SC",
+      "rank": 102,
+      "atr": 0.0709,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 107,
+      "atr": 0.0866,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 143,
+      "atr": 0.0885,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 175,
+      "atr": 0.0939,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HIVE",
+      "rank": 161,
+      "atr": 0.0966,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 84,
+      "atr": 0.0983,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 64,
+      "atr": 0.1044,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 82,
+      "atr": 0.1097,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALICE",
+      "rank": 151,
+      "atr": 0.1253,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0031,
+    "cum_pnl": 3.9142,
+    "leverage": 0.0905,
+    "atr": 0.0086,
+    "marketcap_pnt": 0.0039,
+    "green_marketcap_pnt": 0
+  }
+}

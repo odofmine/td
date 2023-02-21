@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "ZEN",
+      "pnl": 0.1274,
+      "pnl_value": 0.0056,
+      "weight": 0.0094,
+      "rank": 169,
+      "atr": 0.0817,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SKL",
+      "pnl": 0.1214,
+      "pnl_value": 0.005,
+      "weight": 0.0088,
+      "rank": 144,
+      "atr": 0.0875,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNX",
+      "pnl": 0.115,
+      "pnl_value": 0.0056,
+      "weight": 0.0105,
+      "rank": 88,
+      "atr": 0.073,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": 0.0445,
+      "pnl_value": 0.0024,
+      "weight": 0.0115,
+      "rank": 28,
+      "atr": 0.0672,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ASTR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HBAR",
+      "rank": 28,
+      "atr": 0.0672,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNX",
+      "rank": 88,
+      "atr": 0.073,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 169,
+      "atr": 0.0817,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SKL",
+      "rank": 144,
+      "atr": 0.0875,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.004,
+    "cum_pnl": 3.6834,
+    "leverage": 0.0402,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0031,
+    "green_marketcap_pnt": 0
+  }
+}

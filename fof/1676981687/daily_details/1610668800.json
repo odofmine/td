@@ -1,0 +1,214 @@
+{
+  "pnls": [
+    {
+      "name": "AAVE",
+      "pnl": 0.1267,
+      "pnl_value": 0.003,
+      "weight": 0.0115,
+      "rank": 26,
+      "atr": 0.0921,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": 0.0885,
+      "pnl_value": 0.0018,
+      "weight": 0.0099,
+      "rank": 68,
+      "atr": 0.1069,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XZC",
+      "pnl": 0.0042,
+      "pnl_value": 0.0001,
+      "weight": 0.009,
+      "rank": 185,
+      "atr": 0.1165,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RUNE",
+      "pnl": -0.0266,
+      "pnl_value": -0.0006,
+      "weight": 0.0108,
+      "rank": 83,
+      "atr": 0.0977,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0482,
+      "pnl_value": -0.0012,
+      "weight": 0.0118,
+      "rank": 154,
+      "atr": 0.0894,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.054,
+      "pnl_value": -0.0012,
+      "weight": 0.011,
+      "rank": 44,
+      "atr": 0.0955,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": -0.0558,
+      "pnl_value": -0.0014,
+      "weight": 0.0121,
+      "rank": 48,
+      "atr": 0.0873,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0609,
+      "pnl_value": -0.0013,
+      "weight": 0.0101,
+      "rank": 82,
+      "atr": 0.1047,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0648,
+      "pnl_value": -0.0016,
+      "weight": 0.0116,
+      "rank": 28,
+      "atr": 0.0907,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0913,
+      "pnl_value": -0.0029,
+      "weight": 0.0154,
+      "rank": 8,
+      "atr": 0.0687,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SNX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.0687,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 48,
+      "atr": 0.0873,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 154,
+      "atr": 0.0894,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 28,
+      "atr": 0.0907,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 26,
+      "atr": 0.0921,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 44,
+      "atr": 0.0955,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 83,
+      "atr": 0.0977,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 82,
+      "atr": 0.1047,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 68,
+      "atr": 0.1069,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XZC",
+      "rank": 185,
+      "atr": 0.1165,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0025,
+    "cum_pnl": 1.0605,
+    "leverage": 0.1132,
+    "atr": 0.0106,
+    "marketcap_pnt": 0.0132,
+    "green_marketcap_pnt": 0
+  }
+}

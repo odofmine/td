@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "SKL",
+      "pnl": -0.0394,
+      "pnl_value": -0.0019,
+      "weight": 0.0102,
+      "rank": 130,
+      "atr": 0.1164,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SKL",
+      "rank": 130,
+      "atr": 0.1164,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 3.7265,
+    "leverage": 0.0102,
+    "atr": 0.0012,
+    "marketcap_pnt": 0.0003,
+    "green_marketcap_pnt": 0
+  }
+}

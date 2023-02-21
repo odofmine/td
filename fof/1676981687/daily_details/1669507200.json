@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "VGX",
+      "pnl": 0.0023,
+      "pnl_value": 0.0001,
+      "weight": 0.0101,
+      "rank": 172,
+      "atr": 0.1727,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VGX",
+      "rank": 172,
+      "atr": 0.1727,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0,
+    "cum_pnl": 3.329,
+    "leverage": 0.0101,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0001,
+    "green_marketcap_pnt": 0
+  }
+}

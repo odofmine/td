@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "HIVE",
+      "pnl": 0.3174,
+      "pnl_value": 0.0152,
+      "weight": 0.0098,
+      "rank": 115,
+      "atr": 0.0975,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0507,
+      "pnl_value": 0.0028,
+      "weight": 0.0111,
+      "rank": 93,
+      "atr": 0.086,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POLS",
+      "pnl": 0.014,
+      "pnl_value": 0.0008,
+      "weight": 0.0112,
+      "rank": 189,
+      "atr": 0.0851,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.0094,
+      "pnl_value": -0.0004,
+      "weight": 0.0091,
+      "rank": 90,
+      "atr": 0.1054,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.0097,
+      "pnl_value": -0.0005,
+      "weight": 0.0095,
+      "rank": 173,
+      "atr": 0.1002,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0252,
+      "pnl_value": -0.0013,
+      "weight": 0.0104,
+      "rank": 67,
+      "atr": 0.0923,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": -0.0299,
+      "pnl_value": -0.0013,
+      "weight": 0.0092,
+      "rank": 140,
+      "atr": 0.104,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "POLS",
+      "rank": 189,
+      "atr": 0.0851,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 93,
+      "atr": 0.086,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 67,
+      "atr": 0.0923,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HIVE",
+      "rank": 115,
+      "atr": 0.0975,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 173,
+      "atr": 0.1002,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 140,
+      "atr": 0.104,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 90,
+      "atr": 0.1054,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0031,
+    "cum_pnl": 3.914,
+    "leverage": 0.0703,
+    "atr": 0.0067,
+    "marketcap_pnt": 0.0028,
+    "green_marketcap_pnt": 0
+  }
+}
