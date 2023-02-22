@@ -1,0 +1,61 @@
+{
+  "pnls": [
+    {
+      "name": "HBAR",
+      "pnl": -0.0091,
+      "pnl_value": -0.0168,
+      "weight": 0.0102,
+      "rank": 39,
+      "atr": 0.0568,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "REEF",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HBAR",
+      "rank": 39,
+      "atr": 0.0568,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 179.0054,
+    "leverage": 0.0102,
+    "atr": 0.0006,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "OKB",
+      "pnl": 0.0645,
+      "pnl_value": 38.7565,
+      "weight": 0.0101,
+      "rank": 28,
+      "atr": 0.0406,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OKB",
+      "rank": 28,
+      "atr": 0.0406,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 59548.0549,
+    "leverage": 0.0101,
+    "atr": 0.0004,
+    "marketcap_pnt": 0.0021,
+    "green_marketcap_pnt": 0
+  }
+}

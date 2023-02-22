@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "FTM",
+      "pnl": 0.0422,
+      "pnl_value": 0.0844,
+      "weight": 0.0119,
+      "rank": 63,
+      "atr": 0.0803,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PEOPLE",
+      "pnl": 0.0165,
+      "pnl_value": 0.0258,
+      "weight": 0.0093,
+      "rank": 156,
+      "atr": 0.1025,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.0046,
+      "pnl_value": -0.0078,
+      "weight": 0.01,
+      "rank": 182,
+      "atr": 0.0957,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OP",
+      "pnl": -0.0402,
+      "pnl_value": -0.0662,
+      "weight": 0.0098,
+      "rank": 111,
+      "atr": 0.0981,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MASK",
+      "pnl": -0.0421,
+      "pnl_value": -0.0538,
+      "weight": 0.0076,
+      "rank": 108,
+      "atr": 0.1257,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TWT",
+      "pnl": -0.043,
+      "pnl_value": -0.0845,
+      "weight": 0.0117,
+      "rank": 43,
+      "atr": 0.082,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTM",
+      "rank": 63,
+      "atr": 0.0803,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 43,
+      "atr": 0.082,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 182,
+      "atr": 0.0957,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OP",
+      "rank": 111,
+      "atr": 0.0981,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PEOPLE",
+      "rank": 156,
+      "atr": 0.1025,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MASK",
+      "rank": 108,
+      "atr": 0.1257,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0006,
+    "cum_pnl": 166.9653,
+    "leverage": 0.0603,
+    "atr": 0.0057,
+    "marketcap_pnt": 0.0028,
+    "green_marketcap_pnt": 0
+  }
+}
