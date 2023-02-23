@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "OKB",
+      "pnl": -0.0037,
+      "pnl_value": -2.8286,
+      "weight": 0.0127,
+      "rank": 29,
+      "atr": 0.0455,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0305,
+      "pnl_value": -13.4187,
+      "weight": 0.0074,
+      "rank": 165,
+      "atr": 0.0782,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OKB",
+      "rank": 29,
+      "atr": 0.0455,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 165,
+      "atr": 0.0782,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 59425.0525,
+    "leverage": 0.0201,
+    "atr": 0.0012,
+    "marketcap_pnt": 0.0019,
+    "green_marketcap_pnt": 0
+  }
+}
