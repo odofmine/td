@@ -1,0 +1,160 @@
+{
+  "pnls": [
+    {
+      "name": "ARDR",
+      "pnl": -0.0012,
+      "pnl_value": -0.0013,
+      "weight": 0.0108,
+      "rank": 72,
+      "atr": 0.0581,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": -0.005,
+      "pnl_value": -0.0049,
+      "weight": 0.0091,
+      "rank": 39,
+      "atr": 0.0685,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0145,
+      "pnl_value": -0.0116,
+      "weight": 0.0074,
+      "rank": 117,
+      "atr": 0.0848,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RVN",
+      "pnl": -0.033,
+      "pnl_value": -0.0384,
+      "weight": 0.0108,
+      "rank": 58,
+      "atr": 0.0581,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TRUE",
+      "pnl": -0.0357,
+      "pnl_value": -0.0276,
+      "weight": 0.0072,
+      "rank": 160,
+      "atr": 0.0865,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0542,
+      "pnl_value": -0.0741,
+      "weight": 0.0127,
+      "rank": 9,
+      "atr": 0.0493,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0649,
+      "pnl_value": -0.0803,
+      "weight": 0.0115,
+      "rank": 62,
+      "atr": 0.0547,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BIX",
+      "pnl": -0.1077,
+      "pnl_value": -0.1171,
+      "weight": 0.0101,
+      "rank": 161,
+      "atr": 0.0619,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LOOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 9,
+      "atr": 0.0493,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HT",
+      "rank": 62,
+      "atr": 0.0547,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 58,
+      "atr": 0.0581,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 72,
+      "atr": 0.0581,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BIX",
+      "rank": 161,
+      "atr": 0.0619,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 39,
+      "atr": 0.0685,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 117,
+      "atr": 0.0848,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRUE",
+      "rank": 160,
+      "atr": 0.0865,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0033,
+    "cum_pnl": 106.3013,
+    "leverage": 0.0796,
+    "atr": 0.005,
+    "marketcap_pnt": 0.016,
+    "green_marketcap_pnt": 0
+  }
+}
