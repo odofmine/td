@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "RUNE",
+      "pnl": 0.0279,
+      "pnl_value": 0.0494,
+      "weight": 0.0098,
+      "rank": 49,
+      "atr": 0.0934,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.016,
+      "pnl_value": 0.0292,
+      "weight": 0.0101,
+      "rank": 120,
+      "atr": 0.0906,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KNC",
+      "rank": 120,
+      "atr": 0.0906,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 49,
+      "atr": 0.0934,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 180.0195,
+    "leverage": 0.0199,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

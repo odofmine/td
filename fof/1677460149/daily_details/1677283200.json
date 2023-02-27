@@ -1,0 +1,272 @@
+{
+  "pnls": [
+    {
+      "name": "YFI",
+      "pnl": 0.0809,
+      "pnl_value": 543.6797,
+      "weight": 0.1101,
+      "rank": 142,
+      "atr": 0.0618,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ELF",
+      "pnl": 0.0704,
+      "pnl_value": 588.1765,
+      "weight": 0.1369,
+      "rank": 197,
+      "atr": 0.0497,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": 0.0458,
+      "pnl_value": 220.8363,
+      "weight": 0.0789,
+      "rank": 56,
+      "atr": 0.0862,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZRX",
+      "pnl": 0.0164,
+      "pnl_value": 102.0398,
+      "weight": 0.1017,
+      "rank": 159,
+      "atr": 0.0669,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "PLA",
+      "pnl": -0.0322,
+      "pnl_value": -172.9712,
+      "weight": 0.0881,
+      "rank": 195,
+      "atr": 0.0772,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.0331,
+      "pnl_value": -215.6173,
+      "weight": 0.1067,
+      "rank": 51,
+      "atr": 0.0638,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.055,
+      "pnl_value": -262.5937,
+      "weight": 0.0782,
+      "rank": 130,
+      "atr": 0.087,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HIVE",
+      "pnl": -0.0737,
+      "pnl_value": -463.8105,
+      "weight": 0.1031,
+      "rank": 160,
+      "atr": 0.066,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AMP",
+      "pnl": -0.1116,
+      "pnl_value": -625.5915,
+      "weight": 0.0918,
+      "rank": 163,
+      "atr": 0.0741,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "1INCH",
+      "pnl": -1.0,
+      "pnl_value": -6344.8607,
+      "weight": 0.1039,
+      "rank": 93,
+      "atr": 0.0655,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MIOTA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OMG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "VET",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ELF",
+      "rank": 197,
+      "atr": 0.0497,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 142,
+      "atr": 0.0618,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 51,
+      "atr": 0.0638,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "1INCH",
+      "rank": 93,
+      "atr": 0.0655,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HIVE",
+      "rank": 160,
+      "atr": 0.066,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 159,
+      "atr": 0.0669,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AMP",
+      "rank": 163,
+      "atr": 0.0741,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PLA",
+      "rank": 195,
+      "atr": 0.0772,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 56,
+      "atr": 0.0862,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 130,
+      "atr": 0.087,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SSV",
+      "rank": 124,
+      "atr": 0.0875,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OP",
+      "rank": 77,
+      "atr": 0.0899,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AUDIO",
+      "rank": 128,
+      "atr": 0.0906,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ACH",
+      "rank": 182,
+      "atr": 0.0951,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.1086,
+    "cum_pnl": 54435.2812,
+    "leverage": 0.9994,
+    "atr": 0.068,
+    "marketcap_pnt": 0.0036,
+    "green_marketcap_pnt": 0
+  }
+}
