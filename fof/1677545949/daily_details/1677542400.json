@@ -1,0 +1,132 @@
+{
+  "pnls": [
+    {
+      "name": "YFI",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.026,
+      "rank": 115,
+      "atr": 0.0616,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0186,
+      "rank": 76,
+      "atr": 0.0858,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BICO",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.018,
+      "rank": 153,
+      "atr": 0.0886,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LDO",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0172,
+      "rank": 29,
+      "atr": 0.0929,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SCRT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ELF",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KNC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "YFI",
+      "rank": 115,
+      "atr": 0.0616,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 76,
+      "atr": 0.0858,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BICO",
+      "rank": 153,
+      "atr": 0.0886,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LDO",
+      "rank": 29,
+      "atr": 0.0929,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0,
+    "cum_pnl": 0,
+    "leverage": 0.0798,
+    "atr": 0.0064,
+    "marketcap_pnt": 0.0037,
+    "green_marketcap_pnt": 0
+  }
+}
