@@ -1,0 +1,51 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": -0.0089,
+      "pnl_value": -5.5927,
+      "weight": 0.01,
+      "rank": 48,
+      "atr": 0.082,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "UMA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAVES",
+      "rank": 48,
+      "atr": 0.082,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 63079.1973,
+    "leverage": 0.01,
+    "atr": 0.0008,
+    "marketcap_pnt": 0.0011,
+    "green_marketcap_pnt": 0
+  }
+}

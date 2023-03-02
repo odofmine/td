@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "XNO",
+      "pnl": -0.0328,
+      "pnl_value": -15.7286,
+      "weight": 0.0074,
+      "rank": 169,
+      "atr": 0.1117,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0431,
+      "pnl_value": -34.9983,
+      "weight": 0.0125,
+      "rank": 64,
+      "atr": 0.0663,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 64,
+      "atr": 0.0663,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XNO",
+      "rank": 169,
+      "atr": 0.1117,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 64839.962,
+    "leverage": 0.0199,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}
