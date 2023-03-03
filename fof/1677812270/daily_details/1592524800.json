@@ -1,0 +1,160 @@
+{
+  "pnls": [
+    {
+      "name": "ERD",
+      "pnl": 0.1331,
+      "pnl_value": 1.5067,
+      "weight": 0.0242,
+      "rank": 181,
+      "atr": 0.0654,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0971,
+      "pnl_value": 0.6038,
+      "weight": 0.0133,
+      "rank": 198,
+      "atr": 0.1186,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RUNE",
+      "pnl": 0.0566,
+      "pnl_value": 0.4341,
+      "weight": 0.0164,
+      "rank": 158,
+      "atr": 0.0963,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NULS",
+      "pnl": 0.0527,
+      "pnl_value": 0.5103,
+      "weight": 0.0207,
+      "rank": 169,
+      "atr": 0.0765,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0517,
+      "pnl_value": 0.6185,
+      "weight": 0.0256,
+      "rank": 106,
+      "atr": 0.062,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HYN",
+      "pnl": 0.0514,
+      "pnl_value": 0.4018,
+      "weight": 0.0167,
+      "rank": 63,
+      "atr": 0.0949,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RSR",
+      "pnl": 0.0122,
+      "pnl_value": 0.1279,
+      "weight": 0.0224,
+      "rank": 196,
+      "atr": 0.0708,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0162,
+      "pnl_value": -0.1535,
+      "weight": 0.0203,
+      "rank": 70,
+      "atr": 0.078,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEXO",
+      "rank": 106,
+      "atr": 0.062,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ERD",
+      "rank": 181,
+      "atr": 0.0654,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 196,
+      "atr": 0.0708,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NULS",
+      "rank": 169,
+      "atr": 0.0765,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 70,
+      "atr": 0.078,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HYN",
+      "rank": 63,
+      "atr": 0.0949,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 158,
+      "atr": 0.0963,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 198,
+      "atr": 0.1186,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0087,
+    "cum_pnl": 470.7095,
+    "leverage": 0.1596,
+    "atr": 0.0127,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

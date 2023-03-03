@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "EOS",
+      "pnl": 0.0517,
+      "pnl_value": 29.6961,
+      "weight": 0.0088,
+      "rank": 36,
+      "atr": 0.0809,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RVN",
+      "pnl": 0.0214,
+      "pnl_value": 13.5313,
+      "weight": 0.0097,
+      "rank": 92,
+      "atr": 0.0732,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": 0.0058,
+      "pnl_value": 3.147,
+      "weight": 0.0083,
+      "rank": 112,
+      "atr": 0.0857,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": 0.003,
+      "pnl_value": 3.0384,
+      "weight": 0.0155,
+      "rank": 67,
+      "atr": 0.046,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0087,
+      "pnl_value": -5.9434,
+      "weight": 0.0105,
+      "rank": 22,
+      "atr": 0.0676,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EWT",
+      "pnl": -0.0225,
+      "pnl_value": -12.0133,
+      "weight": 0.0082,
+      "rank": 170,
+      "atr": 0.0868,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FLUX",
+      "pnl": -0.0335,
+      "pnl_value": -19.0252,
+      "weight": 0.0087,
+      "rank": 105,
+      "atr": 0.0817,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CAKE",
+      "rank": 67,
+      "atr": 0.046,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 22,
+      "atr": 0.0676,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 92,
+      "atr": 0.0732,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 36,
+      "atr": 0.0809,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FLUX",
+      "rank": 105,
+      "atr": 0.0817,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 112,
+      "atr": 0.0857,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EWT",
+      "rank": 170,
+      "atr": 0.0868,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 65226.7146,
+    "leverage": 0.0697,
+    "atr": 0.005,
+    "marketcap_pnt": 0.007,
+    "green_marketcap_pnt": 0
+  }
+}

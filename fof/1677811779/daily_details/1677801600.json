@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "EOS",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0247,
+      "rank": 47,
+      "atr": 0.0527,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "YFI",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0222,
+      "rank": 115,
+      "atr": 0.0587,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0211,
+      "rank": 68,
+      "atr": 0.0618,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0163,
+      "rank": 155,
+      "atr": 0.08,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0154,
+      "rank": 76,
+      "atr": 0.0843,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SCRT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DYDX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FXS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 47,
+      "atr": 0.0527,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 115,
+      "atr": 0.0587,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 68,
+      "atr": 0.0618,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 155,
+      "atr": 0.08,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 76,
+      "atr": 0.0843,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0,
+    "cum_pnl": 0,
+    "leverage": 0.0997,
+    "atr": 0.0065,
+    "marketcap_pnt": 0.0031,
+    "green_marketcap_pnt": 0
+  }
+}
