@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": 0.0199,
+      "pnl_value": 17.127,
+      "weight": 0.0124,
+      "rank": 32,
+      "atr": 0.0544,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0081,
+      "pnl_value": 4.2108,
+      "weight": 0.0075,
+      "rank": 101,
+      "atr": 0.09,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 32,
+      "atr": 0.0544,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 101,
+      "atr": 0.09,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 69367.276,
+    "leverage": 0.0199,
+    "atr": 0.0013,
+    "marketcap_pnt": 0.0026,
+    "green_marketcap_pnt": 0
+  }
+}

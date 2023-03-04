@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": 0.057,
+      "pnl_value": 34.0117,
+      "weight": 0.0093,
+      "rank": 38,
+      "atr": 0.0703,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": 0.0236,
+      "pnl_value": 11.9422,
+      "weight": 0.0079,
+      "rank": 114,
+      "atr": 0.0829,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RSR",
+      "pnl": 0.0043,
+      "pnl_value": 2.125,
+      "weight": 0.0077,
+      "rank": 98,
+      "atr": 0.0847,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": -0.0319,
+      "pnl_value": -30.5425,
+      "weight": 0.0149,
+      "rank": 62,
+      "atr": 0.0438,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REEF",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CAKE",
+      "rank": 62,
+      "atr": 0.0438,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 38,
+      "atr": 0.0703,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 114,
+      "atr": 0.0829,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 98,
+      "atr": 0.0847,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 64201.0806,
+    "leverage": 0.0398,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0029,
+    "green_marketcap_pnt": 0
+  }
+}
