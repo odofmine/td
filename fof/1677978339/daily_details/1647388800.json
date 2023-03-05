@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "RUNE",
+      "pnl": 0.0415,
+      "pnl_value": 0.075,
+      "weight": 0.01,
+      "rank": 49,
+      "atr": 0.0957,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "RUNE",
+      "rank": 49,
+      "atr": 0.0957,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 179.9408,
+    "leverage": 0.01,
+    "atr": 0.001,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

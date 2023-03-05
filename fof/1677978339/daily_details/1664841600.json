@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": 0.0444,
+      "pnl_value": 0.0811,
+      "weight": 0.01,
+      "rank": 58,
+      "atr": 0.0725,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COTI",
+      "pnl": -0.0401,
+      "pnl_value": -0.0798,
+      "weight": 0.0109,
+      "rank": 165,
+      "atr": 0.0666,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RSR",
+      "pnl": -0.0617,
+      "pnl_value": -0.1002,
+      "weight": 0.0089,
+      "rank": 81,
+      "atr": 0.0816,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "COTI",
+      "rank": 165,
+      "atr": 0.0666,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 58,
+      "atr": 0.0725,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 81,
+      "atr": 0.0816,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 181.479,
+    "leverage": 0.0298,
+    "atr": 0.0022,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

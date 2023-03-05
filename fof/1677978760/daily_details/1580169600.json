@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "BEAM",
+      "pnl": -0.0069,
+      "pnl_value": -0.0238,
+      "weight": 0.01,
+      "rank": 138,
+      "atr": 0.0753,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BEAM",
+      "rank": 138,
+      "atr": 0.0753,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 342.1082,
+    "leverage": 0.01,
+    "atr": 0.0008,
+    "marketcap_pnt": 0.0001,
+    "green_marketcap_pnt": 0
+  }
+}

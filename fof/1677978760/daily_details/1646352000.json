@@ -1,0 +1,248 @@
+{
+  "pnls": [
+    {
+      "name": "ANC",
+      "pnl": 0.109,
+      "pnl_value": 98.267,
+      "weight": 0.0141,
+      "rank": 81,
+      "atr": 0.0637,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0098,
+      "pnl_value": 6.2833,
+      "weight": 0.01,
+      "rank": 66,
+      "atr": 0.0894,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RUNE",
+      "pnl": -0.0103,
+      "pnl_value": -4.9604,
+      "weight": 0.0075,
+      "rank": 68,
+      "atr": 0.1191,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0313,
+      "pnl_value": -16.8036,
+      "weight": 0.0084,
+      "rank": 152,
+      "atr": 0.1063,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "UMA",
+      "pnl": -0.0436,
+      "pnl_value": -21.4938,
+      "weight": 0.0077,
+      "rank": 153,
+      "atr": 0.1155,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0786,
+      "pnl_value": -58.7762,
+      "weight": 0.0117,
+      "rank": 8,
+      "atr": 0.0768,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": -0.0876,
+      "pnl_value": -59.3828,
+      "weight": 0.0106,
+      "rank": 199,
+      "atr": 0.0846,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0935,
+      "pnl_value": -60.4106,
+      "weight": 0.0101,
+      "rank": 62,
+      "atr": 0.0882,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0988,
+      "pnl_value": -72.0098,
+      "weight": 0.0114,
+      "rank": 144,
+      "atr": 0.0784,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KEEP",
+      "pnl": -0.1021,
+      "pnl_value": -54.8685,
+      "weight": 0.0084,
+      "rank": 113,
+      "atr": 0.1062,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.1048,
+      "pnl_value": -62.3375,
+      "weight": 0.0093,
+      "rank": 20,
+      "atr": 0.0959,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTRST",
+      "pnl": -0.1317,
+      "pnl_value": -85.9345,
+      "weight": 0.0102,
+      "rank": 158,
+      "atr": 0.0877,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NU",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ANC",
+      "rank": 81,
+      "atr": 0.0637,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 8,
+      "atr": 0.0768,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 144,
+      "atr": 0.0784,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 199,
+      "atr": 0.0846,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTRST",
+      "rank": 158,
+      "atr": 0.0877,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 62,
+      "atr": 0.0882,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.0894,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 20,
+      "atr": 0.0959,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KEEP",
+      "rank": 113,
+      "atr": 0.1062,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 152,
+      "atr": 0.1063,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UMA",
+      "rank": 153,
+      "atr": 0.1155,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 68,
+      "atr": 0.1191,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0061,
+    "cum_pnl": 63556.8626,
+    "leverage": 0.1194,
+    "atr": 0.0107,
+    "marketcap_pnt": 0.0247,
+    "green_marketcap_pnt": 0
+  }
+}
