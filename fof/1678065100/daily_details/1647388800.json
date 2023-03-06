@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "RUNE",
+      "pnl": 0.0404,
+      "pnl_value": 25.5306,
+      "weight": 0.01,
+      "rank": 49,
+      "atr": 0.0972,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "RUNE",
+      "rank": 49,
+      "atr": 0.0972,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 63159.418,
+    "leverage": 0.01,
+    "atr": 0.001,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

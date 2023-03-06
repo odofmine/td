@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "EOS",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0126,
+      "rank": 40,
+      "atr": 0.0548,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.011,
+      "rank": 53,
+      "atr": 0.0626,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0085,
+      "rank": 62,
+      "atr": 0.0809,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 40,
+      "atr": 0.0548,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 53,
+      "atr": 0.0626,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 62,
+      "atr": 0.0809,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0,
+    "cum_pnl": 0,
+    "leverage": 0.0321,
+    "atr": 0.0021,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}
