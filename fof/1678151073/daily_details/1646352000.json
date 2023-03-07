@@ -1,0 +1,160 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.0033,
+      "pnl_value": 0.0064,
+      "weight": 0.0107,
+      "rank": 66,
+      "atr": 0.0858,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RUNE",
+      "pnl": -0.0098,
+      "pnl_value": -0.0145,
+      "weight": 0.0081,
+      "rank": 68,
+      "atr": 0.113,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UMA",
+      "pnl": -0.0405,
+      "pnl_value": -0.0578,
+      "weight": 0.0078,
+      "rank": 153,
+      "atr": 0.1176,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0782,
+      "pnl_value": -0.1575,
+      "weight": 0.011,
+      "rank": 8,
+      "atr": 0.0839,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": -0.0911,
+      "pnl_value": -0.1785,
+      "weight": 0.0107,
+      "rank": 199,
+      "atr": 0.0856,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0945,
+      "pnl_value": -0.1765,
+      "weight": 0.0102,
+      "rank": 62,
+      "atr": 0.0899,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0963,
+      "pnl_value": -0.2045,
+      "weight": 0.0116,
+      "rank": 144,
+      "atr": 0.0792,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.1043,
+      "pnl_value": -0.1814,
+      "weight": 0.0095,
+      "rank": 20,
+      "atr": 0.097,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KNC",
+      "rank": 144,
+      "atr": 0.0792,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 8,
+      "atr": 0.0839,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 199,
+      "atr": 0.0856,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.0858,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 62,
+      "atr": 0.0899,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 20,
+      "atr": 0.097,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 68,
+      "atr": 0.113,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UMA",
+      "rank": 153,
+      "atr": 0.1176,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0053,
+    "cum_pnl": 181.1259,
+    "leverage": 0.0796,
+    "atr": 0.0073,
+    "marketcap_pnt": 0.0235,
+    "green_marketcap_pnt": 0
+  }
+}

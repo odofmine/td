@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "COMP",
+      "pnl": -0.0487,
+      "pnl_value": -0.0616,
+      "weight": 0.0069,
+      "rank": 95,
+      "atr": 0.0883,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0555,
+      "pnl_value": -0.0946,
+      "weight": 0.0093,
+      "rank": 105,
+      "atr": 0.0655,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNX",
+      "pnl": -0.0867,
+      "pnl_value": -0.2178,
+      "weight": 0.0137,
+      "rank": 115,
+      "atr": 0.0443,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "RVN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNX",
+      "rank": 115,
+      "atr": 0.0443,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 105,
+      "atr": 0.0655,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 95,
+      "atr": 0.0883,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.002,
+    "cum_pnl": 181.9853,
+    "leverage": 0.0299,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}
