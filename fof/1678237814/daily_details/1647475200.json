@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "RUNE",
+      "pnl": 0.0274,
+      "pnl_value": 15.591,
+      "weight": 0.009,
+      "rank": 49,
+      "atr": 0.0949,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0177,
+      "pnl_value": 10.8151,
+      "weight": 0.0097,
+      "rank": 120,
+      "atr": 0.0879,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0014,
+      "pnl_value": -0.9594,
+      "weight": 0.0112,
+      "rank": 69,
+      "atr": 0.0763,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEXO",
+      "rank": 69,
+      "atr": 0.0763,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 120,
+      "atr": 0.0879,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 49,
+      "atr": 0.0949,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 63184.8647,
+    "leverage": 0.0299,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0022,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.0549,
+      "pnl_value": 0.0476,
+      "weight": 0.0081,
+      "rank": 182,
+      "atr": 0.1105,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0328,
+      "pnl_value": 0.0639,
+      "weight": 0.0182,
+      "rank": 10,
+      "atr": 0.0494,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QRL",
+      "pnl": 0.0128,
+      "pnl_value": 0.0103,
+      "weight": 0.0075,
+      "rank": 199,
+      "atr": 0.1198,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0089,
+      "pnl_value": 0.0099,
+      "weight": 0.0104,
+      "rank": 61,
+      "atr": 0.086,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0381,
+      "pnl_value": -0.0517,
+      "weight": 0.0127,
+      "rank": 5,
+      "atr": 0.0704,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MAN",
+      "pnl": -0.0772,
+      "pnl_value": -0.0273,
+      "weight": 0.0033,
+      "rank": 194,
+      "atr": 0.2702,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HC",
+      "pnl": -0.0781,
+      "pnl_value": -0.0794,
+      "weight": 0.0095,
+      "rank": 68,
+      "atr": 0.0943,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 10,
+      "atr": 0.0494,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.0704,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 61,
+      "atr": 0.086,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HC",
+      "rank": 68,
+      "atr": 0.0943,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 182,
+      "atr": 0.1105,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QRL",
+      "rank": 199,
+      "atr": 0.1198,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAN",
+      "rank": 194,
+      "atr": 0.2702,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 105.9883,
+    "leverage": 0.0697,
+    "atr": 0.0063,
+    "marketcap_pnt": 0.0335,
+    "green_marketcap_pnt": 0
+  }
+}
