@@ -1,0 +1,198 @@
+{
+  "pnls": [
+    {
+      "name": "KAVA",
+      "pnl": 0.096,
+      "pnl_value": 170.1201,
+      "weight": 0.082,
+      "rank": 121,
+      "atr": 0.1127,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OKB",
+      "pnl": 0.0623,
+      "pnl_value": 129.1613,
+      "weight": 0.0959,
+      "rank": 78,
+      "atr": 0.0963,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.0022,
+      "pnl_value": -4.2285,
+      "weight": 0.0895,
+      "rank": 144,
+      "atr": 0.1032,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.024,
+      "pnl_value": -53.0952,
+      "weight": 0.1026,
+      "rank": 31,
+      "atr": 0.09,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0403,
+      "pnl_value": -67.345,
+      "weight": 0.0774,
+      "rank": 60,
+      "atr": 0.1193,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "AXS",
+      "pnl": -0.067,
+      "pnl_value": -167.4311,
+      "weight": 0.1156,
+      "rank": 34,
+      "atr": 0.0799,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FLOW",
+      "pnl": -0.0812,
+      "pnl_value": -140.2608,
+      "weight": 0.0799,
+      "rank": 72,
+      "atr": 0.1156,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.1204,
+      "pnl_value": -245.5109,
+      "weight": 0.0944,
+      "rank": 66,
+      "atr": 0.0978,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CHR",
+      "pnl": -0.1738,
+      "pnl_value": -349.9384,
+      "weight": 0.0932,
+      "rank": 167,
+      "atr": 0.0991,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AMPL",
+      "pnl": -0.3664,
+      "pnl_value": -1337.3163,
+      "weight": 0.1689,
+      "rank": 135,
+      "atr": 0.0547,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AMPL",
+      "rank": 135,
+      "atr": 0.0547,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AXS",
+      "rank": 34,
+      "atr": 0.0799,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 31,
+      "atr": 0.09,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 78,
+      "atr": 0.0963,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 66,
+      "atr": 0.0978,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHR",
+      "rank": 167,
+      "atr": 0.0991,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 144,
+      "atr": 0.1032,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 121,
+      "atr": 0.1127,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FLOW",
+      "rank": 72,
+      "atr": 0.1156,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 60,
+      "atr": 0.1193,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 65,
+      "atr": 0.1369,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 67,
+      "atr": 0.1369,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0956,
+    "cum_pnl": 19540.412,
+    "leverage": 0.9994,
+    "atr": 0.0924,
+    "marketcap_pnt": 0.0078,
+    "green_marketcap_pnt": 0
+  }
+}

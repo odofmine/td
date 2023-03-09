@@ -1,0 +1,173 @@
+{
+  "pnls": [
+    {
+      "name": "RSR",
+      "pnl": 0.1241,
+      "pnl_value": 60.5335,
+      "weight": 0.0076,
+      "rank": 98,
+      "atr": 0.0869,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": 0.1069,
+      "pnl_value": 63.0918,
+      "weight": 0.0092,
+      "rank": 38,
+      "atr": 0.0722,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": 0.0203,
+      "pnl_value": 18.9053,
+      "weight": 0.0145,
+      "rank": 62,
+      "atr": 0.0459,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.0138,
+      "pnl_value": 8.3535,
+      "weight": 0.0094,
+      "rank": 22,
+      "atr": 0.0704,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0228,
+      "pnl_value": -11.8429,
+      "weight": 0.0081,
+      "rank": 78,
+      "atr": 0.0815,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.0439,
+      "pnl_value": -29.3267,
+      "weight": 0.0104,
+      "rank": 28,
+      "atr": 0.064,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0466,
+      "pnl_value": -31.0775,
+      "weight": 0.0104,
+      "rank": 6,
+      "atr": 0.0641,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTRST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "COTI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CAKE",
+      "rank": 62,
+      "atr": 0.0459,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 28,
+      "atr": 0.064,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0641,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 22,
+      "atr": 0.0704,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 38,
+      "atr": 0.0722,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 78,
+      "atr": 0.0815,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 98,
+      "atr": 0.0869,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 64255.804,
+    "leverage": 0.0696,
+    "atr": 0.0046,
+    "marketcap_pnt": 0.0371,
+    "green_marketcap_pnt": 0
+  }
+}
