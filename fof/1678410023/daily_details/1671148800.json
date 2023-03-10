@@ -1,0 +1,156 @@
+{
+  "pnls": [
+    {
+      "name": "TRX",
+      "pnl": -0.0511,
+      "pnl_value": -0.1534,
+      "weight": 0.018,
+      "rank": 15,
+      "atr": 0.0375,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0708,
+      "pnl_value": -0.0851,
+      "weight": 0.0072,
+      "rank": 187,
+      "atr": 0.0928,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DGB",
+      "pnl": -0.0947,
+      "pnl_value": -0.1359,
+      "weight": 0.0086,
+      "rank": 164,
+      "atr": 0.0777,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.1049,
+      "pnl_value": -0.1942,
+      "weight": 0.0111,
+      "rank": 112,
+      "atr": 0.0608,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WOO",
+      "pnl": -0.1084,
+      "pnl_value": -0.1592,
+      "weight": 0.0088,
+      "rank": 145,
+      "atr": 0.0767,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": -0.1323,
+      "pnl_value": -0.1457,
+      "weight": 0.0066,
+      "rank": 182,
+      "atr": 0.1012,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TRX",
+      "rank": 15,
+      "atr": 0.0375,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 112,
+      "atr": 0.0608,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WOO",
+      "rank": 145,
+      "atr": 0.0767,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 164,
+      "atr": 0.0777,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 187,
+      "atr": 0.0928,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 182,
+      "atr": 0.1012,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0052,
+    "cum_pnl": 164.9559,
+    "leverage": 0.0603,
+    "atr": 0.004,
+    "marketcap_pnt": 0.0067,
+    "green_marketcap_pnt": 0
+  }
+}

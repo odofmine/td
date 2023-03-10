@@ -1,0 +1,176 @@
+{
+  "pnls": [
+    {
+      "name": "ANC",
+      "pnl": 0.108,
+      "pnl_value": 103.6159,
+      "weight": 0.0151,
+      "rank": 81,
+      "atr": 0.0626,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UMA",
+      "pnl": 0.0096,
+      "pnl_value": 4.6607,
+      "weight": 0.0076,
+      "rank": 153,
+      "atr": 0.1242,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0616,
+      "pnl_value": -41.1092,
+      "weight": 0.0105,
+      "rank": 144,
+      "atr": 0.0894,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0676,
+      "pnl_value": -44.2328,
+      "weight": 0.0103,
+      "rank": 66,
+      "atr": 0.0917,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RUNE",
+      "pnl": -0.0897,
+      "pnl_value": -43.8903,
+      "weight": 0.0077,
+      "rank": 68,
+      "atr": 0.1217,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.093,
+      "pnl_value": -50.2583,
+      "weight": 0.0085,
+      "rank": 152,
+      "atr": 0.1107,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZEC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KEEP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTRST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ANC",
+      "rank": 81,
+      "atr": 0.0626,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 144,
+      "atr": 0.0894,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.0917,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 152,
+      "atr": 0.1107,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 68,
+      "atr": 0.1217,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UMA",
+      "rank": 153,
+      "atr": 0.1242,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0011,
+    "cum_pnl": 63485.6485,
+    "leverage": 0.0597,
+    "atr": 0.0057,
+    "marketcap_pnt": 0.0025,
+    "green_marketcap_pnt": 0
+  }
+}

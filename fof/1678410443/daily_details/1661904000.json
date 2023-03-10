@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "LEO",
+      "pnl": 0.0732,
+      "pnl_value": 47.4739,
+      "weight": 0.01,
+      "rank": 17,
+      "atr": 0.0415,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XNO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 17,
+      "atr": 0.0415,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 64931.5215,
+    "leverage": 0.01,
+    "atr": 0.0004,
+    "marketcap_pnt": 0.0053,
+    "green_marketcap_pnt": 0
+  }
+}

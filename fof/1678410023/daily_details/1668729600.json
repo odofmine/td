@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "YFII",
+      "pnl": 0.1121,
+      "pnl_value": 0.2488,
+      "weight": 0.0131,
+      "rank": 185,
+      "atr": 0.0619,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TWT",
+      "pnl": 0.0937,
+      "pnl_value": 0.162,
+      "weight": 0.0102,
+      "rank": 52,
+      "atr": 0.0796,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANT",
+      "pnl": 0.0828,
+      "pnl_value": 0.1348,
+      "weight": 0.0096,
+      "rank": 197,
+      "atr": 0.0846,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DYDX",
+      "pnl": -0.038,
+      "pnl_value": -0.0477,
+      "weight": 0.0074,
+      "rank": 139,
+      "atr": 0.11,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "YFII",
+      "rank": 185,
+      "atr": 0.0619,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 52,
+      "atr": 0.0796,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 197,
+      "atr": 0.0846,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DYDX",
+      "rank": 139,
+      "atr": 0.11,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0029,
+    "cum_pnl": 168.9814,
+    "leverage": 0.0403,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

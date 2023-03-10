@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": 0.082,
+      "pnl_value": 0.1704,
+      "weight": 0.0115,
+      "rank": 29,
+      "atr": 0.0572,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TWT",
+      "pnl": 0.0608,
+      "pnl_value": 0.1429,
+      "weight": 0.013,
+      "rank": 76,
+      "atr": 0.0503,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FXS",
+      "pnl": 0.0156,
+      "pnl_value": 0.0299,
+      "weight": 0.0106,
+      "rank": 184,
+      "atr": 0.0615,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WOO",
+      "pnl": -0.0,
+      "pnl_value": -0.0,
+      "weight": 0.009,
+      "rank": 135,
+      "atr": 0.0731,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": -0.0227,
+      "pnl_value": -0.0382,
+      "weight": 0.0093,
+      "rank": 83,
+      "atr": 0.0704,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0274,
+      "pnl_value": -0.0436,
+      "weight": 0.0088,
+      "rank": 136,
+      "atr": 0.0742,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REEF",
+      "pnl": -0.0414,
+      "pnl_value": -0.0614,
+      "weight": 0.0082,
+      "rank": 153,
+      "atr": 0.0802,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TWT",
+      "rank": 76,
+      "atr": 0.0503,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 29,
+      "atr": 0.0572,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FXS",
+      "rank": 184,
+      "atr": 0.0615,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 83,
+      "atr": 0.0704,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WOO",
+      "rank": 135,
+      "atr": 0.0731,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 136,
+      "atr": 0.0742,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REEF",
+      "rank": 153,
+      "atr": 0.0802,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0011,
+    "cum_pnl": 179.9114,
+    "leverage": 0.0704,
+    "atr": 0.0046,
+    "marketcap_pnt": 0.0041,
+    "green_marketcap_pnt": 0
+  }
+}

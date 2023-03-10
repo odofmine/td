@@ -1,0 +1,135 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": -0.0034,
+      "pnl_value": -2.1789,
+      "weight": 0.01,
+      "rank": 52,
+      "atr": 0.0679,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.004,
+      "pnl_value": -2.2051,
+      "weight": 0.0088,
+      "rank": 141,
+      "atr": 0.077,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0614,
+      "pnl_value": -50.4762,
+      "weight": 0.013,
+      "rank": 24,
+      "atr": 0.0523,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CVX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "REEF",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "EGLD",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ENS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PYR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 24,
+      "atr": 0.0523,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 52,
+      "atr": 0.0679,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 141,
+      "atr": 0.077,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 63141.5658,
+    "leverage": 0.0318,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0047,
+    "green_marketcap_pnt": 0
+  }
+}
