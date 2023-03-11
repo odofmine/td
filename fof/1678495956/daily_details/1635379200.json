@@ -1,0 +1,241 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.216,
+      "pnl_value": 3.3545,
+      "weight": 0.1003,
+      "rank": 21,
+      "atr": 0.0803,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.108,
+      "pnl_value": 1.6539,
+      "weight": 0.0989,
+      "rank": 78,
+      "atr": 0.0815,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RUNE",
+      "pnl": 0.0747,
+      "pnl_value": 1.0031,
+      "weight": 0.0867,
+      "rank": 56,
+      "atr": 0.0929,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CRV",
+      "pnl": 0.0702,
+      "pnl_value": 1.0699,
+      "weight": 0.0984,
+      "rank": 77,
+      "atr": 0.0819,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": 0.0457,
+      "pnl_value": 0.6107,
+      "weight": 0.0863,
+      "rank": 39,
+      "atr": 0.0934,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HNT",
+      "pnl": 0.0414,
+      "pnl_value": 0.7061,
+      "weight": 0.1102,
+      "rank": 63,
+      "atr": 0.0731,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0066,
+      "pnl_value": -0.091,
+      "weight": 0.089,
+      "rank": 72,
+      "atr": 0.0905,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.0569,
+      "pnl_value": -0.8383,
+      "weight": 0.0951,
+      "rank": 31,
+      "atr": 0.0847,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "1INCH",
+      "pnl": -0.1009,
+      "pnl_value": -1.5815,
+      "weight": 0.1012,
+      "rank": 119,
+      "atr": 0.0796,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SHIB",
+      "pnl": -0.129,
+      "pnl_value": -2.6654,
+      "weight": 0.1334,
+      "rank": 14,
+      "atr": 0.0604,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SOL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "YFI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "VET",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SHIB",
+      "rank": 14,
+      "atr": 0.0604,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 63,
+      "atr": 0.0731,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "1INCH",
+      "rank": 119,
+      "atr": 0.0796,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 21,
+      "atr": 0.0803,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 78,
+      "atr": 0.0815,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 77,
+      "atr": 0.0819,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 31,
+      "atr": 0.0847,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 72,
+      "atr": 0.0905,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 56,
+      "atr": 0.0929,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 39,
+      "atr": 0.0934,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 52,
+      "atr": 0.0951,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0208,
+    "cum_pnl": 157.0932,
+    "leverage": 0.9995,
+    "atr": 0.0806,
+    "marketcap_pnt": 0.0186,
+    "green_marketcap_pnt": 0
+  }
+}

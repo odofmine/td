@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "BNX",
+      "pnl": 0.0019,
+      "pnl_value": 0.0049,
+      "weight": 0.0148,
+      "rank": 75,
+      "atr": 0.0442,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0291,
+      "pnl_value": -0.0495,
+      "weight": 0.01,
+      "rank": 17,
+      "atr": 0.0654,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.1528,
+      "pnl_value": -0.2055,
+      "weight": 0.0079,
+      "rank": 197,
+      "atr": 0.0828,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.1947,
+      "pnl_value": -0.1922,
+      "weight": 0.0058,
+      "rank": 35,
+      "atr": 0.1114,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "YFII",
+      "pnl": -0.3265,
+      "pnl_value": -0.6615,
+      "weight": 0.0119,
+      "rank": 185,
+      "atr": 0.0549,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TWT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNX",
+      "rank": 75,
+      "atr": 0.0442,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "YFII",
+      "rank": 185,
+      "atr": 0.0549,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 17,
+      "atr": 0.0654,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 197,
+      "atr": 0.0828,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 35,
+      "atr": 0.1114,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0065,
+    "cum_pnl": 168.138,
+    "leverage": 0.0504,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.0072,
+    "green_marketcap_pnt": 0
+  }
+}
