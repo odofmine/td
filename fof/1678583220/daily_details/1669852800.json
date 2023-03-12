@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "FTM",
+      "pnl": 0.038,
+      "pnl_value": 25.1053,
+      "weight": 0.011,
+      "rank": 71,
+      "atr": 0.0829,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MASK",
+      "pnl": 0.0025,
+      "pnl_value": 1.1474,
+      "weight": 0.0075,
+      "rank": 120,
+      "atr": 0.1213,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.0009,
+      "pnl_value": 0.6581,
+      "weight": 0.012,
+      "rank": 21,
+      "atr": 0.0758,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0478,
+      "pnl_value": -27.5629,
+      "weight": 0.0096,
+      "rank": 8,
+      "atr": 0.0947,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LINK",
+      "rank": 21,
+      "atr": 0.0758,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 71,
+      "atr": 0.0829,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 8,
+      "atr": 0.0947,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MASK",
+      "rank": 120,
+      "atr": 0.1213,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0,
+    "cum_pnl": 60123.4022,
+    "leverage": 0.0401,
+    "atr": 0.0036,
+    "marketcap_pnt": 0.021,
+    "green_marketcap_pnt": 0
+  }
+}
