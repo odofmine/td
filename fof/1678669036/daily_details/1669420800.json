@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.0321,
+      "pnl_value": 0.0795,
+      "weight": 0.0147,
+      "rank": 15,
+      "atr": 0.0646,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VGX",
+      "pnl": 0.0118,
+      "pnl_value": 0.0108,
+      "weight": 0.0054,
+      "rank": 172,
+      "atr": 0.1766,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "RLC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BNX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 15,
+      "atr": 0.0646,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VGX",
+      "rank": 172,
+      "atr": 0.1766,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 167.5689,
+    "leverage": 0.0201,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.0057,
+    "green_marketcap_pnt": 0
+  }
+}

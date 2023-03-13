@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "TWT",
+      "pnl": -0.0202,
+      "pnl_value": -13.5424,
+      "weight": 0.0112,
+      "rank": 43,
+      "atr": 0.0755,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GLMR",
+      "pnl": -0.0214,
+      "pnl_value": -13.6724,
+      "weight": 0.0107,
+      "rank": 130,
+      "atr": 0.0791,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AXS",
+      "pnl": -0.0311,
+      "pnl_value": -15.2334,
+      "weight": 0.0082,
+      "rank": 56,
+      "atr": 0.1026,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TWT",
+      "rank": 43,
+      "atr": 0.0755,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GLMR",
+      "rank": 130,
+      "atr": 0.0791,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AXS",
+      "rank": 56,
+      "atr": 0.1026,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 59729.118,
+    "leverage": 0.0301,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0022,
+    "green_marketcap_pnt": 0
+  }
+}
