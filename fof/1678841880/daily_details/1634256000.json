@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "REEF",
+      "pnl": 0.1204,
+      "pnl_value": 1.8385,
+      "weight": 0.1031,
+      "rank": 176,
+      "atr": 0.0901,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DOT",
+      "pnl": 0.0634,
+      "pnl_value": 1.0381,
+      "weight": 0.1105,
+      "rank": 8,
+      "atr": 0.0841,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": 0.0614,
+      "pnl_value": 0.8176,
+      "weight": 0.0899,
+      "rank": 181,
+      "atr": 0.1033,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PERP",
+      "pnl": 0.0204,
+      "pnl_value": 0.2281,
+      "weight": 0.0755,
+      "rank": 103,
+      "atr": 0.1231,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0038,
+      "pnl_value": 0.0855,
+      "weight": 0.1516,
+      "rank": 5,
+      "atr": 0.0613,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAKE",
+      "pnl": -0.0247,
+      "pnl_value": -0.3,
+      "weight": 0.0819,
+      "rank": 160,
+      "atr": 0.1134,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BADGER",
+      "pnl": -0.1257,
+      "pnl_value": -1.624,
+      "weight": 0.0872,
+      "rank": 184,
+      "atr": 0.1065,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 5,
+      "atr": 0.0613,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.0841,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REEF",
+      "rank": 176,
+      "atr": 0.0901,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 181,
+      "atr": 0.1033,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BADGER",
+      "rank": 184,
+      "atr": 0.1065,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAKE",
+      "rank": 160,
+      "atr": 0.1134,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PERP",
+      "rank": 103,
+      "atr": 0.1231,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0141,
+    "cum_pnl": 149.2542,
+    "leverage": 0.6997,
+    "atr": 0.065,
+    "marketcap_pnt": 0.0464,
+    "green_marketcap_pnt": 0
+  }
+}

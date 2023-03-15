@@ -1,0 +1,34 @@
+{
+  "pnls": [],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 40,
+      "atr": 0.0568,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 53,
+      "atr": 0.0613,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 62,
+      "atr": 0.0802,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0,
+    "cum_pnl": 161.2292,
+    "leverage": -0.0,
+    "atr": 0,
+    "marketcap_pnt": 0,
+    "green_marketcap_pnt": 0
+  }
+}

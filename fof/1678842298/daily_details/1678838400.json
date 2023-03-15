@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "KCS",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0294,
+      "rank": 56,
+      "atr": 0.0484,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ELF",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0253,
+      "rank": 160,
+      "atr": 0.0561,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0211,
+      "rank": 83,
+      "atr": 0.0675,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0152,
+      "rank": 65,
+      "atr": 0.0933,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "IMX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0141,
+      "rank": 57,
+      "atr": 0.1009,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "INJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 56,
+      "atr": 0.0484,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ELF",
+      "rank": 160,
+      "atr": 0.0561,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 83,
+      "atr": 0.0675,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 65,
+      "atr": 0.0933,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 122,
+      "atr": 0.0969,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IMX",
+      "rank": 57,
+      "atr": 0.1009,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0,
+    "cum_pnl": 0,
+    "leverage": 0.1051,
+    "atr": 0.0071,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}

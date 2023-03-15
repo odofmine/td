@@ -1,0 +1,319 @@
+{
+  "pnls": [
+    {
+      "name": "APT",
+      "pnl": 0.1346,
+      "pnl_value": 88.2014,
+      "weight": 0.0098,
+      "rank": 46,
+      "atr": 0.0644,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XNO",
+      "pnl": 0.042,
+      "pnl_value": 16.2942,
+      "weight": 0.0058,
+      "rank": 187,
+      "atr": 0.1087,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OKB",
+      "pnl": 0.038,
+      "pnl_value": 37.5709,
+      "weight": 0.0148,
+      "rank": 29,
+      "atr": 0.0426,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RNDR",
+      "pnl": 0.0353,
+      "pnl_value": 19.143,
+      "weight": 0.0081,
+      "rank": 159,
+      "atr": 0.078,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": 0.0248,
+      "pnl_value": 16.6066,
+      "weight": 0.01,
+      "rank": 73,
+      "atr": 0.063,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0186,
+      "pnl_value": 12.0506,
+      "weight": 0.0097,
+      "rank": 84,
+      "atr": 0.0649,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ANT",
+      "pnl": 0.0148,
+      "pnl_value": 9.3804,
+      "weight": 0.0095,
+      "rank": 180,
+      "atr": 0.0661,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SHIB",
+      "pnl": 0.0118,
+      "pnl_value": 8.5973,
+      "weight": 0.0109,
+      "rank": 14,
+      "atr": 0.0577,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SKL",
+      "pnl": 0.0059,
+      "pnl_value": 3.9454,
+      "weight": 0.01,
+      "rank": 177,
+      "atr": 0.0626,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SSV",
+      "pnl": -0.0006,
+      "pnl_value": -0.2851,
+      "weight": 0.0076,
+      "rank": 161,
+      "atr": 0.0824,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0087,
+      "pnl_value": -6.4158,
+      "weight": 0.011,
+      "rank": 92,
+      "atr": 0.0571,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OP",
+      "pnl": -0.0114,
+      "pnl_value": -7.6719,
+      "weight": 0.0101,
+      "rank": 79,
+      "atr": 0.0622,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0353,
+      "pnl_value": -30.0188,
+      "weight": 0.0127,
+      "rank": 38,
+      "atr": 0.0497,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0431,
+      "pnl_value": -26.7818,
+      "weight": 0.0093,
+      "rank": 98,
+      "atr": 0.0674,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REQ",
+      "pnl": -0.056,
+      "pnl_value": -43.0995,
+      "weight": 0.0115,
+      "rank": 195,
+      "atr": 0.0548,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AMP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FLUX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KNC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CRV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KSM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OKB",
+      "rank": 29,
+      "atr": 0.0426,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 38,
+      "atr": 0.0497,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REQ",
+      "rank": 195,
+      "atr": 0.0548,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 92,
+      "atr": 0.0571,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 14,
+      "atr": 0.0577,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OP",
+      "rank": 79,
+      "atr": 0.0622,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SKL",
+      "rank": 177,
+      "atr": 0.0626,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 73,
+      "atr": 0.063,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "APT",
+      "rank": 46,
+      "atr": 0.0644,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 84,
+      "atr": 0.0649,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 180,
+      "atr": 0.0661,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 98,
+      "atr": 0.0674,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 159,
+      "atr": 0.078,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SSV",
+      "rank": 161,
+      "atr": 0.0824,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XNO",
+      "rank": 187,
+      "atr": 0.1087,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0015,
+    "cum_pnl": 66970.9783,
+    "leverage": 0.1508,
+    "atr": 0.0094,
+    "marketcap_pnt": 0.0132,
+    "green_marketcap_pnt": 0
+  }
+}
