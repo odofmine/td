@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "BAL",
+      "pnl": 0.0206,
+      "pnl_value": 0.0314,
+      "weight": 0.0085,
+      "rank": 121,
+      "atr": 0.0745,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.01,
+      "rank": 45,
+      "atr": 0.0635,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TWT",
+      "pnl": -0.0102,
+      "pnl_value": -0.0243,
+      "weight": 0.0133,
+      "rank": 76,
+      "atr": 0.0479,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0124,
+      "pnl_value": -0.0203,
+      "weight": 0.0091,
+      "rank": 99,
+      "atr": 0.0696,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "JST",
+      "pnl": -0.0134,
+      "pnl_value": -0.0221,
+      "weight": 0.0092,
+      "rank": 118,
+      "atr": 0.0688,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TWT",
+      "rank": 76,
+      "atr": 0.0479,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 45,
+      "atr": 0.0635,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "JST",
+      "rank": 118,
+      "atr": 0.0688,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 99,
+      "atr": 0.0696,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 121,
+      "atr": 0.0745,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 178.5674,
+    "leverage": 0.0501,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0025,
+    "green_marketcap_pnt": 0
+  }
+}
