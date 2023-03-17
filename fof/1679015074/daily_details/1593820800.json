@@ -1,0 +1,228 @@
+{
+  "pnls": [
+    {
+      "name": "VET",
+      "pnl": 0.2233,
+      "pnl_value": 1.1556,
+      "weight": 0.0109,
+      "rank": 28,
+      "atr": 0.0674,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ERD",
+      "pnl": 0.0376,
+      "pnl_value": 0.1516,
+      "weight": 0.0085,
+      "rank": 133,
+      "atr": 0.0861,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0353,
+      "pnl_value": 0.221,
+      "weight": 0.0132,
+      "rank": 11,
+      "atr": 0.0556,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RUNE",
+      "pnl": 0.0286,
+      "pnl_value": 0.1197,
+      "weight": 0.0088,
+      "rank": 121,
+      "atr": 0.0832,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZRX",
+      "pnl": 0.0166,
+      "pnl_value": 0.0763,
+      "weight": 0.0097,
+      "rank": 45,
+      "atr": 0.0754,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VEST",
+      "pnl": 0.0063,
+      "pnl_value": 0.0297,
+      "weight": 0.0099,
+      "rank": 39,
+      "atr": 0.0744,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOTX",
+      "pnl": 0.0002,
+      "pnl_value": 0.0007,
+      "weight": 0.0088,
+      "rank": 200,
+      "atr": 0.0836,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0093,
+      "pnl_value": -0.0282,
+      "weight": 0.0064,
+      "rank": 183,
+      "atr": 0.1151,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BNT",
+      "pnl": -0.0129,
+      "pnl_value": -0.0673,
+      "weight": 0.011,
+      "rank": 105,
+      "atr": 0.0667,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.0319,
+      "pnl_value": -0.1881,
+      "weight": 0.0124,
+      "rank": 63,
+      "atr": 0.0592,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0401,
+      "pnl_value": -0.1656,
+      "weight": 0.0087,
+      "rank": 160,
+      "atr": 0.0841,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.1113,
+      "pnl_value": -0.6499,
+      "weight": 0.0123,
+      "rank": 49,
+      "atr": 0.0597,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.0556,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 63,
+      "atr": 0.0592,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 49,
+      "atr": 0.0597,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 105,
+      "atr": 0.0667,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 28,
+      "atr": 0.0674,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VEST",
+      "rank": 39,
+      "atr": 0.0744,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 45,
+      "atr": 0.0754,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 121,
+      "atr": 0.0832,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 200,
+      "atr": 0.0836,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 160,
+      "atr": 0.0841,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ERD",
+      "rank": 133,
+      "atr": 0.0861,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 183,
+      "atr": 0.1151,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0014,
+    "cum_pnl": 474.4311,
+    "leverage": 0.1206,
+    "atr": 0.0088,
+    "marketcap_pnt": 0.0142,
+    "green_marketcap_pnt": 0
+  }
+}
