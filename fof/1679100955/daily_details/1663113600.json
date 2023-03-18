@@ -1,0 +1,142 @@
+{
+  "pnls": [
+    {
+      "name": "RVN",
+      "pnl": 0.1716,
+      "pnl_value": 0.2393,
+      "weight": 0.0076,
+      "rank": 75,
+      "atr": 0.0882,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0186,
+      "pnl_value": 0.0232,
+      "weight": 0.0068,
+      "rank": 180,
+      "atr": 0.0988,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNX",
+      "pnl": -0.0012,
+      "pnl_value": -0.0035,
+      "weight": 0.0151,
+      "rank": 115,
+      "atr": 0.0447,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0112,
+      "pnl_value": -0.021,
+      "weight": 0.0102,
+      "rank": 105,
+      "atr": 0.0658,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MATIC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEAR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GRT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNX",
+      "rank": 115,
+      "atr": 0.0447,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 105,
+      "atr": 0.0658,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 75,
+      "atr": 0.0882,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 180,
+      "atr": 0.0988,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0013,
+    "cum_pnl": 182.7324,
+    "leverage": 0.0397,
+    "atr": 0.0027,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}
