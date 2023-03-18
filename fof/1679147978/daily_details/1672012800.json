@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "RLC",
+      "pnl": 0.0038,
+      "pnl_value": 0.0037,
+      "weight": 0.0059,
+      "rank": 165,
+      "atr": 0.0841,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ELF",
+      "pnl": -0.0092,
+      "pnl_value": -0.0219,
+      "weight": 0.0143,
+      "rank": 192,
+      "atr": 0.0347,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ELF",
+      "rank": 192,
+      "atr": 0.0347,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 165,
+      "atr": 0.0841,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 164.8403,
+    "leverage": 0.0202,
+    "atr": 0.001,
+    "marketcap_pnt": 0.0002,
+    "green_marketcap_pnt": 0
+  }
+}
