@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": -0.0035,
+      "pnl_value": -2.1182,
+      "weight": 0.0099,
+      "rank": 15,
+      "atr": 0.0583,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": -0.014,
+      "pnl_value": -8.6198,
+      "weight": 0.0102,
+      "rank": 34,
+      "atr": 0.0571,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OKB",
+      "rank": 34,
+      "atr": 0.0571,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 15,
+      "atr": 0.0583,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 60270.858,
+    "leverage": 0.0201,
+    "atr": 0.0012,
+    "marketcap_pnt": 0.0071,
+    "green_marketcap_pnt": 0
+  }
+}
