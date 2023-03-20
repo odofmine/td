@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "GLM",
+      "pnl": 0.0694,
+      "pnl_value": 30.4096,
+      "weight": 0.0068,
+      "rank": 112,
+      "atr": 0.1218,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0309,
+      "pnl_value": 25.7139,
+      "weight": 0.0129,
+      "rank": 105,
+      "atr": 0.0641,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0377,
+      "pnl_value": -22.8109,
+      "weight": 0.0094,
+      "rank": 180,
+      "atr": 0.0877,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0522,
+      "pnl_value": -34.9418,
+      "weight": 0.0104,
+      "rank": 95,
+      "atr": 0.0796,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RVN",
+      "pnl": -0.2181,
+      "pnl_value": -146.1176,
+      "weight": 0.0104,
+      "rank": 75,
+      "atr": 0.0795,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KNC",
+      "rank": 105,
+      "atr": 0.0641,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 75,
+      "atr": 0.0795,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 95,
+      "atr": 0.0796,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 180,
+      "atr": 0.0877,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GLM",
+      "rank": 112,
+      "atr": 0.1218,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0023,
+    "cum_pnl": 64268.8119,
+    "leverage": 0.0499,
+    "atr": 0.0041,
+    "marketcap_pnt": 0.0017,
+    "green_marketcap_pnt": 0
+  }
+}

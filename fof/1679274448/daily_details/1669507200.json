@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "VGX",
+      "pnl": 0.0014,
+      "pnl_value": 0.3912,
+      "weight": 0.0046,
+      "rank": 172,
+      "atr": 0.1684,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": -0.0076,
+      "pnl_value": -6.3359,
+      "weight": 0.0138,
+      "rank": 34,
+      "atr": 0.0562,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0201,
+      "pnl_value": -15.4275,
+      "weight": 0.0127,
+      "rank": 15,
+      "atr": 0.0612,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EWT",
+      "pnl": -0.0533,
+      "pnl_value": -29.5632,
+      "weight": 0.0092,
+      "rank": 153,
+      "atr": 0.0842,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OKB",
+      "rank": 34,
+      "atr": 0.0562,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 15,
+      "atr": 0.0612,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EWT",
+      "rank": 153,
+      "atr": 0.0842,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VGX",
+      "rank": 172,
+      "atr": 0.1684,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 60236.7848,
+    "leverage": 0.0403,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0073,
+    "green_marketcap_pnt": 0
+  }
+}
