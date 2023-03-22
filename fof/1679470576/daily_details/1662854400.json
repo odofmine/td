@@ -1,0 +1,235 @@
+{
+  "pnls": [
+    {
+      "name": "CAKE",
+      "pnl": 0.0475,
+      "pnl_value": 48.6306,
+      "weight": 0.0157,
+      "rank": 67,
+      "atr": 0.0453,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.0162,
+      "pnl_value": 10.7704,
+      "weight": 0.0102,
+      "rank": 24,
+      "atr": 0.0694,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FLUX",
+      "pnl": 0.0146,
+      "pnl_value": 8.0265,
+      "weight": 0.0084,
+      "rank": 105,
+      "atr": 0.0844,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OP",
+      "pnl": 0.0108,
+      "pnl_value": 4.4441,
+      "weight": 0.0063,
+      "rank": 113,
+      "atr": 0.1127,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ENS",
+      "pnl": 0.0083,
+      "pnl_value": 4.5203,
+      "weight": 0.0083,
+      "rank": 112,
+      "atr": 0.0848,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0043,
+      "pnl_value": -3.2419,
+      "weight": 0.0115,
+      "rank": 2,
+      "atr": 0.0618,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EWT",
+      "pnl": -0.0149,
+      "pnl_value": -7.7662,
+      "weight": 0.008,
+      "rank": 170,
+      "atr": 0.0885,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0173,
+      "pnl_value": -9.721,
+      "weight": 0.0086,
+      "rank": 20,
+      "atr": 0.0822,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0175,
+      "pnl_value": -13.2618,
+      "weight": 0.0116,
+      "rank": 21,
+      "atr": 0.0612,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0181,
+      "pnl_value": -12.4214,
+      "weight": 0.0105,
+      "rank": 22,
+      "atr": 0.0678,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0195,
+      "pnl_value": -11.4186,
+      "weight": 0.009,
+      "rank": 36,
+      "atr": 0.0787,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0205,
+      "pnl_value": -15.8951,
+      "weight": 0.0119,
+      "rank": 109,
+      "atr": 0.0595,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RVN",
+      "pnl": -0.1012,
+      "pnl_value": -62.0631,
+      "weight": 0.0094,
+      "rank": 92,
+      "atr": 0.075,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CAKE",
+      "rank": 67,
+      "atr": 0.0453,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 109,
+      "atr": 0.0595,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 21,
+      "atr": 0.0612,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0618,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 22,
+      "atr": 0.0678,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 24,
+      "atr": 0.0694,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 92,
+      "atr": 0.075,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 36,
+      "atr": 0.0787,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 20,
+      "atr": 0.0822,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FLUX",
+      "rank": 105,
+      "atr": 0.0844,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 112,
+      "atr": 0.0848,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EWT",
+      "rank": 170,
+      "atr": 0.0885,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OP",
+      "rank": 113,
+      "atr": 0.1127,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 65167.3173,
+    "leverage": 0.1294,
+    "atr": 0.0092,
+    "marketcap_pnt": 0.2177,
+    "green_marketcap_pnt": 0
+  }
+}

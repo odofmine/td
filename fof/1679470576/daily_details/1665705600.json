@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "REEF",
+      "pnl": 0.0565,
+      "pnl_value": 25.3345,
+      "weight": 0.0071,
+      "rank": 172,
+      "atr": 0.0887,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HT",
+      "pnl": 0.0511,
+      "pnl_value": 29.7286,
+      "weight": 0.0092,
+      "rank": 63,
+      "atr": 0.0682,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": 0.0314,
+      "pnl_value": 19.4233,
+      "weight": 0.0098,
+      "rank": 31,
+      "atr": 0.0639,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OKB",
+      "pnl": 0.0158,
+      "pnl_value": 13.1621,
+      "weight": 0.0132,
+      "rank": 51,
+      "atr": 0.0477,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0508,
+      "pnl_value": -34.9754,
+      "weight": 0.0109,
+      "rank": 39,
+      "atr": 0.0577,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OKB",
+      "rank": 51,
+      "atr": 0.0477,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 39,
+      "atr": 0.0577,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 31,
+      "atr": 0.0639,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HT",
+      "rank": 63,
+      "atr": 0.0682,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REEF",
+      "rank": 172,
+      "atr": 0.0887,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 63254.439,
+    "leverage": 0.0502,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0053,
+    "green_marketcap_pnt": 0
+  }
+}
