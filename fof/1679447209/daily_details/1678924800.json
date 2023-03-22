@@ -1,0 +1,170 @@
+{
+  "pnls": [
+    {
+      "name": "STX",
+      "pnl": 0.0392,
+      "pnl_value": 155.4348,
+      "weight": 0.0665,
+      "rank": 48,
+      "atr": 0.1117,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MX",
+      "pnl": 0.0288,
+      "pnl_value": 132.3157,
+      "weight": 0.077,
+      "rank": 169,
+      "atr": 0.0965,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.028,
+      "pnl_value": 325.8061,
+      "weight": 0.1951,
+      "rank": 1,
+      "atr": 0.0381,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "IMX",
+      "pnl": 0.0188,
+      "pnl_value": 77.5391,
+      "weight": 0.0693,
+      "rank": 57,
+      "atr": 0.1072,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ELF",
+      "pnl": 0.0067,
+      "pnl_value": 45.3827,
+      "weight": 0.114,
+      "rank": 160,
+      "atr": 0.0652,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": 0.0059,
+      "pnl_value": 25.3414,
+      "weight": 0.0717,
+      "rank": 122,
+      "atr": 0.1036,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GMX",
+      "pnl": -0.0407,
+      "pnl_value": -243.7992,
+      "weight": 0.1003,
+      "rank": 75,
+      "atr": 0.0741,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0852,
+      "pnl_value": -536.5849,
+      "weight": 0.1056,
+      "rank": 83,
+      "atr": 0.0704,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SNX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0381,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ELF",
+      "rank": 160,
+      "atr": 0.0652,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 83,
+      "atr": 0.0704,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GMX",
+      "rank": 75,
+      "atr": 0.0741,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MX",
+      "rank": 169,
+      "atr": 0.0965,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 122,
+      "atr": 0.1036,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IMX",
+      "rank": 57,
+      "atr": 0.1072,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 48,
+      "atr": 0.1117,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 59637.6059,
+    "leverage": 0.7995,
+    "atr": 0.0594,
+    "marketcap_pnt": 0.4317,
+    "green_marketcap_pnt": 0
+  }
+}
