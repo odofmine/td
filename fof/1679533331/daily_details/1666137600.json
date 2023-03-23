@@ -1,0 +1,248 @@
+{
+  "pnls": [
+    {
+      "name": "TWT",
+      "pnl": 0.0291,
+      "pnl_value": 23.965,
+      "weight": 0.013,
+      "rank": 76,
+      "atr": 0.0498,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0067,
+      "pnl_value": -3.8545,
+      "weight": 0.0091,
+      "rank": 136,
+      "atr": 0.071,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0125,
+      "pnl_value": -8.3267,
+      "weight": 0.0105,
+      "rank": 50,
+      "atr": 0.0617,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.0142,
+      "pnl_value": -16.7172,
+      "weight": 0.0185,
+      "rank": 51,
+      "atr": 0.0351,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0226,
+      "pnl_value": -17.1826,
+      "weight": 0.012,
+      "rank": 11,
+      "atr": 0.0539,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0341,
+      "pnl_value": -22.4698,
+      "weight": 0.0104,
+      "rank": 99,
+      "atr": 0.0619,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "PYR",
+      "pnl": -0.0411,
+      "pnl_value": -19.5781,
+      "weight": 0.0075,
+      "rank": 176,
+      "atr": 0.0861,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0536,
+      "pnl_value": -24.4817,
+      "weight": 0.0072,
+      "rank": 158,
+      "atr": 0.089,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POLY",
+      "pnl": -0.06,
+      "pnl_value": -22.8451,
+      "weight": 0.006,
+      "rank": 119,
+      "atr": 0.1067,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0614,
+      "pnl_value": -37.3948,
+      "weight": 0.0096,
+      "rank": 29,
+      "atr": 0.0676,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REEF",
+      "pnl": -0.0624,
+      "pnl_value": -32.8545,
+      "weight": 0.0083,
+      "rank": 153,
+      "atr": 0.0777,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FXS",
+      "pnl": -0.0932,
+      "pnl_value": -50.2788,
+      "weight": 0.0085,
+      "rank": 184,
+      "atr": 0.0758,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ENS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OKB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 51,
+      "atr": 0.0351,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 76,
+      "atr": 0.0498,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 11,
+      "atr": 0.0539,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 50,
+      "atr": 0.0617,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 99,
+      "atr": 0.0619,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 29,
+      "atr": 0.0676,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 136,
+      "atr": 0.071,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FXS",
+      "rank": 184,
+      "atr": 0.0758,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REEF",
+      "rank": 153,
+      "atr": 0.0777,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PYR",
+      "rank": 176,
+      "atr": 0.0861,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 158,
+      "atr": 0.089,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POLY",
+      "rank": 119,
+      "atr": 0.1067,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0037,
+    "cum_pnl": 63217.8103,
+    "leverage": 0.1206,
+    "atr": 0.0077,
+    "marketcap_pnt": 0.0141,
+    "green_marketcap_pnt": 0
+  }
+}
