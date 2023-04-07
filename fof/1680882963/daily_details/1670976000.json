@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "RLC",
+      "pnl": 0.0043,
+      "pnl_value": 1.8413,
+      "weight": 0.0071,
+      "rank": 187,
+      "atr": 0.0934,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0098,
+      "pnl_value": -7.5999,
+      "weight": 0.013,
+      "rank": 2,
+      "atr": 0.0515,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BSV",
+      "pnl": -0.0239,
+      "pnl_value": -19.4402,
+      "weight": 0.0136,
+      "rank": 47,
+      "atr": 0.0493,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SSV",
+      "pnl": -0.033,
+      "pnl_value": -12.9934,
+      "weight": 0.0066,
+      "rank": 167,
+      "atr": 0.1012,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.1032,
+      "pnl_value": -61.6171,
+      "weight": 0.01,
+      "rank": 152,
+      "atr": 0.0669,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "APE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BSV",
+      "rank": 47,
+      "atr": 0.0493,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0515,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 152,
+      "atr": 0.0669,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 187,
+      "atr": 0.0934,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SSV",
+      "rank": 167,
+      "atr": 0.1012,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0017,
+    "cum_pnl": 59600.1408,
+    "leverage": 0.0503,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.1854,
+    "green_marketcap_pnt": 0
+  }
+}

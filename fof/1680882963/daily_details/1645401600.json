@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "API3",
+      "pnl": -0.178,
+      "pnl_value": -113.6108,
+      "weight": 0.01,
+      "rank": 172,
+      "atr": 0.1126,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "API3",
+      "rank": 172,
+      "atr": 0.1126,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0018,
+    "cum_pnl": 63706.3021,
+    "leverage": 0.01,
+    "atr": 0.0011,
+    "marketcap_pnt": 0.0001,
+    "green_marketcap_pnt": 0
+  }
+}

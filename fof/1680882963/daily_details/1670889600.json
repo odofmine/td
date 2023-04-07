@@ -1,0 +1,105 @@
+{
+  "pnls": [
+    {
+      "name": "RLC",
+      "pnl": 0.0105,
+      "pnl_value": 4.5961,
+      "weight": 0.0073,
+      "rank": 187,
+      "atr": 0.0955,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BSV",
+      "pnl": -0.0313,
+      "pnl_value": -27.7195,
+      "weight": 0.0148,
+      "rank": 47,
+      "atr": 0.047,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "APE",
+      "pnl": -0.0727,
+      "pnl_value": -35.1876,
+      "weight": 0.0081,
+      "rank": 30,
+      "atr": 0.0857,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SSV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ILV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TWT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BSV",
+      "rank": 47,
+      "atr": 0.047,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "APE",
+      "rank": 30,
+      "atr": 0.0857,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 187,
+      "atr": 0.0955,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 59699.9501,
+    "leverage": 0.0302,
+    "atr": 0.0021,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}
