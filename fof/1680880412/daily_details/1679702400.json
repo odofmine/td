@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "CELR",
+      "pnl": 0.0521,
+      "pnl_value": 224.8742,
+      "weight": 0.085,
+      "rank": 184,
+      "atr": 0.0836,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0408,
+      "pnl_value": 269.1326,
+      "weight": 0.1298,
+      "rank": 6,
+      "atr": 0.0548,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.0996,
+      "pnl_value": -429.7779,
+      "weight": 0.085,
+      "rank": 114,
+      "atr": 0.0836,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0548,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 114,
+      "atr": 0.0836,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 184,
+      "atr": 0.0836,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0013,
+    "cum_pnl": 50850.6164,
+    "leverage": 0.2998,
+    "atr": 0.0213,
+    "marketcap_pnt": 0.017,
+    "green_marketcap_pnt": 0
+  }
+}

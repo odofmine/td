@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "OMG",
+      "pnl": 0.1278,
+      "pnl_value": 447.7531,
+      "weight": 0.068,
+      "rank": 114,
+      "atr": 0.0901,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.033,
+      "pnl_value": -174.7493,
+      "weight": 0.1027,
+      "rank": 7,
+      "atr": 0.0597,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0404,
+      "pnl_value": -277.8174,
+      "weight": 0.1336,
+      "rank": 29,
+      "atr": 0.0459,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0418,
+      "pnl_value": -253.4881,
+      "weight": 0.1177,
+      "rank": 6,
+      "atr": 0.0521,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELR",
+      "pnl": -0.0422,
+      "pnl_value": -166.0027,
+      "weight": 0.0763,
+      "rank": 184,
+      "atr": 0.0803,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0558,
+      "pnl_value": -291.3677,
+      "weight": 0.1013,
+      "rank": 20,
+      "atr": 0.0605,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MAGIC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 29,
+      "atr": 0.0459,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0521,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 7,
+      "atr": 0.0597,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 20,
+      "atr": 0.0605,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 184,
+      "atr": 0.0803,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 114,
+      "atr": 0.0901,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0139,
+    "cum_pnl": 50786.3875,
+    "leverage": 0.5996,
+    "atr": 0.0368,
+    "marketcap_pnt": 0.0321,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "ADA",
+      "pnl": 0.0601,
+      "pnl_value": 307.3919,
+      "weight": 0.0994,
+      "rank": 7,
+      "atr": 0.0574,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0565,
+      "pnl_value": 381.4709,
+      "weight": 0.1312,
+      "rank": 27,
+      "atr": 0.0435,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.01,
+      "pnl_value": 56.4679,
+      "weight": 0.1102,
+      "rank": 6,
+      "atr": 0.0518,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": 0.007,
+      "pnl_value": 21.3056,
+      "weight": 0.0589,
+      "rank": 122,
+      "atr": 0.0968,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RPL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 27,
+      "atr": 0.0435,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0518,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 7,
+      "atr": 0.0574,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 122,
+      "atr": 0.0968,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0149,
+    "cum_pnl": 52229.3197,
+    "leverage": 0.3997,
+    "atr": 0.0228,
+    "marketcap_pnt": 0.0327,
+    "green_marketcap_pnt": 0
+  }
+}

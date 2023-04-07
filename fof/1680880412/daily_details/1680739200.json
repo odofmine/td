@@ -1,0 +1,248 @@
+{
+  "pnls": [
+    {
+      "name": "INJ",
+      "pnl": 0.0179,
+      "pnl_value": 17.0919,
+      "weight": 0.0179,
+      "rank": 102,
+      "atr": 0.0876,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOST",
+      "pnl": 0.0159,
+      "pnl_value": 25.6269,
+      "weight": 0.0302,
+      "rank": 159,
+      "atr": 0.0519,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.0011,
+      "pnl_value": -1.529,
+      "weight": 0.0258,
+      "rank": 16,
+      "atr": 0.0607,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0077,
+      "pnl_value": -10.5833,
+      "weight": 0.0259,
+      "rank": 60,
+      "atr": 0.0604,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOTX",
+      "pnl": -0.0082,
+      "pnl_value": -10.2029,
+      "weight": 0.0232,
+      "rank": 137,
+      "atr": 0.0674,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0155,
+      "pnl_value": -22.8252,
+      "weight": 0.0276,
+      "rank": 48,
+      "atr": 0.0567,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0191,
+      "pnl_value": -40.8953,
+      "weight": 0.0402,
+      "rank": 2,
+      "atr": 0.039,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0208,
+      "pnl_value": -28.8791,
+      "weight": 0.026,
+      "rank": 24,
+      "atr": 0.0602,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.0286,
+      "pnl_value": -27.0265,
+      "weight": 0.0177,
+      "rank": 116,
+      "atr": 0.0882,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0582,
+      "pnl_value": -57.4421,
+      "weight": 0.0185,
+      "rank": 140,
+      "atr": 0.0848,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0784,
+      "pnl_value": -100.0266,
+      "weight": 0.0239,
+      "rank": 8,
+      "atr": 0.0656,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": -0.1074,
+      "pnl_value": -128.9109,
+      "weight": 0.0225,
+      "rank": 132,
+      "atr": 0.0696,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ACH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ONE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.039,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 159,
+      "atr": 0.0519,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 48,
+      "atr": 0.0567,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 24,
+      "atr": 0.0602,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 60,
+      "atr": 0.0604,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 16,
+      "atr": 0.0607,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 8,
+      "atr": 0.0656,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 137,
+      "atr": 0.0674,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 132,
+      "atr": 0.0696,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 140,
+      "atr": 0.0848,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 102,
+      "atr": 0.0876,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 116,
+      "atr": 0.0882,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0072,
+    "cum_pnl": 52979.2006,
+    "leverage": 0.2994,
+    "atr": 0.0188,
+    "marketcap_pnt": 0.2064,
+    "green_marketcap_pnt": 0
+  }
+}

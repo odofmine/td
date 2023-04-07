@@ -1,0 +1,224 @@
+{
+  "pnls": [
+    {
+      "name": "JST",
+      "pnl": 0.0308,
+      "pnl_value": 0.055,
+      "weight": 0.0099,
+      "rank": 118,
+      "atr": 0.0675,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TWT",
+      "pnl": 0.0146,
+      "pnl_value": 0.0357,
+      "weight": 0.0136,
+      "rank": 76,
+      "atr": 0.0495,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FXS",
+      "pnl": 0.0067,
+      "pnl_value": 0.0121,
+      "weight": 0.01,
+      "rank": 184,
+      "atr": 0.067,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0242,
+      "pnl_value": -0.0462,
+      "weight": 0.0106,
+      "rank": 45,
+      "atr": 0.0636,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0349,
+      "pnl_value": -0.0642,
+      "weight": 0.0102,
+      "rank": 50,
+      "atr": 0.0661,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0416,
+      "pnl_value": -0.0899,
+      "weight": 0.012,
+      "rank": 11,
+      "atr": 0.0558,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WOO",
+      "pnl": -0.0436,
+      "pnl_value": -0.0739,
+      "weight": 0.0094,
+      "rank": 135,
+      "atr": 0.0712,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0623,
+      "pnl_value": -0.0831,
+      "weight": 0.0074,
+      "rank": 158,
+      "atr": 0.0902,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REEF",
+      "pnl": -0.0651,
+      "pnl_value": -0.0951,
+      "weight": 0.0081,
+      "rank": 153,
+      "atr": 0.0826,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0801,
+      "pnl_value": -0.1328,
+      "weight": 0.0092,
+      "rank": 136,
+      "atr": 0.0728,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PYR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CKB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TWT",
+      "rank": 76,
+      "atr": 0.0495,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 11,
+      "atr": 0.0558,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 45,
+      "atr": 0.0636,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 50,
+      "atr": 0.0661,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FXS",
+      "rank": 184,
+      "atr": 0.067,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "JST",
+      "rank": 118,
+      "atr": 0.0675,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WOO",
+      "rank": 135,
+      "atr": 0.0712,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 136,
+      "atr": 0.0728,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REEF",
+      "rank": 153,
+      "atr": 0.0826,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 158,
+      "atr": 0.0902,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0027,
+    "cum_pnl": 178.7782,
+    "leverage": 0.1004,
+    "atr": 0.0067,
+    "marketcap_pnt": 0.0114,
+    "green_marketcap_pnt": 0
+  }
+}

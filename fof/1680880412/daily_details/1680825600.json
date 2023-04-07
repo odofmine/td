@@ -1,0 +1,306 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0375,
+      "rank": 2,
+      "atr": 0.0394,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0257,
+      "rank": 48,
+      "atr": 0.0574,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOST",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0257,
+      "rank": 159,
+      "atr": 0.0575,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0251,
+      "rank": 50,
+      "atr": 0.0587,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AVAX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0246,
+      "rank": 16,
+      "atr": 0.06,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0242,
+      "rank": 60,
+      "atr": 0.061,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GLM",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0238,
+      "rank": 142,
+      "atr": 0.062,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VET",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0227,
+      "rank": 35,
+      "atr": 0.0651,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOTX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0221,
+      "rank": 137,
+      "atr": 0.0669,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0205,
+      "rank": 8,
+      "atr": 0.0721,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AUDIO",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.019,
+      "rank": 129,
+      "atr": 0.0777,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0185,
+      "rank": 145,
+      "atr": 0.0798,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0183,
+      "rank": 132,
+      "atr": 0.0807,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0168,
+      "rank": 102,
+      "atr": 0.0875,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0162,
+      "rank": 140,
+      "atr": 0.0908,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ACH",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0142,
+      "rank": 175,
+      "atr": 0.104,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CELO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0394,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 48,
+      "atr": 0.0574,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 159,
+      "atr": 0.0575,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 50,
+      "atr": 0.0587,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 16,
+      "atr": 0.06,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 60,
+      "atr": 0.061,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GLM",
+      "rank": 142,
+      "atr": 0.062,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 35,
+      "atr": 0.0651,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 137,
+      "atr": 0.0669,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 8,
+      "atr": 0.0721,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AUDIO",
+      "rank": 129,
+      "atr": 0.0777,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 145,
+      "atr": 0.0798,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 132,
+      "atr": 0.0807,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 102,
+      "atr": 0.0875,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 140,
+      "atr": 0.0908,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ACH",
+      "rank": 175,
+      "atr": 0.104,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0,
+    "cum_pnl": 0,
+    "leverage": 0.3549,
+    "atr": 0.0236,
+    "marketcap_pnt": 0.2068,
+    "green_marketcap_pnt": 0
+  }
+}

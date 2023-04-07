@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.0208,
+      "pnl_value": 109.4287,
+      "weight": 0.1037,
+      "rank": 14,
+      "atr": 0.0622,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0108,
+      "pnl_value": 65.754,
+      "weight": 0.1195,
+      "rank": 6,
+      "atr": 0.054,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELR",
+      "pnl": -0.0018,
+      "pnl_value": -7.0387,
+      "weight": 0.0766,
+      "rank": 184,
+      "atr": 0.0842,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.054,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 14,
+      "atr": 0.0622,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 184,
+      "atr": 0.0842,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0033,
+    "cum_pnl": 51018.7604,
+    "leverage": 0.2998,
+    "atr": 0.0194,
+    "marketcap_pnt": 0.0219,
+    "green_marketcap_pnt": 0
+  }
+}

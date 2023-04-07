@@ -1,0 +1,184 @@
+{
+  "pnls": [
+    {
+      "name": "INJ",
+      "pnl": 0.0945,
+      "pnl_value": 342.6985,
+      "weight": 0.0694,
+      "rank": 122,
+      "atr": 0.0957,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": 0.0534,
+      "pnl_value": 266.3411,
+      "weight": 0.0955,
+      "rank": 160,
+      "atr": 0.0696,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AVAX",
+      "pnl": 0.0051,
+      "pnl_value": 26.649,
+      "weight": 0.1004,
+      "rank": 16,
+      "atr": 0.0662,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0055,
+      "pnl_value": -32.4443,
+      "weight": 0.1123,
+      "rank": 19,
+      "atr": 0.0592,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RPL",
+      "pnl": -0.0115,
+      "pnl_value": -40.8715,
+      "weight": 0.0682,
+      "rank": 60,
+      "atr": 0.0974,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.0143,
+      "pnl_value": -49.7903,
+      "weight": 0.0668,
+      "rank": 44,
+      "atr": 0.0995,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0161,
+      "pnl_value": -100.7769,
+      "weight": 0.1202,
+      "rank": 7,
+      "atr": 0.0553,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAND",
+      "pnl": -0.0198,
+      "pnl_value": -81.108,
+      "weight": 0.0784,
+      "rank": 148,
+      "atr": 0.0848,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0348,
+      "pnl_value": -286.6662,
+      "weight": 0.1579,
+      "rank": 27,
+      "atr": 0.0421,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0523,
+      "pnl_value": -356.5438,
+      "weight": 0.1306,
+      "rank": 6,
+      "atr": 0.0509,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 27,
+      "atr": 0.0421,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0509,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 7,
+      "atr": 0.0553,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 19,
+      "atr": 0.0592,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 16,
+      "atr": 0.0662,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 160,
+      "atr": 0.0696,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAND",
+      "rank": 148,
+      "atr": 0.0848,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 122,
+      "atr": 0.0957,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RPL",
+      "rank": 60,
+      "atr": 0.0974,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 44,
+      "atr": 0.0995,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.006,
+    "cum_pnl": 51916.8072,
+    "leverage": 0.9997,
+    "atr": 0.0665,
+    "marketcap_pnt": 0.0429,
+    "green_marketcap_pnt": 0
+  }
+}

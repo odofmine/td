@@ -1,0 +1,218 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0202,
+      "pnl_value": 59.5887,
+      "weight": 0.0551,
+      "rank": 2,
+      "atr": 0.0398,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOST",
+      "pnl": 0.0198,
+      "pnl_value": 43.0091,
+      "weight": 0.0406,
+      "rank": 159,
+      "atr": 0.054,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.0142,
+      "pnl_value": 25.8024,
+      "weight": 0.0341,
+      "rank": 132,
+      "atr": 0.0643,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": 0.0121,
+      "pnl_value": 16.0023,
+      "weight": 0.0248,
+      "rank": 102,
+      "atr": 0.0883,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0027,
+      "pnl_value": 5.6135,
+      "weight": 0.0383,
+      "rank": 48,
+      "atr": 0.0572,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.005,
+      "pnl_value": -10.4108,
+      "weight": 0.0392,
+      "rank": 12,
+      "atr": 0.0559,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ACH",
+      "pnl": -0.0106,
+      "pnl_value": -11.1003,
+      "weight": 0.0196,
+      "rank": 175,
+      "atr": 0.1115,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOTX",
+      "pnl": -0.0119,
+      "pnl_value": -20.8638,
+      "weight": 0.0328,
+      "rank": 137,
+      "atr": 0.0668,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.023,
+      "pnl_value": -31.7735,
+      "weight": 0.0258,
+      "rank": 135,
+      "atr": 0.0848,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0265,
+      "pnl_value": -49.2251,
+      "weight": 0.0348,
+      "rank": 8,
+      "atr": 0.063,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0345,
+      "pnl_value": -52.0677,
+      "weight": 0.0282,
+      "rank": 140,
+      "atr": 0.0776,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.0412,
+      "pnl_value": -57.1876,
+      "weight": 0.026,
+      "rank": 116,
+      "atr": 0.0843,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0398,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 159,
+      "atr": 0.054,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 12,
+      "atr": 0.0559,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 48,
+      "atr": 0.0572,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 8,
+      "atr": 0.063,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 132,
+      "atr": 0.0643,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 137,
+      "atr": 0.0668,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 140,
+      "atr": 0.0776,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 116,
+      "atr": 0.0843,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 135,
+      "atr": 0.0848,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 102,
+      "atr": 0.0883,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ACH",
+      "rank": 175,
+      "atr": 0.1115,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0015,
+    "cum_pnl": 53364.8027,
+    "leverage": 0.3993,
+    "atr": 0.0263,
+    "marketcap_pnt": 0.2051,
+    "green_marketcap_pnt": 0
+  }
+}
