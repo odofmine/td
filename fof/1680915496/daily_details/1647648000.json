@@ -1,0 +1,211 @@
+{
+  "pnls": [
+    {
+      "name": "SNX",
+      "pnl": 0.0291,
+      "pnl_value": 16.0109,
+      "weight": 0.0087,
+      "rank": 121,
+      "atr": 0.0944,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEN",
+      "pnl": 0.0226,
+      "pnl_value": 12.0414,
+      "weight": 0.0084,
+      "rank": 124,
+      "atr": 0.0984,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0119,
+      "pnl_value": 9.7429,
+      "weight": 0.0129,
+      "rank": 36,
+      "atr": 0.0638,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RUNE",
+      "pnl": 0.0027,
+      "pnl_value": 1.6394,
+      "weight": 0.0095,
+      "rank": 49,
+      "atr": 0.0867,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": 0.0011,
+      "pnl_value": 0.6771,
+      "weight": 0.01,
+      "rank": 76,
+      "atr": 0.0825,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GRT",
+      "pnl": 0.0005,
+      "pnl_value": 0.2403,
+      "weight": 0.0078,
+      "rank": 57,
+      "atr": 0.1056,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0021,
+      "pnl_value": -1.0576,
+      "weight": 0.0081,
+      "rank": 75,
+      "atr": 0.1016,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.0053,
+      "pnl_value": -3.3398,
+      "weight": 0.01,
+      "rank": 22,
+      "atr": 0.082,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0184,
+      "pnl_value": -14.7017,
+      "weight": 0.0126,
+      "rank": 89,
+      "atr": 0.0652,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0186,
+      "pnl_value": -11.997,
+      "weight": 0.0102,
+      "rank": 120,
+      "atr": 0.0805,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0206,
+      "pnl_value": -14.7104,
+      "weight": 0.0113,
+      "rank": 69,
+      "atr": 0.0729,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 36,
+      "atr": 0.0638,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 89,
+      "atr": 0.0652,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 69,
+      "atr": 0.0729,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 120,
+      "atr": 0.0805,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 22,
+      "atr": 0.082,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 76,
+      "atr": 0.0825,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 49,
+      "atr": 0.0867,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 121,
+      "atr": 0.0944,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 124,
+      "atr": 0.0984,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 75,
+      "atr": 0.1016,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GRT",
+      "rank": 57,
+      "atr": 0.1056,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 63283.2677,
+    "leverage": 0.1095,
+    "atr": 0.0091,
+    "marketcap_pnt": 0.011,
+    "green_marketcap_pnt": 0
+  }
+}

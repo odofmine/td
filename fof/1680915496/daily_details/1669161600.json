@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.1184,
+      "pnl_value": 72.0476,
+      "weight": 0.0101,
+      "rank": 15,
+      "atr": 0.061,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 15,
+      "atr": 0.061,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 60333.5215,
+    "leverage": 0.0101,
+    "atr": 0.0006,
+    "marketcap_pnt": 0.0056,
+    "green_marketcap_pnt": 0
+  }
+}
