@@ -1,0 +1,222 @@
+{
+  "pnls": [
+    {
+      "name": "SXP",
+      "pnl": 0.0933,
+      "pnl_value": 559.722,
+      "weight": 0.1005,
+      "rank": 182,
+      "atr": 0.0595,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": 0.0534,
+      "pnl_value": 273.7775,
+      "weight": 0.0859,
+      "rank": 160,
+      "atr": 0.0696,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AVAX",
+      "pnl": 0.0051,
+      "pnl_value": 27.3908,
+      "weight": 0.0903,
+      "rank": 16,
+      "atr": 0.0662,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAL",
+      "pnl": 0.0027,
+      "pnl_value": 15.1537,
+      "weight": 0.093,
+      "rank": 106,
+      "atr": 0.0643,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0055,
+      "pnl_value": -33.3465,
+      "weight": 0.101,
+      "rank": 19,
+      "atr": 0.0592,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0161,
+      "pnl_value": -103.5743,
+      "weight": 0.1081,
+      "rank": 7,
+      "atr": 0.0553,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAND",
+      "pnl": -0.0198,
+      "pnl_value": -83.3502,
+      "weight": 0.0705,
+      "rank": 148,
+      "atr": 0.0848,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0348,
+      "pnl_value": -294.6135,
+      "weight": 0.142,
+      "rank": 27,
+      "atr": 0.0421,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "1INCH",
+      "pnl": -0.039,
+      "pnl_value": -211.6991,
+      "weight": 0.091,
+      "rank": 91,
+      "atr": 0.0657,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0523,
+      "pnl_value": -366.2754,
+      "weight": 0.1174,
+      "rank": 6,
+      "atr": 0.0509,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 27,
+      "atr": 0.0421,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0509,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 7,
+      "atr": 0.0553,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 19,
+      "atr": 0.0592,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SXP",
+      "rank": 182,
+      "atr": 0.0595,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 106,
+      "atr": 0.0643,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "1INCH",
+      "rank": 91,
+      "atr": 0.0657,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 16,
+      "atr": 0.0662,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 160,
+      "atr": 0.0696,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAND",
+      "rank": 148,
+      "atr": 0.0848,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 122,
+      "atr": 0.0957,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RPL",
+      "rank": 60,
+      "atr": 0.0974,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRAC",
+      "rank": 192,
+      "atr": 0.0985,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 44,
+      "atr": 0.0995,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0036,
+    "cum_pnl": 59470.9433,
+    "leverage": 0.9997,
+    "atr": 0.0598,
+    "marketcap_pnt": 0.0417,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "pnls": [
+    {
+      "name": "ENJ",
+      "pnl": 0.0105,
+      "pnl_value": 12.176,
+      "weight": 0.0192,
+      "rank": 95,
+      "atr": 0.0744,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STORJ",
+      "pnl": -0.0032,
+      "pnl_value": -3.767,
+      "weight": 0.0192,
+      "rank": 179,
+      "atr": 0.0743,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0098,
+      "pnl_value": -13.898,
+      "weight": 0.0234,
+      "rank": 60,
+      "atr": 0.0609,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": -0.0137,
+      "pnl_value": -17.1153,
+      "weight": 0.0207,
+      "rank": 68,
+      "atr": 0.069,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BICO",
+      "pnl": -0.017,
+      "pnl_value": -17.7582,
+      "weight": 0.0173,
+      "rank": 161,
+      "atr": 0.0823,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LSK",
+      "pnl": -0.0183,
+      "pnl_value": -25.9775,
+      "weight": 0.0235,
+      "rank": 187,
+      "atr": 0.0608,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOTX",
+      "pnl": -1.0,
+      "pnl_value": -1337.8304,
+      "weight": 0.0221,
+      "rank": 137,
+      "atr": 0.0645,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RUNE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MIOTA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BAL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AUDIO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BAT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ACH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ICX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LSK",
+      "rank": 187,
+      "atr": 0.0608,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 60,
+      "atr": 0.0609,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 137,
+      "atr": 0.0645,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 68,
+      "atr": 0.069,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 179,
+      "atr": 0.0743,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 95,
+      "atr": 0.0744,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BICO",
+      "rank": 161,
+      "atr": 0.0823,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0232,
+    "cum_pnl": 59130.1405,
+    "leverage": 0.1454,
+    "atr": 0.01,
+    "marketcap_pnt": 0.0023,
+    "green_marketcap_pnt": 0
+  }
+}
