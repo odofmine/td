@@ -1,0 +1,184 @@
+{
+  "pnls": [
+    {
+      "name": "CVX",
+      "pnl": 0.0164,
+      "pnl_value": 11.4246,
+      "weight": 0.011,
+      "rank": 92,
+      "atr": 0.0667,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REEF",
+      "pnl": 0.0034,
+      "pnl_value": 1.7515,
+      "weight": 0.008,
+      "rank": 172,
+      "atr": 0.0914,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": 0.0032,
+      "pnl_value": 2.3103,
+      "weight": 0.0114,
+      "rank": 52,
+      "atr": 0.0643,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.0035,
+      "pnl_value": -3.287,
+      "weight": 0.0147,
+      "rank": 40,
+      "atr": 0.0501,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0308,
+      "pnl_value": -22.6563,
+      "weight": 0.0116,
+      "rank": 31,
+      "atr": 0.063,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0396,
+      "pnl_value": -36.7057,
+      "weight": 0.0146,
+      "rank": 24,
+      "atr": 0.0503,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0701,
+      "pnl_value": -54.3002,
+      "weight": 0.0122,
+      "rank": 6,
+      "atr": 0.0601,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0902,
+      "pnl_value": -61.2712,
+      "weight": 0.0107,
+      "rank": 141,
+      "atr": 0.0687,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": -0.1064,
+      "pnl_value": -68.889,
+      "weight": 0.0102,
+      "rank": 96,
+      "atr": 0.072,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PYR",
+      "pnl": -0.1145,
+      "pnl_value": -63.9647,
+      "weight": 0.0088,
+      "rank": 185,
+      "atr": 0.0837,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EGLD",
+      "rank": 40,
+      "atr": 0.0501,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 24,
+      "atr": 0.0503,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0601,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 31,
+      "atr": 0.063,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 52,
+      "atr": 0.0643,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVX",
+      "rank": 92,
+      "atr": 0.0667,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 141,
+      "atr": 0.0687,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 96,
+      "atr": 0.072,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PYR",
+      "rank": 185,
+      "atr": 0.0837,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REEF",
+      "rank": 172,
+      "atr": 0.0914,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0047,
+    "cum_pnl": 63196.426,
+    "leverage": 0.1132,
+    "atr": 0.0073,
+    "marketcap_pnt": 0.0377,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "STX",
+      "pnl": 0.0848,
+      "pnl_value": 0.1196,
+      "weight": 0.0084,
+      "rank": 81,
+      "atr": 0.099,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": 0.0694,
+      "pnl_value": 0.0968,
+      "weight": 0.0083,
+      "rank": 182,
+      "atr": 0.0991,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0219,
+      "pnl_value": -0.049,
+      "weight": 0.0133,
+      "rank": 39,
+      "atr": 0.0625,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FXS",
+      "pnl": -0.0286,
+      "pnl_value": -0.0552,
+      "weight": 0.0115,
+      "rank": 183,
+      "atr": 0.0721,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ILV",
+      "pnl": -0.042,
+      "pnl_value": -0.0571,
+      "weight": 0.0081,
+      "rank": 186,
+      "atr": 0.1025,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.0749,
+      "pnl_value": -0.122,
+      "weight": 0.0097,
+      "rank": 180,
+      "atr": 0.0851,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TWT",
+      "pnl": -0.1094,
+      "pnl_value": -0.2038,
+      "weight": 0.0111,
+      "rank": 38,
+      "atr": 0.0744,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 39,
+      "atr": 0.0625,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FXS",
+      "rank": 183,
+      "atr": 0.0721,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 38,
+      "atr": 0.0744,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 180,
+      "atr": 0.0851,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 81,
+      "atr": 0.099,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 182,
+      "atr": 0.0991,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ILV",
+      "rank": 186,
+      "atr": 0.1025,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 166.6128,
+    "leverage": 0.0704,
+    "atr": 0.0058,
+    "marketcap_pnt": 0.0035,
+    "green_marketcap_pnt": 0
+  }
+}

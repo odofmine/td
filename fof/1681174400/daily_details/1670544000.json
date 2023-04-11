@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "ANT",
+      "pnl": 0.0469,
+      "pnl_value": 0.0653,
+      "weight": 0.0083,
+      "rank": 182,
+      "atr": 0.0958,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FXS",
+      "pnl": 0.0166,
+      "pnl_value": 0.0306,
+      "weight": 0.011,
+      "rank": 199,
+      "atr": 0.0724,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TWT",
+      "pnl": -0.0192,
+      "pnl_value": -0.0335,
+      "weight": 0.0104,
+      "rank": 43,
+      "atr": 0.0764,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ASTR",
+      "pnl": -0.0274,
+      "pnl_value": -0.0478,
+      "weight": 0.0104,
+      "rank": 141,
+      "atr": 0.0763,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GLMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FXS",
+      "rank": 199,
+      "atr": 0.0724,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ASTR",
+      "rank": 141,
+      "atr": 0.0763,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 43,
+      "atr": 0.0764,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 182,
+      "atr": 0.0958,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 166.8578,
+    "leverage": 0.0401,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}
