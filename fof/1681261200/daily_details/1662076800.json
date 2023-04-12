@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "NEXO",
+      "pnl": 0.0218,
+      "pnl_value": 11.3129,
+      "weight": 0.008,
+      "rank": 70,
+      "atr": 0.0815,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0094,
+      "pnl_value": -5.0186,
+      "weight": 0.0082,
+      "rank": 24,
+      "atr": 0.0793,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAL",
+      "pnl": -0.0142,
+      "pnl_value": -7.5832,
+      "weight": 0.0082,
+      "rank": 114,
+      "atr": 0.0791,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0265,
+      "pnl_value": -26.4875,
+      "weight": 0.0154,
+      "rank": 17,
+      "atr": 0.0425,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 17,
+      "atr": 0.0425,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 114,
+      "atr": 0.0791,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 24,
+      "atr": 0.0793,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 70,
+      "atr": 0.0815,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 64897.1594,
+    "leverage": 0.0398,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0093,
+    "green_marketcap_pnt": 0
+  }
+}

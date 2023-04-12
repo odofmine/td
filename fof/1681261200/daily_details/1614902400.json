@@ -1,0 +1,255 @@
+{
+  "pnls": [
+    {
+      "name": "BNT",
+      "pnl": 0.0693,
+      "pnl_value": 9.4586,
+      "weight": 0.0227,
+      "rank": 80,
+      "atr": 0.0897,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RUNE",
+      "pnl": 0.0457,
+      "pnl_value": 4.5664,
+      "weight": 0.0166,
+      "rank": 64,
+      "atr": 0.1228,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": 0.0201,
+      "pnl_value": 2.442,
+      "weight": 0.0202,
+      "rank": 108,
+      "atr": 0.1007,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0041,
+      "pnl_value": -0.5009,
+      "weight": 0.0203,
+      "rank": 77,
+      "atr": 0.1003,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COTI",
+      "pnl": -0.0084,
+      "pnl_value": -1.2132,
+      "weight": 0.0239,
+      "rank": 165,
+      "atr": 0.0853,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAXP",
+      "pnl": -0.012,
+      "pnl_value": -1.4815,
+      "weight": 0.0206,
+      "rank": 182,
+      "atr": 0.0988,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0143,
+      "pnl_value": -1.6044,
+      "weight": 0.0187,
+      "rank": 142,
+      "atr": 0.1086,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0173,
+      "pnl_value": -1.9979,
+      "weight": 0.0192,
+      "rank": 71,
+      "atr": 0.1058,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EWT",
+      "pnl": -0.0431,
+      "pnl_value": -3.9411,
+      "weight": 0.0152,
+      "rank": 102,
+      "atr": 0.134,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.046,
+      "pnl_value": -4.8427,
+      "weight": 0.0175,
+      "rank": 140,
+      "atr": 0.1163,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0716,
+      "pnl_value": -11.1584,
+      "weight": 0.0259,
+      "rank": 25,
+      "atr": 0.0785,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MANA",
+      "pnl": -0.102,
+      "pnl_value": -8.4064,
+      "weight": 0.0137,
+      "rank": 100,
+      "atr": 0.1487,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FLOW",
+      "pnl": -0.1097,
+      "pnl_value": -19.9871,
+      "weight": 0.0303,
+      "rank": 88,
+      "atr": 0.0672,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RSR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "UNFI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLOW",
+      "rank": 88,
+      "atr": 0.0672,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 25,
+      "atr": 0.0785,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COTI",
+      "rank": 165,
+      "atr": 0.0853,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 80,
+      "atr": 0.0897,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAXP",
+      "rank": 182,
+      "atr": 0.0988,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 77,
+      "atr": 0.1003,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 108,
+      "atr": 0.1007,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 71,
+      "atr": 0.1058,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 142,
+      "atr": 0.1086,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 140,
+      "atr": 0.1163,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 64,
+      "atr": 0.1228,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EWT",
+      "rank": 102,
+      "atr": 0.134,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 100,
+      "atr": 0.1487,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0064,
+    "cum_pnl": 5975.7054,
+    "leverage": 0.2648,
+    "atr": 0.0265,
+    "marketcap_pnt": 0.0061,
+    "green_marketcap_pnt": 0
+  }
+}
