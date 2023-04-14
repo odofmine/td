@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "TWT",
+      "pnl": 0.3264,
+      "pnl_value": 266.0886,
+      "weight": 0.0136,
+      "rank": 81,
+      "atr": 0.0511,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DYDX",
+      "pnl": 0.2782,
+      "pnl_value": 108.3902,
+      "weight": 0.0065,
+      "rank": 179,
+      "atr": 0.1073,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TWT",
+      "rank": 81,
+      "atr": 0.0511,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DYDX",
+      "rank": 179,
+      "atr": 0.1073,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0062,
+    "cum_pnl": 60315.7019,
+    "leverage": 0.0201,
+    "atr": 0.0014,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}
