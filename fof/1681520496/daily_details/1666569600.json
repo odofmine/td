@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "NFT",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.014,
+      "rank": 145,
+      "atr": 0.0366,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0063,
+      "pnl_value": -3.8893,
+      "weight": 0.0097,
+      "rank": 11,
+      "atr": 0.0526,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAL",
+      "pnl": -0.0331,
+      "pnl_value": -16.1079,
+      "weight": 0.0077,
+      "rank": 113,
+      "atr": 0.066,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0413,
+      "pnl_value": -22.9943,
+      "weight": 0.0088,
+      "rank": 45,
+      "atr": 0.0584,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TWT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NFT",
+      "rank": 145,
+      "atr": 0.0366,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 11,
+      "atr": 0.0526,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 45,
+      "atr": 0.0584,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 113,
+      "atr": 0.066,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 63194.6516,
+    "leverage": 0.0402,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0103,
+    "green_marketcap_pnt": 0
+  }
+}
