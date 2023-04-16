@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "TWT",
+      "pnl": 0.0385,
+      "pnl_value": 17.959,
+      "weight": 0.0078,
+      "rank": 43,
+      "atr": 0.0764,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BSV",
+      "pnl": 0.0066,
+      "pnl_value": 4.7714,
+      "weight": 0.012,
+      "rank": 52,
+      "atr": 0.0498,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0271,
+      "pnl_value": -16.8555,
+      "weight": 0.0104,
+      "rank": 44,
+      "atr": 0.0573,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AXS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BSV",
+      "rank": 52,
+      "atr": 0.0498,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 44,
+      "atr": 0.0573,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 43,
+      "atr": 0.0764,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 59797.8648,
+    "leverage": 0.0302,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0033,
+    "green_marketcap_pnt": 0
+  }
+}
