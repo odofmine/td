@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "RUNE",
+      "pnl": 0.1148,
+      "pnl_value": 0.2036,
+      "weight": 0.0098,
+      "rank": 49,
+      "atr": 0.0918,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TWT",
+      "pnl": 0.1057,
+      "pnl_value": 0.1914,
+      "weight": 0.01,
+      "rank": 182,
+      "atr": 0.0897,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0877,
+      "pnl_value": 0.1604,
+      "weight": 0.0101,
+      "rank": 120,
+      "atr": 0.0889,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0101,
+      "pnl_value": -0.0196,
+      "weight": 0.0107,
+      "rank": 76,
+      "atr": 0.0842,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XNO",
+      "pnl": -0.1046,
+      "pnl_value": -0.1742,
+      "weight": 0.0092,
+      "rank": 180,
+      "atr": 0.0976,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BAT",
+      "rank": 76,
+      "atr": 0.0842,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 120,
+      "atr": 0.0889,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 182,
+      "atr": 0.0897,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 49,
+      "atr": 0.0918,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XNO",
+      "rank": 180,
+      "atr": 0.0976,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.002,
+    "cum_pnl": 180.381,
+    "leverage": 0.0498,
+    "atr": 0.0045,
+    "marketcap_pnt": 0.0024,
+    "green_marketcap_pnt": 0
+  }
+}

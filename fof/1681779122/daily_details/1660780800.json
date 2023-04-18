@@ -1,0 +1,189 @@
+{
+  "pnls": [
+    {
+      "name": "EOS",
+      "pnl": 0.002,
+      "pnl_value": 0.0039,
+      "weight": 0.0103,
+      "rank": 45,
+      "atr": 0.0707,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.0575,
+      "pnl_value": -0.0843,
+      "weight": 0.0079,
+      "rank": 159,
+      "atr": 0.0915,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0625,
+      "pnl_value": -0.1356,
+      "weight": 0.0117,
+      "rank": 50,
+      "atr": 0.0623,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0682,
+      "pnl_value": -0.129,
+      "weight": 0.0102,
+      "rank": 10,
+      "atr": 0.0713,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SHIB",
+      "pnl": -0.0886,
+      "pnl_value": -0.1577,
+      "weight": 0.0096,
+      "rank": 12,
+      "atr": 0.0755,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FLUX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "UMA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ADA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "API3",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ANKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GALA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GMT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOTX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CHZ",
+      "rank": 50,
+      "atr": 0.0623,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 45,
+      "atr": 0.0707,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 10,
+      "atr": 0.0713,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 12,
+      "atr": 0.0755,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 159,
+      "atr": 0.0915,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0027,
+    "cum_pnl": 183.9743,
+    "leverage": 0.0497,
+    "atr": 0.0036,
+    "marketcap_pnt": 0.0197,
+    "green_marketcap_pnt": 0
+  }
+}

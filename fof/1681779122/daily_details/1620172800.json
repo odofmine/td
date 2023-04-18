@@ -1,0 +1,263 @@
+{
+  "pnls": [
+    {
+      "name": "BCH",
+      "pnl": 0.5279,
+      "pnl_value": 2.7457,
+      "weight": 0.0889,
+      "rank": 10,
+      "atr": 0.0895,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.3549,
+      "pnl_value": 2.556,
+      "weight": 0.1231,
+      "rank": 31,
+      "atr": 0.0646,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.1664,
+      "pnl_value": 0.956,
+      "weight": 0.0982,
+      "rank": 11,
+      "atr": 0.081,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0986,
+      "pnl_value": 0.5181,
+      "weight": 0.0898,
+      "rank": 46,
+      "atr": 0.0886,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.0894,
+      "pnl_value": 0.4922,
+      "weight": 0.0941,
+      "rank": 12,
+      "atr": 0.0845,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0881,
+      "pnl_value": 0.7143,
+      "weight": 0.1386,
+      "rank": 2,
+      "atr": 0.0574,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RUNE",
+      "pnl": 0.0878,
+      "pnl_value": 0.4233,
+      "weight": 0.0824,
+      "rank": 45,
+      "atr": 0.0965,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0684,
+      "pnl_value": 0.4051,
+      "weight": 0.1012,
+      "rank": 3,
+      "atr": 0.0786,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": 0.0325,
+      "pnl_value": 0.168,
+      "weight": 0.0884,
+      "rank": 34,
+      "atr": 0.09,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0215,
+      "pnl_value": 0.1193,
+      "weight": 0.0949,
+      "rank": 56,
+      "atr": 0.0838,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "COMP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0574,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 31,
+      "atr": 0.0646,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 3,
+      "atr": 0.0786,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 11,
+      "atr": 0.081,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 56,
+      "atr": 0.0838,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 12,
+      "atr": 0.0845,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 46,
+      "atr": 0.0886,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 10,
+      "atr": 0.0895,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 34,
+      "atr": 0.09,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 45,
+      "atr": 0.0965,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 183,
+      "atr": 0.0988,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 143,
+      "atr": 0.1,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STRAX",
+      "rank": 162,
+      "atr": 0.114,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CTSI",
+      "rank": 196,
+      "atr": 0.1142,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XVS",
+      "rank": 90,
+      "atr": 0.1296,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALPHA",
+      "rank": 129,
+      "atr": 0.1322,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UTK",
+      "rank": 166,
+      "atr": 0.1521,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.1555,
+    "cum_pnl": 66.6068,
+    "leverage": 0.9996,
+    "atr": 0.0795,
+    "marketcap_pnt": 0.2324,
+    "green_marketcap_pnt": 0
+  }
+}

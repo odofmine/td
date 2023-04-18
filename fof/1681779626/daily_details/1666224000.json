@@ -1,0 +1,217 @@
+{
+  "pnls": [
+    {
+      "name": "NFT",
+      "pnl": 0.0164,
+      "pnl_value": 16.9074,
+      "weight": 0.0163,
+      "rank": 148,
+      "atr": 0.0381,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TWT",
+      "pnl": 0.0164,
+      "pnl_value": 13.277,
+      "weight": 0.0128,
+      "rank": 76,
+      "atr": 0.0486,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FXS",
+      "pnl": 0.0135,
+      "pnl_value": 6.2203,
+      "weight": 0.0073,
+      "rank": 184,
+      "atr": 0.0855,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0257,
+      "pnl_value": -16.1082,
+      "weight": 0.0099,
+      "rank": 45,
+      "atr": 0.0627,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0351,
+      "pnl_value": -21.9558,
+      "weight": 0.0099,
+      "rank": 50,
+      "atr": 0.0628,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0414,
+      "pnl_value": -29.6289,
+      "weight": 0.0113,
+      "rank": 11,
+      "atr": 0.055,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REEF",
+      "pnl": -0.0632,
+      "pnl_value": -29.9758,
+      "weight": 0.0075,
+      "rank": 153,
+      "atr": 0.0825,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0637,
+      "pnl_value": -27.0047,
+      "weight": 0.0067,
+      "rank": 158,
+      "atr": 0.0932,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0813,
+      "pnl_value": -45.2778,
+      "weight": 0.0088,
+      "rank": 136,
+      "atr": 0.0707,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PYR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "POLY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NFT",
+      "rank": 148,
+      "atr": 0.0381,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 76,
+      "atr": 0.0486,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 11,
+      "atr": 0.055,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 45,
+      "atr": 0.0627,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 50,
+      "atr": 0.0628,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 136,
+      "atr": 0.0707,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REEF",
+      "rank": 153,
+      "atr": 0.0825,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FXS",
+      "rank": 184,
+      "atr": 0.0855,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 158,
+      "atr": 0.0932,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0021,
+    "cum_pnl": 63138.7184,
+    "leverage": 0.0905,
+    "atr": 0.0056,
+    "marketcap_pnt": 0.0111,
+    "green_marketcap_pnt": 0
+  }
+}
