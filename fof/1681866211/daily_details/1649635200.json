@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": -0.0182,
+      "pnl_value": -9.7381,
+      "weight": 0.0077,
+      "rank": 101,
+      "atr": 0.0791,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0411,
+      "pnl_value": -34.8338,
+      "weight": 0.0122,
+      "rank": 32,
+      "atr": 0.0498,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTRST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 32,
+      "atr": 0.0498,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 101,
+      "atr": 0.0791,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0006,
+    "cum_pnl": 69411.1295,
+    "leverage": 0.0199,
+    "atr": 0.0012,
+    "marketcap_pnt": 0.0026,
+    "green_marketcap_pnt": 0
+  }
+}

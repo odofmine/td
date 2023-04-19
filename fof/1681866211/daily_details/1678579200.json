@@ -1,0 +1,31 @@
+{
+  "pnls": [
+    {
+      "name": "LEO",
+      "pnl": 0.0603,
+      "pnl_value": 36.6336,
+      "weight": 0.0101,
+      "rank": 22,
+      "atr": 0.0283,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 22,
+      "atr": 0.0283,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 60173.522,
+    "leverage": 0.0101,
+    "atr": 0.0003,
+    "marketcap_pnt": 0.0032,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "pnls": [
+    {
+      "name": "AR",
+      "pnl": 0.2962,
+      "pnl_value": 0.509,
+      "weight": 0.0095,
+      "rank": 102,
+      "atr": 0.0648,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ASTR",
+      "pnl": 0.1103,
+      "pnl_value": 0.1715,
+      "weight": 0.0086,
+      "rank": 167,
+      "atr": 0.0714,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MINA",
+      "pnl": 0.0473,
+      "pnl_value": 0.0778,
+      "weight": 0.0091,
+      "rank": 76,
+      "atr": 0.0676,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": 0.044,
+      "pnl_value": 0.0598,
+      "weight": 0.0075,
+      "rank": 155,
+      "atr": 0.082,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0294,
+      "pnl_value": 0.0913,
+      "weight": 0.0172,
+      "rank": 4,
+      "atr": 0.0358,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": 0.0221,
+      "pnl_value": 0.044,
+      "weight": 0.011,
+      "rank": 29,
+      "atr": 0.0556,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0146,
+      "pnl_value": 0.0357,
+      "weight": 0.0135,
+      "rank": 21,
+      "atr": 0.0455,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.0015,
+      "pnl_value": -0.0034,
+      "weight": 0.0126,
+      "rank": 40,
+      "atr": 0.0486,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SHIB",
+      "pnl": -0.0025,
+      "pnl_value": -0.0036,
+      "weight": 0.0077,
+      "rank": 13,
+      "atr": 0.0793,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0042,
+      "pnl_value": -0.0061,
+      "weight": 0.0081,
+      "rank": 41,
+      "atr": 0.0756,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0254,
+      "pnl_value": -0.0426,
+      "weight": 0.0093,
+      "rank": 17,
+      "atr": 0.0662,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RNDR",
+      "pnl": -0.0389,
+      "pnl_value": -0.057,
+      "weight": 0.0081,
+      "rank": 164,
+      "atr": 0.0759,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0395,
+      "pnl_value": -0.0614,
+      "weight": 0.0086,
+      "rank": 8,
+      "atr": 0.0712,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FXS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AVAX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "POWR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SAND",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 4,
+      "atr": 0.0358,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 21,
+      "atr": 0.0455,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 40,
+      "atr": 0.0486,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 29,
+      "atr": 0.0556,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 102,
+      "atr": 0.0648,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 17,
+      "atr": 0.0662,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MINA",
+      "rank": 76,
+      "atr": 0.0676,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 8,
+      "atr": 0.0712,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ASTR",
+      "rank": 167,
+      "atr": 0.0714,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 41,
+      "atr": 0.0756,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 164,
+      "atr": 0.0759,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 13,
+      "atr": 0.0793,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 155,
+      "atr": 0.082,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0045,
+    "cum_pnl": 180.6972,
+    "leverage": 0.1308,
+    "atr": 0.008,
+    "marketcap_pnt": 0.0878,
+    "green_marketcap_pnt": 0
+  }
+}
