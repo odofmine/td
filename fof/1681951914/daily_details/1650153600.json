@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "CFX",
+      "pnl": -0.0047,
+      "pnl_value": -0.0084,
+      "weight": 0.009,
+      "rank": 179,
+      "atr": 0.1046,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0667,
+      "pnl_value": -0.1455,
+      "weight": 0.0109,
+      "rank": 101,
+      "atr": 0.0861,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KNC",
+      "rank": 101,
+      "atr": 0.0861,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CFX",
+      "rank": 179,
+      "atr": 0.1046,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 198.9462,
+    "leverage": 0.0199,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

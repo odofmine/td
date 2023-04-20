@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.0544,
+      "pnl_value": 0.8297,
+      "weight": 0.0937,
+      "rank": 6,
+      "atr": 0.0525,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0409,
+      "pnl_value": 0.7075,
+      "weight": 0.1062,
+      "rank": 27,
+      "atr": 0.0463,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CELR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 27,
+      "atr": 0.0463,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0525,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0094,
+    "cum_pnl": 163.2502,
+    "leverage": 0.1999,
+    "atr": 0.0098,
+    "marketcap_pnt": 0.0218,
+    "green_marketcap_pnt": 0
+  }
+}
