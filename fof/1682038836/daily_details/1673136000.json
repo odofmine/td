@@ -1,0 +1,167 @@
+{
+  "pnls": [
+    {
+      "name": "SSV",
+      "pnl": 0.1638,
+      "pnl_value": 79.2616,
+      "weight": 0.0081,
+      "rank": 163,
+      "atr": 0.0785,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OP",
+      "pnl": 0.1507,
+      "pnl_value": 83.6963,
+      "weight": 0.0093,
+      "rank": 103,
+      "atr": 0.0684,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "APE",
+      "pnl": 0.0669,
+      "pnl_value": 39.532,
+      "weight": 0.0099,
+      "rank": 30,
+      "atr": 0.0644,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": 0.0373,
+      "pnl_value": 28.9823,
+      "weight": 0.013,
+      "rank": 24,
+      "atr": 0.0492,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "JASMY",
+      "pnl": 0.0313,
+      "pnl_value": 13.4676,
+      "weight": 0.0072,
+      "rank": 130,
+      "atr": 0.0882,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0288,
+      "pnl_value": 22.5414,
+      "weight": 0.0131,
+      "rank": 12,
+      "atr": 0.049,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0165,
+      "pnl_value": 10.6323,
+      "weight": 0.0108,
+      "rank": 25,
+      "atr": 0.0595,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0011,
+      "pnl_value": 0.6602,
+      "weight": 0.0099,
+      "rank": 73,
+      "atr": 0.0643,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FET",
+      "pnl": -0.1141,
+      "pnl_value": -61.3531,
+      "weight": 0.009,
+      "rank": 193,
+      "atr": 0.071,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 12,
+      "atr": 0.049,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 24,
+      "atr": 0.0492,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 25,
+      "atr": 0.0595,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 73,
+      "atr": 0.0643,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "APE",
+      "rank": 30,
+      "atr": 0.0644,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OP",
+      "rank": 103,
+      "atr": 0.0684,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FET",
+      "rank": 193,
+      "atr": 0.071,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SSV",
+      "rank": 163,
+      "atr": 0.0785,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "JASMY",
+      "rank": 130,
+      "atr": 0.0882,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0036,
+    "cum_pnl": 59941.021,
+    "leverage": 0.0903,
+    "atr": 0.0057,
+    "marketcap_pnt": 0.0156,
+    "green_marketcap_pnt": 0
+  }
+}

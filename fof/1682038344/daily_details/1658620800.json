@@ -1,0 +1,464 @@
+{
+  "pnls": [
+    {
+      "name": "SNX",
+      "pnl": 0.0591,
+      "pnl_value": 0.0959,
+      "weight": 0.0084,
+      "rank": 100,
+      "atr": 0.1187,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": 0.0462,
+      "pnl_value": 0.0749,
+      "weight": 0.0084,
+      "rank": 64,
+      "atr": 0.119,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": 0.0362,
+      "pnl_value": 0.0693,
+      "weight": 0.0099,
+      "rank": 137,
+      "atr": 0.1011,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0344,
+      "pnl_value": 0.091,
+      "weight": 0.0137,
+      "rank": 48,
+      "atr": 0.073,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": 0.01,
+      "pnl_value": 0.016,
+      "weight": 0.0083,
+      "rank": 26,
+      "atr": 0.1197,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0008,
+      "pnl_value": -0.0019,
+      "weight": 0.0126,
+      "rank": 25,
+      "atr": 0.0795,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0099,
+      "pnl_value": -0.0229,
+      "weight": 0.012,
+      "rank": 8,
+      "atr": 0.0833,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.0102,
+      "pnl_value": -0.024,
+      "weight": 0.0122,
+      "rank": 99,
+      "atr": 0.0821,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FLOW",
+      "pnl": -0.0108,
+      "pnl_value": -0.0186,
+      "weight": 0.0089,
+      "rank": 33,
+      "atr": 0.1126,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ACA",
+      "pnl": -0.0136,
+      "pnl_value": -0.0166,
+      "weight": 0.0063,
+      "rank": 174,
+      "atr": 0.1585,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FLUX",
+      "pnl": -0.0137,
+      "pnl_value": -0.0222,
+      "weight": 0.0084,
+      "rank": 177,
+      "atr": 0.1186,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0143,
+      "pnl_value": -0.0277,
+      "weight": 0.01,
+      "rank": 27,
+      "atr": 0.1001,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.0144,
+      "pnl_value": -0.0301,
+      "weight": 0.0108,
+      "rank": 112,
+      "atr": 0.0924,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0152,
+      "pnl_value": -0.0284,
+      "weight": 0.0097,
+      "rank": 79,
+      "atr": 0.1031,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": -0.0157,
+      "pnl_value": -0.0289,
+      "weight": 0.0095,
+      "rank": 66,
+      "atr": 0.105,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": -0.0248,
+      "pnl_value": -0.0579,
+      "weight": 0.0121,
+      "rank": 98,
+      "atr": 0.0825,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "APE",
+      "pnl": -0.0288,
+      "pnl_value": -0.0451,
+      "weight": 0.0081,
+      "rank": 35,
+      "atr": 0.1232,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.0318,
+      "pnl_value": -0.0578,
+      "weight": 0.0094,
+      "rank": 88,
+      "atr": 0.1065,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": -0.0358,
+      "pnl_value": -0.0753,
+      "weight": 0.0109,
+      "rank": 78,
+      "atr": 0.0919,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AXS",
+      "pnl": -0.0538,
+      "pnl_value": -0.0988,
+      "weight": 0.0095,
+      "rank": 44,
+      "atr": 0.1055,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DENT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SAND",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOTX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "RVN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AVAX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TWT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "RUNE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DYDX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 48,
+      "atr": 0.073,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 25,
+      "atr": 0.0795,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 99,
+      "atr": 0.0821,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 98,
+      "atr": 0.0825,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 8,
+      "atr": 0.0833,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 78,
+      "atr": 0.0919,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 112,
+      "atr": 0.0924,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 27,
+      "atr": 0.1001,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 137,
+      "atr": 0.1011,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 79,
+      "atr": 0.1031,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 66,
+      "atr": 0.105,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AXS",
+      "rank": 44,
+      "atr": 0.1055,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 88,
+      "atr": 0.1065,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FLOW",
+      "rank": 33,
+      "atr": 0.1126,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FLUX",
+      "rank": 177,
+      "atr": 0.1186,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 100,
+      "atr": 0.1187,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 64,
+      "atr": 0.119,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 26,
+      "atr": 0.1197,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "APE",
+      "rank": 35,
+      "atr": 0.1232,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ACA",
+      "rank": 174,
+      "atr": 0.1585,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0011,
+    "cum_pnl": 191.9862,
+    "leverage": 0.1991,
+    "atr": 0.02,
+    "marketcap_pnt": 0.0341,
+    "green_marketcap_pnt": 0
+  }
+}
