@@ -1,0 +1,217 @@
+{
+  "pnls": [
+    {
+      "name": "OKB",
+      "pnl": 0.0125,
+      "pnl_value": 96.3368,
+      "weight": 0.1314,
+      "rank": 22,
+      "atr": 0.0522,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CTSI",
+      "pnl": -0.0216,
+      "pnl_value": -119.1799,
+      "weight": 0.0941,
+      "rank": 168,
+      "atr": 0.0729,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ICP",
+      "pnl": -0.0391,
+      "pnl_value": -229.4602,
+      "weight": 0.1002,
+      "rank": 37,
+      "atr": 0.0685,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BLUR",
+      "pnl": -0.0859,
+      "pnl_value": -349.3597,
+      "weight": 0.0694,
+      "rank": 122,
+      "atr": 0.0988,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ADA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CRO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DOT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AVAX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OKB",
+      "rank": 22,
+      "atr": 0.0522,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 91,
+      "atr": 0.0572,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 89,
+      "atr": 0.0601,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 90,
+      "atr": 0.0681,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICP",
+      "rank": 37,
+      "atr": 0.0685,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CTSI",
+      "rank": 168,
+      "atr": 0.0729,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 78,
+      "atr": 0.0786,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 167,
+      "atr": 0.0834,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BLUR",
+      "rank": 122,
+      "atr": 0.0988,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0103,
+    "cum_pnl": 58027.6435,
+    "leverage": 0.3951,
+    "atr": 0.0274,
+    "marketcap_pnt": 0.0044,
+    "green_marketcap_pnt": 0
+  }
+}

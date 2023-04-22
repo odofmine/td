@@ -1,0 +1,96 @@
+{
+  "pnls": [
+    {
+      "name": "CTSI",
+      "pnl": -0.1342,
+      "pnl_value": -225.7874,
+      "weight": 0.029,
+      "rank": 168,
+      "atr": 0.0802,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ICP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BLUR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZIL",
+      "rank": 91,
+      "atr": 0.0572,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 89,
+      "atr": 0.0601,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 90,
+      "atr": 0.0681,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 78,
+      "atr": 0.0786,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CTSI",
+      "rank": 168,
+      "atr": 0.0802,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 167,
+      "atr": 0.0834,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0039,
+    "cum_pnl": 57801.8561,
+    "leverage": 0.029,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0001,
+    "green_marketcap_pnt": 0
+  }
+}
