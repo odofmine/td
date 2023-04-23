@@ -1,0 +1,223 @@
+{
+  "pnls": [
+    {
+      "name": "OKB",
+      "pnl": 0.0125,
+      "pnl_value": 96.9966,
+      "weight": 0.1323,
+      "rank": 22,
+      "atr": 0.0522,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "RNDR",
+      "pnl": -0.0211,
+      "pnl_value": -101.4818,
+      "weight": 0.0819,
+      "rank": 78,
+      "atr": 0.0843,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CTSI",
+      "pnl": -0.0216,
+      "pnl_value": -119.9398,
+      "weight": 0.0947,
+      "rank": 168,
+      "atr": 0.0729,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ICP",
+      "pnl": -0.0391,
+      "pnl_value": -230.8342,
+      "weight": 0.1008,
+      "rank": 37,
+      "atr": 0.0685,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.0564,
+      "pnl_value": -348.1416,
+      "weight": 0.1052,
+      "rank": 91,
+      "atr": 0.0656,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BLUR",
+      "pnl": -0.0859,
+      "pnl_value": -351.8767,
+      "weight": 0.0699,
+      "rank": 122,
+      "atr": 0.0988,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ADA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CRO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DOT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AVAX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OKB",
+      "rank": 22,
+      "atr": 0.0522,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 89,
+      "atr": 0.0601,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 91,
+      "atr": 0.0656,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICP",
+      "rank": 37,
+      "atr": 0.0685,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CTSI",
+      "rank": 168,
+      "atr": 0.0729,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 78,
+      "atr": 0.0843,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BLUR",
+      "rank": 122,
+      "atr": 0.0988,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.018,
+    "cum_pnl": 57574.029,
+    "leverage": 0.5848,
+    "atr": 0.0414,
+    "marketcap_pnt": 0.0053,
+    "green_marketcap_pnt": 0
+  }
+}

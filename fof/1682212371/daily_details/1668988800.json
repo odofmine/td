@@ -1,0 +1,51 @@
+{
+  "pnls": [
+    {
+      "name": "YFII",
+      "pnl": -0.2694,
+      "pnl_value": -164.4253,
+      "weight": 0.0101,
+      "rank": 179,
+      "atr": 0.1,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CHZ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "YFII",
+      "rank": 179,
+      "atr": 0.1,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0027,
+    "cum_pnl": 60261.4739,
+    "leverage": 0.0101,
+    "atr": 0.001,
+    "marketcap_pnt": 0.0001,
+    "green_marketcap_pnt": 0
+  }
+}

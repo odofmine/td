@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "YFI",
+      "pnl": 0.2755,
+      "pnl_value": 149.9899,
+      "weight": 0.0081,
+      "rank": 116,
+      "atr": 0.0998,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNX",
+      "pnl": 0.1036,
+      "pnl_value": 54.3089,
+      "weight": 0.0078,
+      "rank": 89,
+      "atr": 0.1039,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QTUM",
+      "pnl": 0.085,
+      "pnl_value": 65.1448,
+      "weight": 0.0114,
+      "rank": 99,
+      "atr": 0.0709,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0502,
+      "pnl_value": 39.8509,
+      "weight": 0.0118,
+      "rank": 44,
+      "atr": 0.0688,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TWT",
+      "pnl": 0.0054,
+      "pnl_value": 4.0536,
+      "weight": 0.0111,
+      "rank": 95,
+      "atr": 0.0727,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": -0.0245,
+      "pnl_value": -15.6765,
+      "weight": 0.0095,
+      "rank": 110,
+      "atr": 0.0853,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 44,
+      "atr": 0.0688,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 99,
+      "atr": 0.0709,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 95,
+      "atr": 0.0727,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 110,
+      "atr": 0.0853,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 116,
+      "atr": 0.0998,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 89,
+      "atr": 0.1039,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0044,
+    "cum_pnl": 67518.858,
+    "leverage": 0.0597,
+    "atr": 0.0049,
+    "marketcap_pnt": 0.0028,
+    "green_marketcap_pnt": 0
+  }
+}
