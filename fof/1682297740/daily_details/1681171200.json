@@ -1,0 +1,214 @@
+{
+  "pnls": [
+    {
+      "name": "RNDR",
+      "pnl": 0.0634,
+      "pnl_value": 0.1644,
+      "weight": 0.0152,
+      "rank": 87,
+      "atr": 0.104,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AUDIO",
+      "pnl": 0.0342,
+      "pnl_value": 0.1125,
+      "weight": 0.0193,
+      "rank": 122,
+      "atr": 0.082,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.0051,
+      "pnl_value": 0.0208,
+      "weight": 0.0241,
+      "rank": 72,
+      "atr": 0.0655,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": -0.0097,
+      "pnl_value": -0.0378,
+      "weight": 0.0228,
+      "rank": 62,
+      "atr": 0.0693,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0172,
+      "pnl_value": -0.0748,
+      "weight": 0.0255,
+      "rank": 57,
+      "atr": 0.0619,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAND",
+      "pnl": -0.0204,
+      "pnl_value": -0.0717,
+      "weight": 0.0206,
+      "rank": 147,
+      "atr": 0.0766,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BICO",
+      "pnl": -0.0366,
+      "pnl_value": -0.1186,
+      "weight": 0.019,
+      "rank": 149,
+      "atr": 0.0833,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ACH",
+      "pnl": -0.0373,
+      "pnl_value": -0.0991,
+      "weight": 0.0156,
+      "rank": 155,
+      "atr": 0.1013,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "JASMY",
+      "pnl": -0.0499,
+      "pnl_value": -0.1812,
+      "weight": 0.0213,
+      "rank": 135,
+      "atr": 0.0742,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XVS",
+      "pnl": -0.0559,
+      "pnl_value": -0.1916,
+      "weight": 0.0201,
+      "rank": 189,
+      "atr": 0.0786,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ONT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ENJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CHZ",
+      "rank": 57,
+      "atr": 0.0619,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 72,
+      "atr": 0.0655,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 62,
+      "atr": 0.0693,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "JASMY",
+      "rank": 135,
+      "atr": 0.0742,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAND",
+      "rank": 147,
+      "atr": 0.0766,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XVS",
+      "rank": 189,
+      "atr": 0.0786,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AUDIO",
+      "rank": 122,
+      "atr": 0.082,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BICO",
+      "rank": 149,
+      "atr": 0.0833,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ACH",
+      "rank": 155,
+      "atr": 0.1013,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 87,
+      "atr": 0.104,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0028,
+    "cum_pnl": 169.0423,
+    "leverage": 0.2035,
+    "atr": 0.0158,
+    "marketcap_pnt": 0.0036,
+    "green_marketcap_pnt": 0
+  }
+}

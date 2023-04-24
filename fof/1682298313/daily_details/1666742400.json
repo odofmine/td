@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "SUSHI",
+      "pnl": 0.0705,
+      "pnl_value": 35.6685,
+      "weight": 0.008,
+      "rank": 144,
+      "atr": 0.071,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAL",
+      "pnl": 0.0258,
+      "pnl_value": 14.354,
+      "weight": 0.0088,
+      "rank": 113,
+      "atr": 0.0647,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0219,
+      "pnl_value": 15.2323,
+      "weight": 0.011,
+      "rank": 11,
+      "atr": 0.052,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RNDR",
+      "pnl": 0.0051,
+      "pnl_value": 2.1013,
+      "weight": 0.0065,
+      "rank": 174,
+      "atr": 0.087,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NFT",
+      "pnl": -0.0154,
+      "pnl_value": -15.5644,
+      "weight": 0.016,
+      "rank": 145,
+      "atr": 0.0357,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NFT",
+      "rank": 145,
+      "atr": 0.0357,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 11,
+      "atr": 0.052,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 113,
+      "atr": 0.0647,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 144,
+      "atr": 0.071,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 174,
+      "atr": 0.087,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 63281.2331,
+    "leverage": 0.0503,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0093,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "RVN",
+      "pnl": 0.5286,
+      "pnl_value": 311.7106,
+      "weight": 0.0091,
+      "rank": 92,
+      "atr": 0.0914,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": 0.1613,
+      "pnl_value": 118.0861,
+      "weight": 0.0113,
+      "rank": 22,
+      "atr": 0.0738,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FLUX",
+      "pnl": 0.0814,
+      "pnl_value": 50.6285,
+      "weight": 0.0096,
+      "rank": 105,
+      "atr": 0.0871,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": -0.014,
+      "pnl_value": -8.8986,
+      "weight": 0.0098,
+      "rank": 112,
+      "atr": 0.0847,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ATOM",
+      "rank": 22,
+      "atr": 0.0738,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 112,
+      "atr": 0.0847,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FLUX",
+      "rank": 105,
+      "atr": 0.0871,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 92,
+      "atr": 0.0914,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0073,
+    "cum_pnl": 65270.458,
+    "leverage": 0.0398,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.0048,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": 0.1122,
+      "pnl_value": 0.2223,
+      "weight": 0.011,
+      "rank": 31,
+      "atr": 0.0636,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REEF",
+      "pnl": 0.0022,
+      "pnl_value": 0.0033,
+      "weight": 0.0081,
+      "rank": 172,
+      "atr": 0.0864,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": -0.0076,
+      "pnl_value": -0.0133,
+      "weight": 0.0097,
+      "rank": 96,
+      "atr": 0.072,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "JST",
+      "pnl": -0.0581,
+      "pnl_value": -0.1204,
+      "weight": 0.0115,
+      "rank": 124,
+      "atr": 0.0606,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WOO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HBAR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "JST",
+      "rank": 124,
+      "atr": 0.0606,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 31,
+      "atr": 0.0636,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 96,
+      "atr": 0.072,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REEF",
+      "rank": 172,
+      "atr": 0.0864,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 179.2716,
+    "leverage": 0.0403,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0028,
+    "green_marketcap_pnt": 0
+  }
+}
