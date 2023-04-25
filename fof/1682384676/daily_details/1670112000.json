@@ -1,0 +1,163 @@
+{
+  "pnls": [
+    {
+      "name": "FTM",
+      "pnl": 0.0211,
+      "pnl_value": 10.2439,
+      "weight": 0.0081,
+      "rank": 71,
+      "atr": 0.0861,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TWT",
+      "pnl": 0.018,
+      "pnl_value": 8.9818,
+      "weight": 0.0083,
+      "rank": 50,
+      "atr": 0.0841,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MASK",
+      "pnl": 0.0132,
+      "pnl_value": 4.363,
+      "weight": 0.0055,
+      "rank": 120,
+      "atr": 0.1259,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": 0.0042,
+      "pnl_value": 3.4356,
+      "weight": 0.0138,
+      "rank": 35,
+      "atr": 0.0508,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0058,
+      "pnl_value": -4.3293,
+      "weight": 0.0125,
+      "rank": 72,
+      "atr": 0.0559,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SSV",
+      "pnl": -0.0074,
+      "pnl_value": -2.8404,
+      "weight": 0.0064,
+      "rank": 179,
+      "atr": 0.1087,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0244,
+      "pnl_value": -22.8544,
+      "weight": 0.0156,
+      "rank": 24,
+      "atr": 0.0448,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 24,
+      "atr": 0.0448,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 35,
+      "atr": 0.0508,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 72,
+      "atr": 0.0559,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 50,
+      "atr": 0.0841,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 71,
+      "atr": 0.0861,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SSV",
+      "rank": 179,
+      "atr": 0.1087,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MASK",
+      "rank": 120,
+      "atr": 0.1259,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 59967.0253,
+    "leverage": 0.0702,
+    "atr": 0.0049,
+    "marketcap_pnt": 0.007,
+    "green_marketcap_pnt": 0
+  }
+}

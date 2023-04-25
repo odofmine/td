@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.07,
+      "pnl_value": 534.342,
+      "weight": 0.1318,
+      "rank": 6,
+      "atr": 0.0533,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELR",
+      "pnl": -0.0083,
+      "pnl_value": -40.1596,
+      "weight": 0.0833,
+      "rank": 157,
+      "atr": 0.0843,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRAC",
+      "pnl": -0.0098,
+      "pnl_value": -38.7237,
+      "weight": 0.0684,
+      "rank": 192,
+      "atr": 0.1026,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0398,
+      "pnl_value": -264.8325,
+      "weight": 0.1148,
+      "rank": 92,
+      "atr": 0.0612,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0449,
+      "pnl_value": -302.582,
+      "weight": 0.1163,
+      "rank": 13,
+      "atr": 0.0604,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GTC",
+      "pnl": -0.2008,
+      "pnl_value": -988.2459,
+      "weight": 0.085,
+      "rank": 189,
+      "atr": 0.0826,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0533,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 13,
+      "atr": 0.0604,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 92,
+      "atr": 0.0612,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GTC",
+      "rank": 189,
+      "atr": 0.0826,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 157,
+      "atr": 0.0843,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRAC",
+      "rank": 192,
+      "atr": 0.1026,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.019,
+    "cum_pnl": 56793.6363,
+    "leverage": 0.5996,
+    "atr": 0.0421,
+    "marketcap_pnt": 0.0263,
+    "green_marketcap_pnt": 0
+  }
+}

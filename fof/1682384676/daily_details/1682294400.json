@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "LEO",
+      "pnl": 0.0057,
+      "pnl_value": 6.7204,
+      "weight": 0.0207,
+      "rank": 20,
+      "atr": 0.0249,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POLY",
+      "pnl": -0.0433,
+      "pnl_value": -17.3495,
+      "weight": 0.007,
+      "rank": 159,
+      "atr": 0.0733,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "COCOS",
+      "pnl": -1.0,
+      "pnl_value": -291.6593,
+      "weight": 0.0051,
+      "rank": 199,
+      "atr": 0.1003,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZIL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 20,
+      "atr": 0.0249,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POLY",
+      "rank": 159,
+      "atr": 0.0733,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COCOS",
+      "rank": 199,
+      "atr": 0.1003,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0053,
+    "cum_pnl": 56884.8037,
+    "leverage": 0.0328,
+    "atr": 0.0015,
+    "marketcap_pnt": 0.0031,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "pnls": [
+    {
+      "name": "JASMY",
+      "pnl": 0.1372,
+      "pnl_value": 0.43,
+      "weight": 0.0183,
+      "rank": 135,
+      "atr": 0.0811,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ACH",
+      "pnl": 0.0561,
+      "pnl_value": 0.1336,
+      "weight": 0.0139,
+      "rank": 155,
+      "atr": 0.1068,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AUDIO",
+      "pnl": 0.0289,
+      "pnl_value": 0.0856,
+      "weight": 0.0173,
+      "rank": 122,
+      "atr": 0.0858,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CHZ",
+      "pnl": 0.0198,
+      "pnl_value": 0.0792,
+      "weight": 0.0233,
+      "rank": 57,
+      "atr": 0.0637,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BICO",
+      "pnl": 0.0092,
+      "pnl_value": 0.0277,
+      "weight": 0.0175,
+      "rank": 149,
+      "atr": 0.0848,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0077,
+      "pnl_value": 0.0276,
+      "weight": 0.021,
+      "rank": 195,
+      "atr": 0.0705,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0025,
+      "pnl_value": -0.0097,
+      "weight": 0.0225,
+      "rank": 72,
+      "atr": 0.0658,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONT",
+      "pnl": -0.0122,
+      "pnl_value": -0.0385,
+      "weight": 0.0184,
+      "rank": 148,
+      "atr": 0.0803,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0142,
+      "pnl_value": -0.0479,
+      "weight": 0.0197,
+      "rank": 92,
+      "atr": 0.0751,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XVS",
+      "pnl": -0.2733,
+      "pnl_value": -1.4891,
+      "weight": 0.0318,
+      "rank": 189,
+      "atr": 0.0467,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STORJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CRV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WAXP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PUNDIX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XVS",
+      "rank": 189,
+      "atr": 0.0467,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 57,
+      "atr": 0.0637,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 72,
+      "atr": 0.0658,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 195,
+      "atr": 0.0705,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 92,
+      "atr": 0.0751,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 148,
+      "atr": 0.0803,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "JASMY",
+      "rank": 135,
+      "atr": 0.0811,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BICO",
+      "rank": 149,
+      "atr": 0.0848,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AUDIO",
+      "rank": 122,
+      "atr": 0.0858,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ACH",
+      "rank": 155,
+      "atr": 0.1068,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0047,
+    "cum_pnl": 169.5195,
+    "leverage": 0.2037,
+    "atr": 0.0148,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}
