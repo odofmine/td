@@ -1,5 +1,41 @@
 [
   {
+    "id": "1682470895",
+    "date": "2023-04-26 09:01:35",
+    "domain": "cryptocompare",
+    "start_point": "2017-01-01",
+    "end_point": "2023-04-26",
+    "funds": [
+      "100-10"
+    ],
+    "ever_holded_count": 446,
+    "avg_ever_holded_count": 11.984,
+    "max_retracement": -0.2153,
+    "annual_return": 4.6568,
+    "sharpe_ratio": 3.3253,
+    "type": "fof",
+    "source": "",
+    "frequency": ""
+  },
+  {
+    "id": "1682470381",
+    "date": "2023-04-26 08:53:01",
+    "domain": "binance",
+    "start_point": "2020-01-01",
+    "end_point": "2023-04-26",
+    "funds": [
+      "100-10"
+    ],
+    "ever_holded_count": 244,
+    "avg_ever_holded_count": 14.4802,
+    "max_retracement": -0.226,
+    "annual_return": 3.6209,
+    "sharpe_ratio": 2.9174,
+    "type": "fof",
+    "source": "",
+    "frequency": ""
+  },
+  {
     "id": "1682384676",
     "date": "2023-04-25 09:04:36",
     "domain": "cryptocompare",
