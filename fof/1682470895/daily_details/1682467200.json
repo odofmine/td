@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "LEO",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.012,
+      "rank": 20,
+      "atr": 0.0245,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0085,
+      "rank": 4,
+      "atr": 0.0348,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COCOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "POLY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 20,
+      "atr": 0.0245,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 4,
+      "atr": 0.0348,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0,
+    "cum_pnl": 0,
+    "leverage": 0.0205,
+    "atr": 0.0006,
+    "marketcap_pnt": 0.0477,
+    "green_marketcap_pnt": 0
+  }
+}

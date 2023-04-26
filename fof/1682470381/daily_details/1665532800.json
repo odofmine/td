@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": -0.0019,
+      "pnl_value": -0.0041,
+      "weight": 0.0117,
+      "rank": 31,
+      "atr": 0.0646,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REEF",
+      "pnl": -0.0261,
+      "pnl_value": -0.0396,
+      "weight": 0.0084,
+      "rank": 172,
+      "atr": 0.0896,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0595,
+      "pnl_value": -0.1149,
+      "weight": 0.0107,
+      "rank": 52,
+      "atr": 0.0704,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WIN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "QNT",
+      "rank": 31,
+      "atr": 0.0646,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 52,
+      "atr": 0.0704,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REEF",
+      "rank": 172,
+      "atr": 0.0896,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 179.1849,
+    "leverage": 0.0308,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0032,
+    "green_marketcap_pnt": 0
+  }
+}

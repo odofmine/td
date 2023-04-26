@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "RUNE",
+      "pnl": 0.0154,
+      "pnl_value": 9.7089,
+      "weight": 0.01,
+      "rank": 49,
+      "atr": 0.0983,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "RUNE",
+      "rank": 49,
+      "atr": 0.0983,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 63133.8874,
+    "leverage": 0.01,
+    "atr": 0.001,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

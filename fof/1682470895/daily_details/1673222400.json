@@ -1,0 +1,320 @@
+{
+  "pnls": [
+    {
+      "name": "GALA",
+      "pnl": 0.176,
+      "pnl_value": 86.5129,
+      "weight": 0.0082,
+      "rank": 111,
+      "atr": 0.0694,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SOL",
+      "pnl": 0.1253,
+      "pnl_value": 47.3023,
+      "weight": 0.0063,
+      "rank": 14,
+      "atr": 0.091,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FET",
+      "pnl": 0.0966,
+      "pnl_value": 38.81,
+      "weight": 0.0067,
+      "rank": 161,
+      "atr": 0.0848,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": 0.0521,
+      "pnl_value": 37.4638,
+      "weight": 0.012,
+      "rank": 22,
+      "atr": 0.0477,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0391,
+      "pnl_value": 28.1093,
+      "weight": 0.012,
+      "rank": 12,
+      "atr": 0.0476,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "APE",
+      "pnl": 0.0372,
+      "pnl_value": 20.7351,
+      "weight": 0.0093,
+      "rank": 30,
+      "atr": 0.0612,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "JASMY",
+      "pnl": 0.0365,
+      "pnl_value": 14.8753,
+      "weight": 0.0068,
+      "rank": 126,
+      "atr": 0.0844,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0244,
+      "pnl_value": 23.7298,
+      "weight": 0.0162,
+      "rank": 2,
+      "atr": 0.0354,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0215,
+      "pnl_value": 15.7514,
+      "weight": 0.0122,
+      "rank": 65,
+      "atr": 0.0468,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0214,
+      "pnl_value": 22.4744,
+      "weight": 0.0175,
+      "rank": 23,
+      "atr": 0.0327,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0118,
+      "pnl_value": 6.3928,
+      "weight": 0.009,
+      "rank": 76,
+      "atr": 0.0635,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GRT",
+      "pnl": 0.0112,
+      "pnl_value": 6.2268,
+      "weight": 0.0093,
+      "rank": 59,
+      "atr": 0.0612,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FTM",
+      "pnl": 0.0004,
+      "pnl_value": 0.2354,
+      "weight": 0.0093,
+      "rank": 58,
+      "atr": 0.0613,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOTX",
+      "pnl": -0.0048,
+      "pnl_value": -2.6159,
+      "weight": 0.009,
+      "rank": 112,
+      "atr": 0.0636,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OP",
+      "pnl": -0.0063,
+      "pnl_value": -3.4633,
+      "weight": 0.0091,
+      "rank": 90,
+      "atr": 0.0631,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0123,
+      "pnl_value": -7.2166,
+      "weight": 0.0098,
+      "rank": 24,
+      "atr": 0.0581,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PYR",
+      "pnl": -0.0342,
+      "pnl_value": -20.5281,
+      "weight": 0.01,
+      "rank": 179,
+      "atr": 0.057,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SSV",
+      "pnl": -0.0596,
+      "pnl_value": -28.5992,
+      "weight": 0.008,
+      "rank": 140,
+      "atr": 0.071,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 23,
+      "atr": 0.0327,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0354,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 65,
+      "atr": 0.0468,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 12,
+      "atr": 0.0476,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 22,
+      "atr": 0.0477,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PYR",
+      "rank": 179,
+      "atr": 0.057,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 24,
+      "atr": 0.0581,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "APE",
+      "rank": 30,
+      "atr": 0.0612,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GRT",
+      "rank": 59,
+      "atr": 0.0612,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 58,
+      "atr": 0.0613,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OP",
+      "rank": 90,
+      "atr": 0.0631,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 76,
+      "atr": 0.0635,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 112,
+      "atr": 0.0636,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GALA",
+      "rank": 111,
+      "atr": 0.0694,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SSV",
+      "rank": 140,
+      "atr": 0.071,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "JASMY",
+      "rank": 126,
+      "atr": 0.0844,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FET",
+      "rank": 161,
+      "atr": 0.0848,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 14,
+      "atr": 0.091,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0048,
+    "cum_pnl": 60227.2172,
+    "leverage": 0.1807,
+    "atr": 0.0103,
+    "marketcap_pnt": 0.22,
+    "green_marketcap_pnt": 0
+  }
+}

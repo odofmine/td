@@ -1,0 +1,132 @@
+{
+  "pnls": [
+    {
+      "name": "FXS",
+      "pnl": 0.048,
+      "pnl_value": 0.0894,
+      "weight": 0.0111,
+      "rank": 199,
+      "atr": 0.0746,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ASTR",
+      "pnl": 0.0162,
+      "pnl_value": 0.0289,
+      "weight": 0.0106,
+      "rank": 141,
+      "atr": 0.078,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GLMR",
+      "pnl": 0.0115,
+      "pnl_value": 0.0182,
+      "weight": 0.0094,
+      "rank": 130,
+      "atr": 0.0876,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.0452,
+      "pnl_value": -0.0683,
+      "weight": 0.009,
+      "rank": 182,
+      "atr": 0.0916,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RUNE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "YFI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZEC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PEOPLE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FXS",
+      "rank": 199,
+      "atr": 0.0746,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ASTR",
+      "rank": 141,
+      "atr": 0.078,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GLMR",
+      "rank": 130,
+      "atr": 0.0876,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 182,
+      "atr": 0.0916,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 166.8432,
+    "leverage": 0.0401,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}
