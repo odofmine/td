@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.235,
+      "pnl_value": 0.4684,
+      "weight": 0.0109,
+      "rank": 7,
+      "atr": 0.0588,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": 0.1038,
+      "pnl_value": 0.1956,
+      "weight": 0.0103,
+      "rank": 30,
+      "atr": 0.0627,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "APE",
+      "pnl": 0.0207,
+      "pnl_value": 0.0239,
+      "weight": 0.0063,
+      "rank": 34,
+      "atr": 0.1011,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNX",
+      "pnl": -0.0305,
+      "pnl_value": -0.0685,
+      "weight": 0.0123,
+      "rank": 106,
+      "atr": 0.0525,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CAKE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CHZ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNX",
+      "rank": 106,
+      "atr": 0.0525,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 7,
+      "atr": 0.0588,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 30,
+      "atr": 0.0627,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "APE",
+      "rank": 34,
+      "atr": 0.1011,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0034,
+    "cum_pnl": 182.4918,
+    "leverage": 0.0398,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0236,
+    "green_marketcap_pnt": 0
+  }
+}

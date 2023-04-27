@@ -1,0 +1,211 @@
+{
+  "pnls": [
+    {
+      "name": "YFI",
+      "pnl": 0.0684,
+      "pnl_value": 0.1376,
+      "weight": 0.0108,
+      "rank": 89,
+      "atr": 0.0838,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.0018,
+      "pnl_value": -0.0031,
+      "weight": 0.009,
+      "rank": 165,
+      "atr": 0.101,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GNO",
+      "pnl": -0.0189,
+      "pnl_value": -0.037,
+      "weight": 0.0105,
+      "rank": 121,
+      "atr": 0.0864,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0226,
+      "pnl_value": -0.0433,
+      "weight": 0.0103,
+      "rank": 27,
+      "atr": 0.0885,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0228,
+      "pnl_value": -0.0442,
+      "weight": 0.0104,
+      "rank": 145,
+      "atr": 0.087,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.0393,
+      "pnl_value": -0.0695,
+      "weight": 0.0095,
+      "rank": 21,
+      "atr": 0.0957,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0416,
+      "pnl_value": -0.1046,
+      "weight": 0.0135,
+      "rank": 44,
+      "atr": 0.0672,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHR",
+      "pnl": -0.0505,
+      "pnl_value": -0.0705,
+      "weight": 0.0075,
+      "rank": 154,
+      "atr": 0.1217,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SXP",
+      "pnl": -0.0515,
+      "pnl_value": -0.1045,
+      "weight": 0.0109,
+      "rank": 178,
+      "atr": 0.0832,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DUSK",
+      "pnl": -0.0596,
+      "pnl_value": -0.101,
+      "weight": 0.0091,
+      "rank": 187,
+      "atr": 0.1002,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": -0.0669,
+      "pnl_value": -0.1122,
+      "weight": 0.009,
+      "rank": 84,
+      "atr": 0.1004,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 44,
+      "atr": 0.0672,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SXP",
+      "rank": 178,
+      "atr": 0.0832,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 89,
+      "atr": 0.0838,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GNO",
+      "rank": 121,
+      "atr": 0.0864,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 145,
+      "atr": 0.087,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 27,
+      "atr": 0.0885,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 21,
+      "atr": 0.0957,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DUSK",
+      "rank": 187,
+      "atr": 0.1002,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 84,
+      "atr": 0.1004,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 165,
+      "atr": 0.101,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHR",
+      "rank": 154,
+      "atr": 0.1217,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.003,
+    "cum_pnl": 184.6884,
+    "leverage": 0.1105,
+    "atr": 0.01,
+    "marketcap_pnt": 0.0112,
+    "green_marketcap_pnt": 0
+  }
+}

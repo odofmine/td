@@ -1,0 +1,194 @@
+{
+  "pnls": [
+    {
+      "name": "MINA",
+      "pnl": 0.1527,
+      "pnl_value": 0.2099,
+      "weight": 0.0077,
+      "rank": 57,
+      "atr": 0.0914,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": 0.1274,
+      "pnl_value": 0.1956,
+      "weight": 0.0086,
+      "rank": 169,
+      "atr": 0.0817,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SKL",
+      "pnl": 0.1214,
+      "pnl_value": 0.1735,
+      "weight": 0.008,
+      "rank": 144,
+      "atr": 0.0875,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNX",
+      "pnl": 0.115,
+      "pnl_value": 0.1971,
+      "weight": 0.0096,
+      "rank": 88,
+      "atr": 0.073,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0773,
+      "pnl_value": 0.1822,
+      "weight": 0.0132,
+      "rank": 65,
+      "atr": 0.0533,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0674,
+      "pnl_value": 0.1119,
+      "weight": 0.0093,
+      "rank": 172,
+      "atr": 0.0754,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": 0.0445,
+      "pnl_value": 0.0835,
+      "weight": 0.0105,
+      "rank": 28,
+      "atr": 0.0672,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SXP",
+      "pnl": 0.0442,
+      "pnl_value": 0.0844,
+      "weight": 0.0107,
+      "rank": 159,
+      "atr": 0.0654,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ELF",
+      "pnl": 0.044,
+      "pnl_value": 0.1076,
+      "weight": 0.0137,
+      "rank": 196,
+      "atr": 0.0512,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": 0.0273,
+      "pnl_value": 0.0497,
+      "weight": 0.0102,
+      "rank": 87,
+      "atr": 0.069,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ASTR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ELF",
+      "rank": 196,
+      "atr": 0.0512,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 65,
+      "atr": 0.0533,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SXP",
+      "rank": 159,
+      "atr": 0.0654,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 28,
+      "atr": 0.0672,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 87,
+      "atr": 0.069,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNX",
+      "rank": 88,
+      "atr": 0.073,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 172,
+      "atr": 0.0754,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 169,
+      "atr": 0.0817,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SKL",
+      "rank": 144,
+      "atr": 0.0875,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MINA",
+      "rank": 57,
+      "atr": 0.0914,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0078,
+    "cum_pnl": 178.9659,
+    "leverage": 0.1015,
+    "atr": 0.007,
+    "marketcap_pnt": 0.0055,
+    "green_marketcap_pnt": 0
+  }
+}
