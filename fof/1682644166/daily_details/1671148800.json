@@ -1,0 +1,115 @@
+{
+  "pnls": [
+    {
+      "name": "OKB",
+      "pnl": -0.0316,
+      "pnl_value": -23.6917,
+      "weight": 0.0126,
+      "rank": 35,
+      "atr": 0.0447,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BSV",
+      "pnl": -0.0421,
+      "pnl_value": -28.5937,
+      "weight": 0.0114,
+      "rank": 47,
+      "atr": 0.0494,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0744,
+      "pnl_value": -27.4387,
+      "weight": 0.0062,
+      "rank": 187,
+      "atr": 0.0896,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SSV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OKB",
+      "rank": 35,
+      "atr": 0.0447,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BSV",
+      "rank": 47,
+      "atr": 0.0494,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 187,
+      "atr": 0.0896,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0013,
+    "cum_pnl": 59435.8271,
+    "leverage": 0.0302,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0026,
+    "green_marketcap_pnt": 0
+  }
+}

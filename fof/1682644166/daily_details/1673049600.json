@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "FET",
+      "pnl": 0.2728,
+      "pnl_value": 125.2603,
+      "weight": 0.0077,
+      "rank": 193,
+      "atr": 0.0818,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OP",
+      "pnl": 0.0092,
+      "pnl_value": 5.0014,
+      "weight": 0.0091,
+      "rank": 103,
+      "atr": 0.0687,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0057,
+      "pnl_value": 4.2213,
+      "weight": 0.0125,
+      "rank": 12,
+      "atr": 0.0504,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0059,
+      "pnl_value": -4.4025,
+      "weight": 0.0126,
+      "rank": 24,
+      "atr": 0.0499,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.014,
+      "pnl_value": -8.1188,
+      "weight": 0.0097,
+      "rank": 73,
+      "atr": 0.0645,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0201,
+      "pnl_value": -12.6852,
+      "weight": 0.0106,
+      "rank": 25,
+      "atr": 0.0591,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SSV",
+      "pnl": -0.0335,
+      "pnl_value": -16.4011,
+      "weight": 0.0082,
+      "rank": 163,
+      "atr": 0.0762,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ATOM",
+      "rank": 24,
+      "atr": 0.0499,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 12,
+      "atr": 0.0504,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 25,
+      "atr": 0.0591,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 73,
+      "atr": 0.0645,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OP",
+      "rank": 103,
+      "atr": 0.0687,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SSV",
+      "rank": 163,
+      "atr": 0.0762,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FET",
+      "rank": 193,
+      "atr": 0.0818,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0016,
+    "cum_pnl": 59723.6005,
+    "leverage": 0.0704,
+    "atr": 0.0044,
+    "marketcap_pnt": 0.0136,
+    "green_marketcap_pnt": 0
+  }
+}
