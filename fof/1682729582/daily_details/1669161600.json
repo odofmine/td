@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.1183,
+      "pnl_value": 0.2017,
+      "weight": 0.0101,
+      "rank": 15,
+      "atr": 0.0624,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 15,
+      "atr": 0.0624,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 167.9977,
+    "leverage": 0.0101,
+    "atr": 0.0006,
+    "marketcap_pnt": 0.0056,
+    "green_marketcap_pnt": 0
+  }
+}

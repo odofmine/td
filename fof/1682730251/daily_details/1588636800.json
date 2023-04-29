@@ -1,0 +1,257 @@
+{
+  "pnls": [
+    {
+      "name": "DGB",
+      "pnl": 0.2448,
+      "pnl_value": 0.7751,
+      "weight": 0.0078,
+      "rank": 38,
+      "atr": 0.0921,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0649,
+      "pnl_value": 0.2924,
+      "weight": 0.0111,
+      "rank": 57,
+      "atr": 0.0647,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BHD",
+      "pnl": 0.0157,
+      "pnl_value": 0.0452,
+      "weight": 0.0071,
+      "rank": 90,
+      "atr": 0.1006,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.013,
+      "pnl_value": 0.0685,
+      "weight": 0.013,
+      "rank": 46,
+      "atr": 0.0552,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0054,
+      "pnl_value": -0.0237,
+      "weight": 0.0109,
+      "rank": 20,
+      "atr": 0.066,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTT",
+      "pnl": -0.007,
+      "pnl_value": -0.0246,
+      "weight": 0.0086,
+      "rank": 94,
+      "atr": 0.0834,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0359,
+      "pnl_value": -0.1515,
+      "weight": 0.0104,
+      "rank": 79,
+      "atr": 0.069,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0453,
+      "pnl_value": -0.1213,
+      "weight": 0.0066,
+      "rank": 47,
+      "atr": 0.1085,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HYN",
+      "pnl": -0.0809,
+      "pnl_value": -0.4664,
+      "weight": 0.0142,
+      "rank": 59,
+      "atr": 0.0504,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NANO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ARDR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OKB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BAND",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HYN",
+      "rank": 59,
+      "atr": 0.0504,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 46,
+      "atr": 0.0552,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 57,
+      "atr": 0.0647,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 20,
+      "atr": 0.066,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 79,
+      "atr": 0.069,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTT",
+      "rank": 94,
+      "atr": 0.0834,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 38,
+      "atr": 0.0921,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BHD",
+      "rank": 90,
+      "atr": 0.1006,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 47,
+      "atr": 0.1085,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.001,
+    "cum_pnl": 405.4121,
+    "leverage": 0.0897,
+    "atr": 0.0065,
+    "marketcap_pnt": 0.0075,
+    "green_marketcap_pnt": 0
+  }
+}

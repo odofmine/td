@@ -1,0 +1,194 @@
+{
+  "pnls": [
+    {
+      "name": "NANO",
+      "pnl": 0.0999,
+      "pnl_value": 0.7469,
+      "weight": 0.0185,
+      "rank": 74,
+      "atr": 0.0807,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MONA",
+      "pnl": 0.0998,
+      "pnl_value": 0.7705,
+      "weight": 0.0191,
+      "rank": 75,
+      "atr": 0.0783,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "UBT",
+      "pnl": 0.0342,
+      "pnl_value": 0.2449,
+      "weight": 0.0177,
+      "rank": 92,
+      "atr": 0.0842,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.028,
+      "pnl_value": 0.3155,
+      "weight": 0.0279,
+      "rank": 14,
+      "atr": 0.0535,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MIOTA",
+      "pnl": 0.0236,
+      "pnl_value": 0.1946,
+      "weight": 0.0204,
+      "rank": 26,
+      "atr": 0.0731,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0197,
+      "pnl_value": 0.16,
+      "weight": 0.0201,
+      "rank": 93,
+      "atr": 0.0742,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0141,
+      "pnl_value": 0.1258,
+      "weight": 0.0221,
+      "rank": 47,
+      "atr": 0.0675,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HYN",
+      "pnl": -0.0002,
+      "pnl_value": -0.0011,
+      "weight": 0.0158,
+      "rank": 43,
+      "atr": 0.0943,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MX",
+      "pnl": -0.012,
+      "pnl_value": -0.114,
+      "weight": 0.0235,
+      "rank": 157,
+      "atr": 0.0635,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.0826,
+      "pnl_value": -0.4773,
+      "weight": 0.0143,
+      "rank": 66,
+      "atr": 0.1041,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 14,
+      "atr": 0.0535,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MX",
+      "rank": 157,
+      "atr": 0.0635,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 47,
+      "atr": 0.0675,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MIOTA",
+      "rank": 26,
+      "atr": 0.0731,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 93,
+      "atr": 0.0742,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 75,
+      "atr": 0.0783,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 74,
+      "atr": 0.0807,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UBT",
+      "rank": 92,
+      "atr": 0.0842,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HYN",
+      "rank": 43,
+      "atr": 0.0943,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 66,
+      "atr": 0.1041,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0049,
+    "cum_pnl": 405.1788,
+    "leverage": 0.1994,
+    "atr": 0.0149,
+    "marketcap_pnt": 0.0095,
+    "green_marketcap_pnt": 0
+  }
+}
