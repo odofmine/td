@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "CTSI",
+      "pnl": 0.0408,
+      "pnl_value": 16.8092,
+      "weight": 0.0072,
+      "rank": 168,
+      "atr": 0.0965,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0026,
+      "pnl_value": -4.0322,
+      "weight": 0.0276,
+      "rank": 23,
+      "atr": 0.0253,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "POLY",
+      "pnl": -0.0536,
+      "pnl_value": -34.3684,
+      "weight": 0.0112,
+      "rank": 184,
+      "atr": 0.0622,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 23,
+      "atr": 0.0253,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POLY",
+      "rank": 184,
+      "atr": 0.0622,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CTSI",
+      "rank": 168,
+      "atr": 0.0965,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 57197.924,
+    "leverage": 0.046,
+    "atr": 0.0021,
+    "marketcap_pnt": 0.0028,
+    "green_marketcap_pnt": 0
+  }
+}

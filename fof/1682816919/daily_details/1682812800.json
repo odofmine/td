@@ -1,0 +1,72 @@
+{
+  "pnls": [
+    {
+      "name": "CRO",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0284,
+      "rank": 35,
+      "atr": 0.0442,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICP",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0185,
+      "rank": 28,
+      "atr": 0.0679,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RNDR",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0155,
+      "rank": 72,
+      "atr": 0.0809,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CRO",
+      "rank": 35,
+      "atr": 0.0442,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICP",
+      "rank": 28,
+      "atr": 0.0679,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "JASMY",
+      "rank": 119,
+      "atr": 0.0719,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 72,
+      "atr": 0.0809,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0,
+    "cum_pnl": 0,
+    "leverage": 0.0624,
+    "atr": 0.0038,
+    "marketcap_pnt": 0.0041,
+    "green_marketcap_pnt": 0
+  }
+}
