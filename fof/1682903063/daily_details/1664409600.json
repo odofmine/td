@@ -1,0 +1,119 @@
+{
+  "pnls": [
+    {
+      "name": "CAKE",
+      "pnl": 0.0105,
+      "pnl_value": 10.581,
+      "weight": 0.0157,
+      "rank": 62,
+      "atr": 0.0442,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": -0.0101,
+      "pnl_value": -5.4445,
+      "weight": 0.0084,
+      "rank": 114,
+      "atr": 0.0825,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0131,
+      "pnl_value": -8.496,
+      "weight": 0.0101,
+      "rank": 38,
+      "atr": 0.0685,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RSR",
+      "pnl": -0.0269,
+      "pnl_value": -14.5256,
+      "weight": 0.0084,
+      "rank": 98,
+      "atr": 0.0824,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REEF",
+      "pnl": -0.0672,
+      "pnl_value": -31.5518,
+      "weight": 0.0073,
+      "rank": 184,
+      "atr": 0.0946,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MIOTA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CAKE",
+      "rank": 62,
+      "atr": 0.0442,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 38,
+      "atr": 0.0685,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 98,
+      "atr": 0.0824,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 114,
+      "atr": 0.0825,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REEF",
+      "rank": 184,
+      "atr": 0.0946,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 64238.8306,
+    "leverage": 0.0499,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "REEF",
+      "pnl": 0.1521,
+      "pnl_value": 63.614,
+      "weight": 0.0066,
+      "rank": 172,
+      "atr": 0.0863,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": 0.0515,
+      "pnl_value": 31.6741,
+      "weight": 0.0097,
+      "rank": 31,
+      "atr": 0.0589,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TWT",
+      "pnl": 0.0476,
+      "pnl_value": 34.6918,
+      "weight": 0.0115,
+      "rank": 87,
+      "atr": 0.0499,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ENS",
+      "pnl": 0.0133,
+      "pnl_value": 6.8208,
+      "weight": 0.0081,
+      "rank": 96,
+      "atr": 0.0708,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": 0.0114,
+      "pnl_value": 8.8355,
+      "weight": 0.0122,
+      "rank": 51,
+      "atr": 0.0471,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.0047,
+      "pnl_value": -4.7588,
+      "weight": 0.0161,
+      "rank": 54,
+      "atr": 0.0358,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0135,
+      "pnl_value": -6.8394,
+      "weight": 0.008,
+      "rank": 141,
+      "atr": 0.0716,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0643,
+      "pnl_value": -33.3972,
+      "weight": 0.0082,
+      "rank": 63,
+      "atr": 0.0702,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 54,
+      "atr": 0.0358,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 51,
+      "atr": 0.0471,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 87,
+      "atr": 0.0499,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 31,
+      "atr": 0.0589,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HT",
+      "rank": 63,
+      "atr": 0.0702,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 96,
+      "atr": 0.0708,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 141,
+      "atr": 0.0716,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REEF",
+      "rank": 172,
+      "atr": 0.0863,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0016,
+    "cum_pnl": 63449.8831,
+    "leverage": 0.0804,
+    "atr": 0.0046,
+    "marketcap_pnt": 0.0058,
+    "green_marketcap_pnt": 0
+  }
+}
