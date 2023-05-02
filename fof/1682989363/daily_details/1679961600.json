@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.0723,
+      "pnl_value": 512.9944,
+      "weight": 0.125,
+      "rank": 6,
+      "atr": 0.0513,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0008,
+      "pnl_value": -4.6943,
+      "weight": 0.1,
+      "rank": 92,
+      "atr": 0.0641,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELR",
+      "pnl": -0.1325,
+      "pnl_value": -563.2871,
+      "weight": 0.0749,
+      "rank": 157,
+      "atr": 0.0856,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRAC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0513,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 92,
+      "atr": 0.0641,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 157,
+      "atr": 0.0856,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 56689.7704,
+    "leverage": 0.2999,
+    "atr": 0.0192,
+    "marketcap_pnt": 0.0202,
+    "green_marketcap_pnt": 0
+  }
+}

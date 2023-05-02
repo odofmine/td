@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "CRO",
+      "pnl": 0.0407,
+      "pnl_value": 35.5606,
+      "weight": 0.0153,
+      "rank": 35,
+      "atr": 0.0434,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RNDR",
+      "pnl": 0.0141,
+      "pnl_value": 6.538,
+      "weight": 0.0081,
+      "rank": 72,
+      "atr": 0.0815,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "COCOS",
+      "pnl": -0.0375,
+      "pnl_value": -14.3458,
+      "weight": 0.0067,
+      "rank": 199,
+      "atr": 0.0981,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CRO",
+      "rank": 35,
+      "atr": 0.0434,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 72,
+      "atr": 0.0815,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COCOS",
+      "rank": 199,
+      "atr": 0.0981,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 57114.5818,
+    "leverage": 0.0301,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0021,
+    "green_marketcap_pnt": 0
+  }
+}

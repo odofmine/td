@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "LDO",
+      "pnl": 0.1471,
+      "pnl_value": 0.161,
+      "weight": 0.0066,
+      "rank": 78,
+      "atr": 0.0789,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ELF",
+      "pnl": 0.0414,
+      "pnl_value": 0.0933,
+      "weight": 0.0136,
+      "rank": 182,
+      "atr": 0.0386,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0015,
+      "pnl_value": -0.0024,
+      "weight": 0.0099,
+      "rank": 12,
+      "atr": 0.0531,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ELF",
+      "rank": 182,
+      "atr": 0.0386,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 12,
+      "atr": 0.0531,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LDO",
+      "rank": 78,
+      "atr": 0.0789,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0015,
+    "cum_pnl": 165.0799,
+    "leverage": 0.0301,
+    "atr": 0.0016,
+    "marketcap_pnt": 0.007,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "pnls": [
+    {
+      "name": "LEO",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0202,
+      "rank": 20,
+      "atr": 0.0231,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TRX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0138,
+      "rank": 14,
+      "atr": 0.0337,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "JASMY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ICP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BLUR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "RNDR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 20,
+      "atr": 0.0231,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRX",
+      "rank": 14,
+      "atr": 0.0337,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 60,
+      "atr": 0.0788,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0,
+    "cum_pnl": 0,
+    "leverage": 0.034,
+    "atr": 0.0009,
+    "marketcap_pnt": 0.0079,
+    "green_marketcap_pnt": 0
+  }
+}

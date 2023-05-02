@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": 0.0017,
+      "pnl_value": 0.0029,
+      "weight": 0.0095,
+      "rank": 120,
+      "atr": 0.0805,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0653,
+      "pnl_value": -0.1253,
+      "weight": 0.0104,
+      "rank": 50,
+      "atr": 0.0734,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CHZ",
+      "rank": 50,
+      "atr": 0.0734,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 120,
+      "atr": 0.0805,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 183.3163,
+    "leverage": 0.0199,
+    "atr": 0.0015,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "pnls": [
+    {
+      "name": "RVN",
+      "pnl": 0.3171,
+      "pnl_value": 0.4806,
+      "weight": 0.0082,
+      "rank": 75,
+      "atr": 0.0864,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.069,
+      "pnl_value": 0.1033,
+      "weight": 0.0081,
+      "rank": 180,
+      "atr": 0.0882,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEAR",
+      "pnl": 0.0404,
+      "pnl_value": 0.0665,
+      "weight": 0.0089,
+      "rank": 24,
+      "atr": 0.0799,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNX",
+      "pnl": -0.0019,
+      "pnl_value": -0.0056,
+      "weight": 0.0159,
+      "rank": 115,
+      "atr": 0.0448,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0105,
+      "pnl_value": -0.0196,
+      "weight": 0.0101,
+      "rank": 21,
+      "atr": 0.0703,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0124,
+      "pnl_value": -0.0259,
+      "weight": 0.0113,
+      "rank": 22,
+      "atr": 0.063,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": -0.0282,
+      "pnl_value": -0.0719,
+      "weight": 0.0138,
+      "rank": 69,
+      "atr": 0.0515,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0282,
+      "pnl_value": -0.0599,
+      "weight": 0.0115,
+      "rank": 2,
+      "atr": 0.0621,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.031,
+      "pnl_value": -0.0475,
+      "weight": 0.0083,
+      "rank": 37,
+      "atr": 0.0852,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0326,
+      "pnl_value": -0.044,
+      "weight": 0.0073,
+      "rank": 171,
+      "atr": 0.0977,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0336,
+      "pnl_value": -0.0646,
+      "weight": 0.0104,
+      "rank": 23,
+      "atr": 0.0686,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": -0.0395,
+      "pnl_value": -0.0605,
+      "weight": 0.0083,
+      "rank": 114,
+      "atr": 0.0855,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0468,
+      "pnl_value": -0.0978,
+      "weight": 0.0113,
+      "rank": 105,
+      "atr": 0.0632,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OP",
+      "pnl": -0.0963,
+      "pnl_value": -0.1032,
+      "weight": 0.0058,
+      "rank": 111,
+      "atr": 0.1216,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FLUX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNX",
+      "rank": 115,
+      "atr": 0.0448,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 69,
+      "atr": 0.0515,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0621,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 22,
+      "atr": 0.063,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 105,
+      "atr": 0.0632,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 23,
+      "atr": 0.0686,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 21,
+      "atr": 0.0703,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 24,
+      "atr": 0.0799,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 37,
+      "atr": 0.0852,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 114,
+      "atr": 0.0855,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 75,
+      "atr": 0.0864,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 180,
+      "atr": 0.0882,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 171,
+      "atr": 0.0977,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OP",
+      "rank": 111,
+      "atr": 0.1216,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 183.8981,
+    "leverage": 0.1392,
+    "atr": 0.01,
+    "marketcap_pnt": 0.2252,
+    "green_marketcap_pnt": 0
+  }
+}

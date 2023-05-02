@@ -1,0 +1,163 @@
+{
+  "pnls": [
+    {
+      "name": "FTM",
+      "pnl": 0.0425,
+      "pnl_value": 25.4911,
+      "weight": 0.01,
+      "rank": 63,
+      "atr": 0.0828,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RUNE",
+      "pnl": -0.0044,
+      "pnl_value": -2.8436,
+      "weight": 0.0109,
+      "rank": 72,
+      "atr": 0.0764,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RBN",
+      "pnl": -0.006,
+      "pnl_value": -2.5666,
+      "weight": 0.0071,
+      "rank": 145,
+      "atr": 0.1166,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "OKB",
+      "pnl": -0.0179,
+      "pnl_value": -18.0327,
+      "weight": 0.0168,
+      "rank": 35,
+      "atr": 0.0495,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TWT",
+      "pnl": -0.0383,
+      "pnl_value": -23.1985,
+      "weight": 0.0101,
+      "rank": 43,
+      "atr": 0.0821,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OP",
+      "pnl": -0.0392,
+      "pnl_value": -20.4421,
+      "weight": 0.0087,
+      "rank": 111,
+      "atr": 0.0952,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MASK",
+      "pnl": -0.0418,
+      "pnl_value": -17.0206,
+      "weight": 0.0068,
+      "rank": 108,
+      "atr": 0.1222,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SSV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OKB",
+      "rank": 35,
+      "atr": 0.0495,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 72,
+      "atr": 0.0764,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 43,
+      "atr": 0.0821,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 63,
+      "atr": 0.0828,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OP",
+      "rank": 111,
+      "atr": 0.0952,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RBN",
+      "rank": 145,
+      "atr": 0.1166,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MASK",
+      "rank": 108,
+      "atr": 0.1222,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 59856.8023,
+    "leverage": 0.0704,
+    "atr": 0.0058,
+    "marketcap_pnt": 0.0048,
+    "green_marketcap_pnt": 0
+  }
+}
