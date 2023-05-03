@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "MX",
+      "pnl": -0.0174,
+      "pnl_value": -26.7462,
+      "weight": 0.027,
+      "rank": 139,
+      "atr": 0.0533,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "JASMY",
+      "pnl": -0.0512,
+      "pnl_value": -55.9869,
+      "weight": 0.0192,
+      "rank": 110,
+      "atr": 0.075,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RNDR",
+      "pnl": -0.0762,
+      "pnl_value": -77.1912,
+      "weight": 0.0178,
+      "rank": 60,
+      "atr": 0.0809,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ICP",
+      "pnl": -0.0989,
+      "pnl_value": -117.6633,
+      "weight": 0.0209,
+      "rank": 25,
+      "atr": 0.0689,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BLUR",
+      "pnl": -0.1202,
+      "pnl_value": -102.6495,
+      "weight": 0.015,
+      "rank": 109,
+      "atr": 0.0955,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CRO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MX",
+      "rank": 139,
+      "atr": 0.0533,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICP",
+      "rank": 25,
+      "atr": 0.0689,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "JASMY",
+      "rank": 110,
+      "atr": 0.075,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 60,
+      "atr": 0.0809,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BLUR",
+      "rank": 109,
+      "atr": 0.0955,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0067,
+    "cum_pnl": 56566.225,
+    "leverage": 0.0999,
+    "atr": 0.0072,
+    "marketcap_pnt": 0.0038,
+    "green_marketcap_pnt": 0
+  }
+}

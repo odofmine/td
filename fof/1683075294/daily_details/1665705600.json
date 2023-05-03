@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "REEF",
+      "pnl": 0.0538,
+      "pnl_value": 0.0765,
+      "weight": 0.0079,
+      "rank": 172,
+      "atr": 0.0904,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QNT",
+      "pnl": 0.0324,
+      "pnl_value": 0.0653,
+      "weight": 0.0112,
+      "rank": 31,
+      "atr": 0.0641,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WOO",
+      "pnl": -0.0085,
+      "pnl_value": -0.0139,
+      "weight": 0.0091,
+      "rank": 146,
+      "atr": 0.0787,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0538,
+      "pnl_value": -0.1163,
+      "weight": 0.012,
+      "rank": 39,
+      "atr": 0.06,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HBAR",
+      "rank": 39,
+      "atr": 0.06,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 31,
+      "atr": 0.0641,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WOO",
+      "rank": 146,
+      "atr": 0.0787,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REEF",
+      "rank": 172,
+      "atr": 0.0904,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 179.017,
+    "leverage": 0.0402,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.0038,
+    "green_marketcap_pnt": 0
+  }
+}

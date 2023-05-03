@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.0462,
+      "pnl_value": 1.0018,
+      "weight": 0.1321,
+      "rank": 27,
+      "atr": 0.0461,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0195,
+      "pnl_value": -0.3719,
+      "weight": 0.116,
+      "rank": 6,
+      "atr": 0.0525,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SXP",
+      "pnl": -0.0454,
+      "pnl_value": -0.771,
+      "weight": 0.1036,
+      "rank": 182,
+      "atr": 0.0588,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0537,
+      "pnl_value": -0.6795,
+      "weight": 0.0771,
+      "rank": 58,
+      "atr": 0.079,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RPL",
+      "pnl": -0.0596,
+      "pnl_value": -0.6945,
+      "weight": 0.071,
+      "rank": 60,
+      "atr": 0.0858,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 27,
+      "atr": 0.0461,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0525,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SXP",
+      "rank": 182,
+      "atr": 0.0588,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 58,
+      "atr": 0.079,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RPL",
+      "rank": 60,
+      "atr": 0.0858,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0092,
+    "cum_pnl": 161.5867,
+    "leverage": 0.4998,
+    "atr": 0.0305,
+    "marketcap_pnt": 0.0234,
+    "green_marketcap_pnt": 0
+  }
+}
