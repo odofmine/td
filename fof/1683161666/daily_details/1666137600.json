@@ -1,0 +1,228 @@
+{
+  "pnls": [
+    {
+      "name": "TWT",
+      "pnl": 0.03,
+      "pnl_value": 0.0732,
+      "weight": 0.0135,
+      "rank": 76,
+      "atr": 0.0508,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.008,
+      "pnl_value": -0.0136,
+      "weight": 0.0094,
+      "rank": 136,
+      "atr": 0.0729,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0118,
+      "pnl_value": -0.0224,
+      "weight": 0.0105,
+      "rank": 50,
+      "atr": 0.0651,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0226,
+      "pnl_value": -0.051,
+      "weight": 0.0125,
+      "rank": 11,
+      "atr": 0.0548,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0343,
+      "pnl_value": -0.0589,
+      "weight": 0.0095,
+      "rank": 99,
+      "atr": 0.0722,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WOO",
+      "pnl": -0.0352,
+      "pnl_value": -0.063,
+      "weight": 0.0099,
+      "rank": 135,
+      "atr": 0.0691,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PYR",
+      "pnl": -0.0444,
+      "pnl_value": -0.057,
+      "weight": 0.0071,
+      "rank": 176,
+      "atr": 0.0954,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0541,
+      "pnl_value": -0.0773,
+      "weight": 0.0079,
+      "rank": 158,
+      "atr": 0.0862,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.062,
+      "pnl_value": -0.1121,
+      "weight": 0.01,
+      "rank": 29,
+      "atr": 0.0683,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REEF",
+      "pnl": -0.0626,
+      "pnl_value": -0.0997,
+      "weight": 0.0088,
+      "rank": 153,
+      "atr": 0.0776,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CKB",
+      "pnl": -0.066,
+      "pnl_value": -0.1183,
+      "weight": 0.0099,
+      "rank": 161,
+      "atr": 0.0691,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FXS",
+      "pnl": -0.0909,
+      "pnl_value": -0.1924,
+      "weight": 0.0117,
+      "rank": 184,
+      "atr": 0.0584,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TWT",
+      "rank": 76,
+      "atr": 0.0508,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 11,
+      "atr": 0.0548,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FXS",
+      "rank": 184,
+      "atr": 0.0584,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 50,
+      "atr": 0.0651,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 29,
+      "atr": 0.0683,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WOO",
+      "rank": 135,
+      "atr": 0.0691,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CKB",
+      "rank": 161,
+      "atr": 0.0691,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 99,
+      "atr": 0.0722,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 136,
+      "atr": 0.0729,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REEF",
+      "rank": 153,
+      "atr": 0.0776,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 158,
+      "atr": 0.0862,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PYR",
+      "rank": 176,
+      "atr": 0.0954,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0044,
+    "cum_pnl": 179.0976,
+    "leverage": 0.1207,
+    "atr": 0.0082,
+    "marketcap_pnt": 0.0132,
+    "green_marketcap_pnt": 0
+  }
+}

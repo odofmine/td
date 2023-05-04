@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "BAL",
+      "pnl": 0.0201,
+      "pnl_value": 9.4962,
+      "weight": 0.0075,
+      "rank": 121,
+      "atr": 0.0707,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NFT",
+      "pnl": 0.0161,
+      "pnl_value": 14.1436,
+      "weight": 0.0139,
+      "rank": 148,
+      "atr": 0.0382,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0002,
+      "pnl_value": -0.1306,
+      "weight": 0.0085,
+      "rank": 45,
+      "atr": 0.0626,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TWT",
+      "pnl": -0.0115,
+      "pnl_value": -8.3243,
+      "weight": 0.0115,
+      "rank": 76,
+      "atr": 0.0463,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0124,
+      "pnl_value": -7.0364,
+      "weight": 0.009,
+      "rank": 99,
+      "atr": 0.0592,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NFT",
+      "rank": 148,
+      "atr": 0.0382,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TWT",
+      "rank": 76,
+      "atr": 0.0463,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 99,
+      "atr": 0.0592,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 45,
+      "atr": 0.0626,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAL",
+      "rank": 121,
+      "atr": 0.0707,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 63093.7658,
+    "leverage": 0.0504,
+    "atr": 0.0027,
+    "marketcap_pnt": 0.0024,
+    "green_marketcap_pnt": 0
+  }
+}

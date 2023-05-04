@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.0769,
+      "pnl_value": 64.1471,
+      "weight": 0.013,
+      "rank": 7,
+      "atr": 0.0547,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "APE",
+      "pnl": -0.0235,
+      "pnl_value": -11.1653,
+      "weight": 0.0074,
+      "rank": 34,
+      "atr": 0.0956,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0513,
+      "pnl_value": -31.2882,
+      "weight": 0.0095,
+      "rank": 37,
+      "atr": 0.0749,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 7,
+      "atr": 0.0547,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 37,
+      "atr": 0.0749,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "APE",
+      "rank": 34,
+      "atr": 0.0956,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 64167.7547,
+    "leverage": 0.0299,
+    "atr": 0.0021,
+    "marketcap_pnt": 0.0226,
+    "green_marketcap_pnt": 0
+  }
+}

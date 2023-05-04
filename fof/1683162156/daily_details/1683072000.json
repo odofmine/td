@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "LEO",
+      "pnl": 0.0204,
+      "pnl_value": 20.0162,
+      "weight": 0.0173,
+      "rank": 20,
+      "atr": 0.0225,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TRX",
+      "pnl": 0.0006,
+      "pnl_value": 0.3794,
+      "weight": 0.0116,
+      "rank": 14,
+      "atr": 0.0336,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": -1.0,
+      "pnl_value": -311.2979,
+      "weight": 0.0055,
+      "rank": 181,
+      "atr": 0.0702,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 20,
+      "atr": 0.0225,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRX",
+      "rank": 14,
+      "atr": 0.0336,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 181,
+      "atr": 0.0702,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0051,
+    "cum_pnl": 56307.7093,
+    "leverage": 0.0344,
+    "atr": 0.0012,
+    "marketcap_pnt": 0.008,
+    "green_marketcap_pnt": 0
+  }
+}
