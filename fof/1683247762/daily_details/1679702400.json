@@ -1,0 +1,146 @@
+{
+  "pnls": [
+    {
+      "name": "CELR",
+      "pnl": 0.0521,
+      "pnl_value": 0.7849,
+      "weight": 0.0902,
+      "rank": 184,
+      "atr": 0.0758,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0397,
+      "pnl_value": 0.7903,
+      "weight": 0.1193,
+      "rank": 6,
+      "atr": 0.0573,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0193,
+      "pnl_value": 0.3402,
+      "weight": 0.1058,
+      "rank": 108,
+      "atr": 0.0646,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0148,
+      "pnl_value": -0.3515,
+      "weight": 0.1421,
+      "rank": 26,
+      "atr": 0.0481,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CKB",
+      "pnl": -0.0327,
+      "pnl_value": -0.3158,
+      "weight": 0.0579,
+      "rank": 168,
+      "atr": 0.118,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.1427,
+      "pnl_value": -2.0128,
+      "weight": 0.0845,
+      "rank": 196,
+      "atr": 0.0809,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 26,
+      "atr": 0.0481,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0573,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 108,
+      "atr": 0.0646,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 184,
+      "atr": 0.0758,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 196,
+      "atr": 0.0809,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CKB",
+      "rank": 168,
+      "atr": 0.118,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0046,
+    "cum_pnl": 165.2141,
+    "leverage": 0.5998,
+    "atr": 0.041,
+    "marketcap_pnt": 0.0197,
+    "green_marketcap_pnt": 0
+  }
+}

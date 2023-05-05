@@ -1,0 +1,286 @@
+{
+  "pnls": [
+    {
+      "name": "BAT",
+      "pnl": 0.0512,
+      "pnl_value": 98.9538,
+      "weight": 0.0311,
+      "rank": 96,
+      "atr": 0.0722,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STORJ",
+      "pnl": 0.0324,
+      "pnl_value": 61.0314,
+      "weight": 0.0303,
+      "rank": 179,
+      "atr": 0.074,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0202,
+      "pnl_value": 70.97,
+      "weight": 0.0564,
+      "rank": 2,
+      "atr": 0.0398,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZIL",
+      "pnl": 0.0202,
+      "pnl_value": 35.9726,
+      "weight": 0.0287,
+      "rank": 85,
+      "atr": 0.0781,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOST",
+      "pnl": 0.0198,
+      "pnl_value": 51.2756,
+      "weight": 0.0416,
+      "rank": 159,
+      "atr": 0.054,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.0142,
+      "pnl_value": 30.7266,
+      "weight": 0.0349,
+      "rank": 132,
+      "atr": 0.0643,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": 0.0121,
+      "pnl_value": 19.0698,
+      "weight": 0.0254,
+      "rank": 102,
+      "atr": 0.0883,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0027,
+      "pnl_value": 6.6851,
+      "weight": 0.0392,
+      "rank": 48,
+      "atr": 0.0572,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.005,
+      "pnl_value": -12.3916,
+      "weight": 0.0401,
+      "rank": 12,
+      "atr": 0.0559,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ACH",
+      "pnl": -0.0106,
+      "pnl_value": -13.2452,
+      "weight": 0.0201,
+      "rank": 175,
+      "atr": 0.1115,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOTX",
+      "pnl": -0.0119,
+      "pnl_value": -24.8681,
+      "weight": 0.0336,
+      "rank": 137,
+      "atr": 0.0668,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.023,
+      "pnl_value": -37.8296,
+      "weight": 0.0264,
+      "rank": 135,
+      "atr": 0.0848,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0265,
+      "pnl_value": -58.5923,
+      "weight": 0.0356,
+      "rank": 8,
+      "atr": 0.063,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0345,
+      "pnl_value": -62.0869,
+      "weight": 0.0289,
+      "rank": 140,
+      "atr": 0.0776,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.0412,
+      "pnl_value": -68.0759,
+      "weight": 0.0266,
+      "rank": 116,
+      "atr": 0.0843,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SXP",
+      "pnl": -0.0974,
+      "pnl_value": -203.528,
+      "weight": 0.0336,
+      "rank": 98,
+      "atr": 0.0667,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0398,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 159,
+      "atr": 0.054,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 12,
+      "atr": 0.0559,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 48,
+      "atr": 0.0572,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 8,
+      "atr": 0.063,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 132,
+      "atr": 0.0643,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SXP",
+      "rank": 98,
+      "atr": 0.0667,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 137,
+      "atr": 0.0668,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 96,
+      "atr": 0.0722,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 179,
+      "atr": 0.074,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 140,
+      "atr": 0.0776,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 85,
+      "atr": 0.0781,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 116,
+      "atr": 0.0843,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 135,
+      "atr": 0.0848,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 102,
+      "atr": 0.0883,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ACH",
+      "rank": 175,
+      "atr": 0.1115,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0017,
+    "cum_pnl": 62082.6944,
+    "leverage": 0.5325,
+    "atr": 0.0359,
+    "marketcap_pnt": 0.2063,
+    "green_marketcap_pnt": 0
+  }
+}

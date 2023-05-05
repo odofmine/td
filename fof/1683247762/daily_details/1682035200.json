@@ -1,0 +1,88 @@
+{
+  "pnls": [
+    {
+      "name": "CELR",
+      "pnl": -0.0117,
+      "pnl_value": -0.0604,
+      "weight": 0.0318,
+      "rank": 167,
+      "atr": 0.0889,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CTSI",
+      "pnl": -0.1345,
+      "pnl_value": -0.7587,
+      "weight": 0.0348,
+      "rank": 168,
+      "atr": 0.0813,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RNDR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ICP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZIL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HOT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CTSI",
+      "rank": 168,
+      "atr": 0.0813,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 167,
+      "atr": 0.0889,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0051,
+    "cum_pnl": 160.3198,
+    "leverage": 0.0666,
+    "atr": 0.0057,
+    "marketcap_pnt": 0.0003,
+    "green_marketcap_pnt": 0
+  }
+}

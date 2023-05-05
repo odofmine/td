@@ -1,0 +1,976 @@
+{
+  "pnls": [
+    {
+      "name": "VET",
+      "pnl": 0.0558,
+      "pnl_value": 0.133,
+      "weight": 0.0127,
+      "rank": 35,
+      "atr": 0.0742,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KDA",
+      "pnl": 0.0543,
+      "pnl_value": 0.0847,
+      "weight": 0.0083,
+      "rank": 102,
+      "atr": 0.1133,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NMR",
+      "pnl": 0.0374,
+      "pnl_value": 0.0456,
+      "weight": 0.0065,
+      "rank": 173,
+      "atr": 0.145,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RNDR",
+      "pnl": 0.0307,
+      "pnl_value": 0.0391,
+      "weight": 0.0068,
+      "rank": 148,
+      "atr": 0.1386,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SKL",
+      "pnl": 0.0086,
+      "pnl_value": 0.0126,
+      "weight": 0.0078,
+      "rank": 136,
+      "atr": 0.121,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RVN",
+      "pnl": 0.0075,
+      "pnl_value": 0.0148,
+      "weight": 0.0105,
+      "rank": 98,
+      "atr": 0.0899,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELR",
+      "pnl": 0.0074,
+      "pnl_value": 0.0117,
+      "weight": 0.0084,
+      "rank": 162,
+      "atr": 0.1127,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": 0.0059,
+      "pnl_value": 0.0107,
+      "weight": 0.0096,
+      "rank": 84,
+      "atr": 0.0982,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HIVE",
+      "pnl": 0.0029,
+      "pnl_value": 0.0042,
+      "weight": 0.0078,
+      "rank": 113,
+      "atr": 0.1204,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XNO",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0108,
+      "rank": 168,
+      "atr": 0.0877,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.0003,
+      "pnl_value": -0.0006,
+      "weight": 0.0106,
+      "rank": 114,
+      "atr": 0.0887,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.0025,
+      "pnl_value": -0.0047,
+      "weight": 0.0101,
+      "rank": 93,
+      "atr": 0.0934,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": -0.0094,
+      "pnl_value": -0.0187,
+      "weight": 0.0106,
+      "rank": 115,
+      "atr": 0.0893,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0108,
+      "pnl_value": -0.0224,
+      "weight": 0.011,
+      "rank": 134,
+      "atr": 0.0856,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICP",
+      "pnl": -0.0125,
+      "pnl_value": -0.0217,
+      "weight": 0.0092,
+      "rank": 32,
+      "atr": 0.1029,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FIL",
+      "pnl": -0.0146,
+      "pnl_value": -0.0267,
+      "weight": 0.0097,
+      "rank": 30,
+      "atr": 0.0973,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0162,
+      "pnl_value": -0.0328,
+      "weight": 0.0108,
+      "rank": 62,
+      "atr": 0.0874,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WIN",
+      "pnl": -0.0179,
+      "pnl_value": -0.0434,
+      "weight": 0.0129,
+      "rank": 178,
+      "atr": 0.0734,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONG",
+      "pnl": -0.0198,
+      "pnl_value": -0.0428,
+      "weight": 0.0115,
+      "rank": 170,
+      "atr": 0.0822,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COTI",
+      "pnl": -0.0238,
+      "pnl_value": -0.0451,
+      "weight": 0.0101,
+      "rank": 186,
+      "atr": 0.0934,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FLUX",
+      "pnl": -0.024,
+      "pnl_value": -0.0409,
+      "weight": 0.0091,
+      "rank": 160,
+      "atr": 0.1034,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "JST",
+      "pnl": -0.0269,
+      "pnl_value": -0.0615,
+      "weight": 0.0122,
+      "rank": 122,
+      "atr": 0.0776,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PEOPLE",
+      "pnl": -0.0278,
+      "pnl_value": -0.049,
+      "weight": 0.0094,
+      "rank": 153,
+      "atr": 0.0998,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAXP",
+      "pnl": -0.0449,
+      "pnl_value": -0.0945,
+      "weight": 0.0112,
+      "rank": 135,
+      "atr": 0.0842,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": -0.0611,
+      "pnl_value": -0.1125,
+      "weight": 0.0098,
+      "rank": 88,
+      "atr": 0.0965,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.0761,
+      "pnl_value": -0.1659,
+      "weight": 0.0116,
+      "rank": 159,
+      "atr": 0.0814,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CKB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CAKE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MINA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LPT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SYS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IMX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DOT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AAVE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AXS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "1INCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DGB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FXS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DENT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOTX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HOT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "POLY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SXP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KLAY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OMG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KNC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WOO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XTZ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XEM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MANA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ENJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GRT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BAL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HBAR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ONT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WAVES",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CELO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DYDX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FLOW",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PLA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GALA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WIN",
+      "rank": 178,
+      "atr": 0.0734,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 35,
+      "atr": 0.0742,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "JST",
+      "rank": 122,
+      "atr": 0.0776,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 159,
+      "atr": 0.0814,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONG",
+      "rank": 170,
+      "atr": 0.0822,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAXP",
+      "rank": 135,
+      "atr": 0.0842,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 134,
+      "atr": 0.0856,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 62,
+      "atr": 0.0874,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XNO",
+      "rank": 168,
+      "atr": 0.0877,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 114,
+      "atr": 0.0887,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 115,
+      "atr": 0.0893,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 98,
+      "atr": 0.0899,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 93,
+      "atr": 0.0934,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COTI",
+      "rank": 186,
+      "atr": 0.0934,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 88,
+      "atr": 0.0965,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FIL",
+      "rank": 30,
+      "atr": 0.0973,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 84,
+      "atr": 0.0982,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PEOPLE",
+      "rank": 153,
+      "atr": 0.0998,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICP",
+      "rank": 32,
+      "atr": 0.1029,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FLUX",
+      "rank": 160,
+      "atr": 0.1034,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 162,
+      "atr": 0.1127,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KDA",
+      "rank": 102,
+      "atr": 0.1133,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HIVE",
+      "rank": 113,
+      "atr": 0.1204,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SKL",
+      "rank": 136,
+      "atr": 0.121,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RNDR",
+      "rank": 148,
+      "atr": 0.1386,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NMR",
+      "rank": 173,
+      "atr": 0.145,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0023,
+    "cum_pnl": 186.3639,
+    "leverage": 0.259,
+    "atr": 0.0245,
+    "marketcap_pnt": 0.0118,
+    "green_marketcap_pnt": 0
+  }
+}
