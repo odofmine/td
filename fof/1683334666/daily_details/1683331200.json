@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "TRX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0154,
+      "rank": 14,
+      "atr": 0.0313,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.01,
+      "rank": 139,
+      "atr": 0.0481,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UMA",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0081,
+      "rank": 192,
+      "atr": 0.0592,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "JASMY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TRX",
+      "rank": 14,
+      "atr": 0.0313,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MX",
+      "rank": 139,
+      "atr": 0.0481,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UMA",
+      "rank": 192,
+      "atr": 0.0592,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "JASMY",
+      "rank": 110,
+      "atr": 0.0679,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0,
+    "cum_pnl": 0,
+    "leverage": 0.0335,
+    "atr": 0.0014,
+    "marketcap_pnt": 0.0055,
+    "green_marketcap_pnt": 0
+  }
+}

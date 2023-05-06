@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "MX",
+      "pnl": 0.0939,
+      "pnl_value": 51.0165,
+      "weight": 0.0096,
+      "rank": 139,
+      "atr": 0.0493,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TRX",
+      "pnl": 0.0223,
+      "pnl_value": 18.5528,
+      "weight": 0.0147,
+      "rank": 14,
+      "atr": 0.0322,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "JASMY",
+      "pnl": -1.0,
+      "pnl_value": -378.9946,
+      "weight": 0.0067,
+      "rank": 110,
+      "atr": 0.0701,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "RPL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TRX",
+      "rank": 14,
+      "atr": 0.0322,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MX",
+      "rank": 139,
+      "atr": 0.0493,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "JASMY",
+      "rank": 110,
+      "atr": 0.0701,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0055,
+    "cum_pnl": 56255.9337,
+    "leverage": 0.031,
+    "atr": 0.0014,
+    "marketcap_pnt": 0.0056,
+    "green_marketcap_pnt": 0
+  }
+}
