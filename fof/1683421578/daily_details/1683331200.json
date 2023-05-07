@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "TRX",
+      "pnl": -0.0092,
+      "pnl_value": -8.856,
+      "weight": 0.0172,
+      "rank": 14,
+      "atr": 0.0313,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MX",
+      "pnl": -0.0126,
+      "pnl_value": -7.9241,
+      "weight": 0.0112,
+      "rank": 139,
+      "atr": 0.0481,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FLOKI",
+      "pnl": -0.1641,
+      "pnl_value": -48.9269,
+      "weight": 0.0053,
+      "rank": 105,
+      "atr": 0.1009,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "UMA",
+      "pnl": -1.0,
+      "pnl_value": -511.9381,
+      "weight": 0.0091,
+      "rank": 192,
+      "atr": 0.0592,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "JASMY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TRX",
+      "rank": 14,
+      "atr": 0.0313,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MX",
+      "rank": 139,
+      "atr": 0.0481,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UMA",
+      "rank": 192,
+      "atr": 0.0592,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "JASMY",
+      "rank": 110,
+      "atr": 0.0679,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FLOKI",
+      "rank": 105,
+      "atr": 0.1009,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0103,
+    "cum_pnl": 55678.2887,
+    "leverage": 0.0428,
+    "atr": 0.0022,
+    "marketcap_pnt": 0.0057,
+    "green_marketcap_pnt": 0
+  }
+}
